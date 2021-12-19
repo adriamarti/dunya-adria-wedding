@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Helmet } from "react-helmet";
-import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
+// import Footer from "../components/Footer";
+// import Navbar from "../components/Navbar";
 import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
@@ -14,6 +14,11 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap"
+        />
 
         <link
           rel="apple-touch-icon"
@@ -48,9 +53,9 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix("/")}img/og-image.jpg`}
         />
       </Helmet>
-      <Navbar />
+      {/* <Navbar /> */}
       <div>{children}</div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
