@@ -35,7 +35,7 @@ const Confirmation = ({ button }) => {
     try {
       await axios.post(
         "https://script.google.com/macros/s/AKfycbwHz3ey1KnaHegZknXWBgM0JPnmYkl0EOA5hZAjh_wMsC50WERnsA5GoyFTPrXZf4DYUg/exec",
-        data
+        new FormData(data)
       );
       setConfirmationSuccess(true);
     } catch (err) {
