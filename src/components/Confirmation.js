@@ -102,7 +102,7 @@ const Confirmation = ({ button }) => {
         </DialogTitle>
         <DialogContent>
           {confirmationSuccess && (
-            <Alert severity="success">
+            <Alert severity="success" sx={{ margin: "20px 0 20px 0" }}>
               <AlertTitle>Invitación confirmada</AlertTitle>
               Muchas gracias por confirmar tu presencia en nuestra boda.{" "}
               <strong>
@@ -112,7 +112,7 @@ const Confirmation = ({ button }) => {
             </Alert>
           )}
           {confirmationError && (
-            <Alert severity="error">
+            <Alert severity="error" sx={{ margin: "20px 0 20px 0" }}>
               <AlertTitle>Error en la confirmaciñon</AlertTitle>
               Ups, algo fué mal.{" "}
               <strong>
