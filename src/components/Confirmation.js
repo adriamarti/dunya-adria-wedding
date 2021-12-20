@@ -1,5 +1,6 @@
 import * as React from "react";
 import PropTypes from "prop-types";
+import axios from "axios";
 import { StaticImage } from "gatsby-plugin-image";
 
 import { Form, Formik, Field } from "formik";
@@ -8,16 +9,19 @@ import {
   Button,
   Box,
   Dialog,
-  DialogActions,
   DialogContent,
   DialogContentText,
   DialogTitle,
   TextField,
   Stack,
+  Alert,
+  AlertTitle,
 } from "@mui/material";
 
 const Confirmation = ({ button }) => {
   const [open, setOpen] = React.useState(false);
+  const [confirmationError, setConfirmationError] = React.useState(false);
+  const [confirmationSuccess, setConfirmationSuccess] = React.useState(false);
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -27,8 +31,17 @@ const Confirmation = ({ button }) => {
     setOpen(false);
   };
 
-  const handleSubmitForm = (data) => {
-    console.log(data);
+  const handleSubmitForm = async (data) => {
+    try {
+      await axios.post(
+        "https://script.google.com/macros/s/AKfycbwHz3ey1KnaHegZknXWBgM0JPnmYkl0EOA5hZAjh_wMsC50WERnsA5GoyFTPrXZf4DYUg/exec",
+        data
+      );
+      setConfirmationSuccess(true);
+    } catch (err) {
+      setConfirmationError(true);
+      console.log(err);
+    }
   };
 
   return (
@@ -52,6 +65,8 @@ const Confirmation = ({ button }) => {
         {button}
       </Button>
       <Dialog
+        fullWidth
+        maxWidth="sm"
         open={open}
         onClose={handleClose}
         sx={{
@@ -76,84 +91,110 @@ const Confirmation = ({ button }) => {
             },
           }}
         >
-          <StaticImage src="../img/modal-bg.png" placeholder="none" />
+          <StaticImage
+            src="../img/modal-bg.png"
+            placeholder="none"
+            alt="flowers"
+          />
         </Box>
         <DialogTitle sx={{ textAlign: "center" }}>
           Confirma tu asistencia
         </DialogTitle>
         <DialogContent>
-          <DialogContentText sx={{ textAlign: "center", marginBottom: "40px" }}>
-            Necesitamos recibir confirmaciones antes del 20 de mayo del 2021
-            para poder organizar el evento y que no falte de nada!
-          </DialogContentText>
-          <Formik
-            initialValues={{ names: "", info: "" }}
-            validationSchema={object({
-              names: string().required("Este campo es obligatorio"),
-              info: string(),
-            })}
-            onSubmit={handleSubmitForm}
-          >
-            {({ errors, isValid, touched, setFieldValue }) => (
-              <Form>
-                <Stack direction="column" spacing={2}>
-                  <Field
-                    error={
-                      errors.liquidityCap && touched.liquidityCap ? true : false
-                    }
-                    name="names"
-                    as={TextField}
-                    label="Name(s)"
-                    isRequired
-                    helperText={
-                      errors.names && touched.names
-                        ? errors.names
-                        : "Separa los nombres por comas en caso de ser más de un invitado."
-                    }
-                    fullWidth
-                    onChange={({ target }) =>
-                      setFieldValue("names", target.value, true)
-                    }
-                  />
-                  <Field
-                    error={
-                      errors.liquidityCap && touched.liquidityCap ? true : false
-                    }
-                    name="info"
-                    as={TextField}
-                    label="Información adicional"
-                    isRequired
-                    helperText="¿Hay algo que debamos saber de cara al menú?"
-                    fullWidth
-                    onChange={({ target }) =>
-                      setFieldValue("info", target.value, true)
-                    }
-                  />
-                </Stack>
-                <DialogActions>
-                  <Button
-                    onClick={handleClose}
-                    variant="contained"
-                    size="large"
-                    sx={{
-                      marginTop: "20px",
-                      backgroundColor: "#000000",
-                      color: "#ffffff",
-                      border: "1px solid #000000",
-                      borderRadius: "20px",
-                      "&:hover": {
-                        backgroundColor: "#ffffff",
-                        color: "#000000",
-                        border: "1px solid #000000",
-                      },
-                    }}
-                  >
-                    {button}
-                  </Button>
-                </DialogActions>
-              </Form>
-            )}
-          </Formik>
+          {confirmationSuccess && (
+            <Alert severity="success">
+              <AlertTitle>Invitación confirmada</AlertTitle>
+              Muchas gracias por confirmar tu presencia en nuestra boda.{" "}
+              <strong>
+                No olvides revisar la web de vez en cuando para estar al día de
+                las cosas que vayamos publicando.
+              </strong>
+            </Alert>
+          )}
+          {confirmationError && (
+            <Alert severity="error">
+              <AlertTitle>Error en la confirmaciñon</AlertTitle>
+              Ups, algo fué mal.{" "}
+              <strong>
+                Ponte en contacto con Dunyazath o Adrià y no te preocupes que te
+                guardamos sitio sin falta. No olvides revisar la web de vez en
+                cuando para estar al día de las cosas que vayamos publicando.
+              </strong>
+            </Alert>
+          )}
+          {!confirmationError && !confirmationSuccess && (
+            <>
+              <DialogContentText
+                sx={{ textAlign: "center", marginBottom: "40px" }}
+              >
+                Necesitamos recibir confirmaciones antes del 20 de mayo del 2021
+                para poder organizar el evento y que no falte de nada!
+              </DialogContentText>
+              <Formik
+                initialValues={{ names: "", info: "" }}
+                validationSchema={object({
+                  names: string().required("Este campo es obligatorio"),
+                  info: string(),
+                })}
+                onSubmit={handleSubmitForm}
+              >
+                {({ errors, touched, setFieldValue }) => (
+                  <Form>
+                    <Stack direction="column" spacing={2}>
+                      <Field
+                        error={errors.names ? true : false}
+                        name="names"
+                        as={TextField}
+                        label="Nombre(s)"
+                        helperText={
+                          errors.names && touched.names
+                            ? errors.names
+                            : "Separa los nombres por comas en caso de ser más de un invitado."
+                        }
+                        fullWidth
+                        onChange={({ target }) =>
+                          setFieldValue("names", target.value, true)
+                        }
+                      />
+                      <Field
+                        name="Info"
+                        as={TextField}
+                        multiline
+                        rows={4}
+                        label="Información adicional"
+                        helperText="¿Hay algo que debamos saber de cara al menú?"
+                        fullWidth
+                        onChange={({ target }) =>
+                          setFieldValue("info", target.value, true)
+                        }
+                      />
+                    </Stack>
+                    <Stack alignItems="center" sx={{ padding: "0" }}>
+                      <Button
+                        type="submit"
+                        variant="contained"
+                        size="large"
+                        sx={{
+                          marginTop: "20px",
+                          backgroundColor: "#000000",
+                          color: "#ffffff",
+                          border: "1px solid #000000",
+                          borderRadius: "20px",
+                          "&:hover": {
+                            backgroundColor: "#ffffff",
+                            color: "#000000",
+                            border: "1px solid #000000",
+                          },
+                        }}
+                      >
+                        {button}
+                      </Button>
+                    </Stack>
+                  </Form>
+                )}
+              </Formik>
+            </>
+          )}
         </DialogContent>
       </Dialog>
     </>
