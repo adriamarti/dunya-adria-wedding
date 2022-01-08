@@ -2,7 +2,10 @@
 templateKey: index-page
 heading: ¡Nos casamos!
 paragraph: >
-  Vamos a escribir un nuevo capítulo en nuestras vidas y nos encantaría que formes parte de él. Estamos organizando una fiesta para celebrar juntos este día tan importante en nuestras vidas y necesitamos a nuestra familia y amigos para convertirlo en algo mágico.
+  Nos encantaría contar con tu presencia en el día más importante de nuestras
+  vidas.
+
+  La misa tendrá lugar en la Parroquia de La Sagrada Familia (C. Puebla 144), a las 17:00 hrs., y la celebración en el Ex-Convento de San Hipólito (Av. Hidalgo 107), a las 18:30 hrs.
 when:
   label: FECHA
   value: 5 de agosto del 2022
@@ -10,6 +13,5 @@ where:
   label: LUGAR
   value: Ciudad de México
 confirmButton: Confirmar asistencia
-note: >
-  * No te despistes y consultando esta web pues vamos a estar actualizándola con detalles del event, recomendaciones de la ciudad y otras cosas. ¡Qué emoción!
+note: Recuerda que el código de vestimenta es de etiqueta.
 ---
