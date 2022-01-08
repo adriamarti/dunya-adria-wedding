@@ -17,11 +17,13 @@ import {
   Alert,
   AlertTitle,
 } from "@mui/material";
+import { LoadingButton } from "@mui/lab";
 
 const Confirmation = ({ button }) => {
   const [open, setOpen] = React.useState(false);
   const [confirmationError, setConfirmationError] = React.useState(false);
   const [confirmationSuccess, setConfirmationSuccess] = React.useState(false);
+  const [loading, setLoading] = React.useState(false);
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -32,15 +34,12 @@ const Confirmation = ({ button }) => {
   };
 
   const handleSubmitForm = async (data) => {
+    setLoading(true);
     try {
-      await axios.post(
-        "https://script.google.com/macros/s/AKfycbwHz3ey1KnaHegZknXWBgM0JPnmYkl0EOA5hZAjh_wMsC50WERnsA5GoyFTPrXZf4DYUg/exec",
-        new FormData(data)
-      );
+      await axios.post("https://sheetdb.io/api/v1/7a2rjog0wf3da", data);
       setConfirmationSuccess(true);
     } catch (err) {
       setConfirmationError(true);
-      console.log(err);
     }
   };
 
@@ -113,7 +112,7 @@ const Confirmation = ({ button }) => {
           )}
           {confirmationError && (
             <Alert severity="error" sx={{ margin: "20px 0 20px 0" }}>
-              <AlertTitle>Error en la confirmaciñon</AlertTitle>
+              <AlertTitle>Error en la confirmación</AlertTitle>
               Ups, algo fué mal.{" "}
               <strong>
                 Ponte en contacto con Dunya o Adrià y no te preocupes que te
@@ -131,10 +130,10 @@ const Confirmation = ({ button }) => {
                 2022 para poder organizar el evento y que no falte de nada!
               </DialogContentText>
               <Formik
-                initialValues={{ names: "", info: "" }}
+                initialValues={{ Names: "", Info: "" }}
                 validationSchema={object({
-                  names: string().required("Este campo es obligatorio"),
-                  info: string(),
+                  Names: string().required("Este campo es obligatorio"),
+                  Info: string(),
                 })}
                 onSubmit={handleSubmitForm}
               >
@@ -143,7 +142,7 @@ const Confirmation = ({ button }) => {
                     <Stack direction="column" spacing={2}>
                       <Field
                         error={errors.names ? true : false}
-                        name="names"
+                        name="Names"
                         as={TextField}
                         label="Nombre(s)"
                         helperText={
@@ -153,7 +152,7 @@ const Confirmation = ({ button }) => {
                         }
                         fullWidth
                         onChange={({ target }) =>
-                          setFieldValue("names", target.value, true)
+                          setFieldValue("Names", target.value, true)
                         }
                       />
                       <Field
@@ -165,15 +164,16 @@ const Confirmation = ({ button }) => {
                         helperText="¿Hay algo que debamos saber de cara al menú?"
                         fullWidth
                         onChange={({ target }) =>
-                          setFieldValue("info", target.value, true)
+                          setFieldValue("Info", target.value, true)
                         }
                       />
                     </Stack>
                     <Stack alignItems="center" sx={{ padding: "0" }}>
-                      <Button
+                      <LoadingButton
                         type="submit"
                         variant="contained"
                         size="large"
+                        loading={loading}
                         sx={{
                           marginTop: "20px",
                           backgroundColor: "#000000",
@@ -188,7 +188,7 @@ const Confirmation = ({ button }) => {
                         }}
                       >
                         {button}
-                      </Button>
+                      </LoadingButton>
                     </Stack>
                   </Form>
                 )}
