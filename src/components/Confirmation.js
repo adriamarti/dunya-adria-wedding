@@ -104,7 +104,7 @@ const Confirmation = ({ button }) => {
           {confirmationSuccess && (
             <Alert severity="success" sx={{ margin: "20px 0 20px 0" }}>
               <AlertTitle>Invitación confirmada</AlertTitle>
-              Muchas gracias por confirmar tu presencia en nuestra boda.{" "}
+              Muchas gracias por confirmar tu asistencia.{" "}
               <strong>
                 No olvides revisar la web de vez en cuando para estar al día de
                 las cosas que vayamos publicando.
@@ -116,7 +116,7 @@ const Confirmation = ({ button }) => {
               <AlertTitle>Error en la confirmaciñon</AlertTitle>
               Ups, algo fué mal.{" "}
               <strong>
-                Ponte en contacto con Dunyazath o Adrià y no te preocupes que te
+                Ponte en contacto con Dunya o Adrià y no te preocupes que te
                 guardamos sitio sin falta. No olvides revisar la web de vez en
                 cuando para estar al día de las cosas que vayamos publicando.
               </strong>
@@ -127,8 +127,8 @@ const Confirmation = ({ button }) => {
               <DialogContentText
                 sx={{ textAlign: "center", marginBottom: "40px" }}
               >
-                Necesitamos recibir confirmaciones antes del 20 de mayo del 2021
-                para poder organizar el evento y que no falte de nada!
+                ¡Necesitamos recibir confirmaciones antes del 30 de mayo del
+                2022 para poder organizar el evento y que no falte de nada!
               </DialogContentText>
               <Formik
                 initialValues={{ names: "", info: "" }}
