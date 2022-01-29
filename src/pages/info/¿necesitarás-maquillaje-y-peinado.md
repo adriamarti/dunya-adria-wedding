@@ -17,5 +17,5 @@ content: >-
   Código de promoción: mencionen que su código es "Boda D y A", para que las identifique como parte de nuestro evento, y pueda darles un descuento a su precio habitual, si se reúnen 6 personas o más. 
 
 
-  Dejamos también su página de Facebook: <https://www.facebook.com/charlyjalpamaquillistaprofesional/>
+  Más info en su [página de Facebook](https://www.facebook.com/charlyjalpamaquillistaprofesional/)[](https://www.facebook.com/charlyjalpamaquillistaprofesional/)
 ---
