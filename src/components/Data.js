@@ -1,37 +1,32 @@
-import * as React from "react";
-import PropTypes from "prop-types";
+import * as React from 'react';
+import PropTypes from 'prop-types';
 
-import { Stack, Typography } from "@mui/material";
+import Paragraph from './Paragraph';
+import { Stack } from '@mui/material';
 
 const Data = ({ label, value, color }) => (
   <Stack
-    direction="column"
+    direction='column'
     spacing={0}
-    alignItems={{ xs: "center", sm: "center", md: "flex-start" }}
+    alignItems={{ xs: 'center', sm: 'center', md: 'flex-start' }}
   >
-    <Typography
-      variant="body1"
-      component="span"
-      sx={{ fontWeight: "900", color }}
-    >
+    <Paragraph variant='body1' sx={{ fontWeight: '900', color: '#e27c6e' }}>
       {label}
-    </Typography>
-    <Typography
-      variant="h4"
-      component="span"
+    </Paragraph>
+    <Paragraph
+      variant='h5'
+      component='span'
       sx={{
-        fontWeight: "100",
-        color,
-        textAlign: { xs: "center", sm: "center", md: "left" },
+        textAlign: { xs: 'center', sm: 'center', md: 'left', color },
       }}
     >
       {value}
-    </Typography>
+    </Paragraph>
   </Stack>
 );
 
 Data.defaultProps = {
-  color: "#000000",
+  color: '#000000',
 };
 
 Data.propTypes = {

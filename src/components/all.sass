@@ -10,131 +10,182 @@ $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
 
-.navbar .navbar-menu
-  box-shadow: none !important
+// Common styles
 
-.content .taglist
-  list-style: none
-  margin-bottom: 0
-  margin-left: 0
-  margin-right: 1.5rem
-  margin-top: 1.5rem
-  display: flex
-  flex-wrap: wrap
-  justify-content: left
-  align-items: center
-  li
-    padding: 0 2rem 1rem 0
-    margin-bottom: 1.5rem
-    margin-top: 0
+.abril
+  font-family: 'Abril Fatface', cursive
+.roboto
+  font-family: 'Roboto', sans-serif
 
-// Helper Classes
-.full-width-image-container
-  width: 100vw
-  height: 400px
-  position: relative
-  left: 50%
-  right: 50%
-  margin: 2em -50vw
-  background-size: cover
-  background-position: bottom
-  display: flex
-  justify-content: center
-  align-items: center
+// Cover Section
 
-.full-width-image
-    width: 100vw
-    height: 400px
-    background-size: cover
-    background-position: bottom
+.cover
+  padding: 40px
+  background-color: #000000
+  color: #ffffff
+
+  h1
+    font-size: 56px
+  p
+    font-size: 16px
+    margin-bottom: 20px
+    line-height: 24px
+    
+  button
+    background-color: #e27c6e
+    height: 44px
+    font-size: 15px
+    color: #ffffff
+    border-radius: 22px
+    padding: 10px 20px
+    border: 1px solid #e27c6e
+    margin-top: 20px
+    margin-bottom: 40px
+  
+  .data
     display: flex
-    justify-content: center
-    align-items: center
+    flex-direction: column
+    margin-bottom: 20px
 
-.btn
-    display: inline-block
-    padding: 12px 16px 10px
-    font-size: 18px
-    font-size: 1rem
-    line-height: 1.25
-    background-color: #fff
-    border-radius: .25rem
+  .data__label
+    color: #e27c6e
+    font-weight: 900
+    font-size: 16px
+
+  .data__value
+    color: #ffffff
+    font-weight: 500
+    font-size: 24px
+
+  .info
+    display: flex
+    flex-direction: row
+    margin-bottom: 20px
+
+    svg
+      fill: #ffffff
+      width: 20px
+      margin-right: 10px
+
+// Ceremony and Celebration Section
+
+.section
+  padding: 40px
+  background-color: #ffffff
+  color: #000000
+
+  .info__posts
+    padding-top: 20px
+    margin-bottom: 40px
+
+  .info__post__wrapper
+    display: flex
+    flex-direction: row
+
+  .info__post
+    padding-left: 20px
+    display: flex
+    flex-direction: column
+    margin-bottom: 30px
+
+    h5
+      margin: 0 0 5px 0
+      font-size: 20px
+
+    p
+      font-size: 16px 
+
+
+  .details__wrapper
+    padding: 40px
+    background-color: rgba(245,245,245)
+
+  h2
+    font-size: 48px
+    margin-bottom: 30px
+  h4
+    font-size: 24px
+    color: #e27c6e
+    margin-bottom: 10px
+  p
+    font-size: 16px
+    margin-bottom: 20px
+    line-height: 24px
+  a
+    color: #e27c6e
     text-decoration: none
-    font-weight: 700
-    color: #CC3700
-    text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
-    -webkit-transition: all .15s ease
-    transition: all .15s ease
 
-.margin-top-0
-  margin-top: 0 !important
+// More info Section
 
-.navbar-item .icon
-  color: $primary
-// Override for use of svg's from https://simpleicons.org/
-.icon svg
-  width: 1.5rem
-  height: 1.5rem
-  fill: currentColor
-.navbar-brand .navbar-item.logo
-  padding: 0 1rem
-footer.footer
-  padding: 3rem 0rem 0rem
-  background-color: transparent
-
-//Menu overrides
-$menu-item-color: $white-ter
-$menu-item-hover-color: $black !important
-$menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
-$menu-label-color: $white-ter
-
-
-.menu-label
-  font-size: 1em !important
-  text-align: left
-.menu-list
-  list-style: none !important
-  text-align: left
-.social
-  padding: 2em
-.social a
-    padding: .5em .5em .3em .5em
-    border-radius: 1em
-    background-color: $white-ter
-    margin: .5em
-    width: 1em
-    height: 1em
-    vertical-align: middle
-    display: inline
-
-// blog roll
-.blog-list-item.is-featured
-  background-color: #d6400033
-.blog-list-item header
+.details
   display: flex
-  margin-bottom: 1em
-.blog-list-item .featured-thumbnail
-  flex-basis: 35%
-  margin: 0 1.5em 0 0
+  flex-direction: row
+
+  .emoticon
+    font-size: 24px
+    margin-right: 20px
+  
+  .details__text
+    display: flex
+    flex-direction: column
+    margin-bottom: 20px
+
+    h5
+      font-size: 20px
+      margin: 0
+    span
+      font-size: 16px
 
 
-@import "~bulma"
+// Info Post Page
+.content
+  width: 70%
+  margin: 40px auto
 
+.image 
+  width: 100%
+  margin: 20px 0
 
-// responsiveness
-+tablet-only
-  .blog-list-item .featured-thumbnail
-    flex-basis: 50%
+.info__content
+  font-family: 16px
+  line-height: 24px
+  color: #3e554c
+  margin-top: 48px
 
-+mobile
-  .blog-list-item header
-    display: block
-  .blog-list-item .featured-thumbnail
-    text-align: center
-    max-width: 70%
-    margin: 0 0 1em
+  h1, h2, h3
+    font-size: 48px
+    font-weight: 400
+    margin: 60px 0 40px 0
+    list-style: 58px
+
+  h4
+    font-size: 34px
+    font-weight: 400
+    margin: 60px 0 40px 0
+    list-style: 44px
+
+  h5
+    font-size: 28px
+    font-weight: 400
+    margin: 60px 0 40px 0
+    list-style: 28px
+
+  h6
+    font-size: 20px
+    font-weight: 50
+    margin: 60px 0 40px 0
+    list-style: 30px
+
+  ul, ol
+    margin: 20px 0
+    padding-left: 20px
+
+  strong
+    font-weight: 900
+  
+  p
+    margin-bottom: 20px
+
+  a
+    color: #e27c6e
+    text-decoration: none

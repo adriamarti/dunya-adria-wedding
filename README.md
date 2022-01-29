@@ -13,13 +13,13 @@ All the information related to the wedding of the year. This site works with the
 
 ### Access Locally
 
-Pulldown a local copy of the Github repository Netlify created for you, with the name you specified in the previous step
+To run locally the project follow these steps:
 
 ```
 $ git clone https://github.com/adriamarti/dunya-adria-wedding.git
 $ cd dunya-adria-wedding
 $ yarn
-$ netlify dev # or ntl dev
+$ yarn start # or netlify dev or ntl dev
 ```
 
 To test the CMS locally, you'll need to run a production build of the site:
@@ -34,8 +34,3 @@ $ netlify dev # or ntl dev
 If you want use Netlify CMS locally, run the site in one terminal with `npm run start` and in another
 Terminal you can use `npx netlify-cms-proxy-server` which proxy requests so you'll be automatically logged
 in as a user on [http:localhost:3000/admin](http:localhost:3000/admin).
-
-# CONTRIBUTING
-
-Contributions are always welcome, no matter how large or small. Before contributing,
-please read the [code of conduct](CODE_OF_CONDUCT.md).
