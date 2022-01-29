@@ -53,18 +53,22 @@ const Confirmation = ({ button }) => {
 
   const invitados = [
     {
+      key: 'Invitado 1',
       tab: 'Invitad@ 1',
       inputs,
     },
     {
+      key: 'Invitado 2',
       tab: 'Invitad@ 2',
       inputs,
     },
     {
+      key: 'Invitado 3',
       tab: 'Invitad@ 3',
       inputs,
     },
     {
+      key: 'Invitado 4',
       tab: 'Invitad@ 4',
       inputs,
     },
@@ -197,7 +201,7 @@ const Confirmation = ({ button }) => {
                         ))}
                       </Tabs>
                     </Box>
-                    {invitados.map(({ tab, inputs }, index) => (
+                    {invitados.map(({ tab, inputs, key }, index) => (
                       <Stack
                         key={tab}
                         direction='column'
@@ -209,7 +213,7 @@ const Confirmation = ({ button }) => {
                         {inputs.map(({ name, label, options }) => (
                           <Field
                             key={`${tab}${name}`}
-                            name={`${tab}${name}`}
+                            name={`${key}${name}`}
                             as={TextField}
                             label={label}
                             select={options ? true : false}
@@ -217,7 +221,7 @@ const Confirmation = ({ button }) => {
                             className='MuiTextField-root--thin'
                             onChange={({ target }) => {
                               setFieldValue(
-                                `${tab}${name}`,
+                                `${key}${name}`,
                                 target.value,
                                 true
                               );
