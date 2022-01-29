@@ -148,7 +148,7 @@ const Confirmation = ({ button }) => {
               <AlertTitle>Error en la confirmación</AlertTitle>
               Ups, algo fué mal.{' '}
               <strong>
-                Ponte en contacto con Dunya o Adrià y no te preocupes que te
+                Ponte en contacto con Dunyazath o Adrià y no te preocupes que te
                 guardamos sitio sin falta. No olvides revisar la web de vez en
                 cuando para estar al día de las cosas que vayamos publicando.
               </strong>
@@ -160,9 +160,8 @@ const Confirmation = ({ button }) => {
                 sx={{ textAlign: 'center', marginBottom: '40px' }}
               >
                 La confirmación de asistencia es su pase de entrada a la
-                recepción.{' '}
-                <strong>El último día para registrarse es el 30 de mayo</strong>
-                . ¡Muchas gracias!
+                recepción. El último día para registrarse es el 30 de mayo.
+                ¡Muchas gracias!
               </DialogContentText>
               <Formik
                 initialValues={{
@@ -241,7 +240,7 @@ const Confirmation = ({ button }) => {
                       sx={{ marginTop: '20px' }}
                       name='Transporte'
                       control={<Checkbox defaultChecked />}
-                      label='Transporte de la misa a la recepción'
+                      label='Marca la casilla si necesitas transporte de la iglesia a la recepción'
                       onChange={({ target }) => {
                         setFieldValue(
                           `Transporte`,
