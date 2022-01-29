@@ -34,7 +34,7 @@ const Information = ({ title, details, infoPosts }) => (
 
       <Grid item xs={12} md={6}>
         {infoPosts.map(({ link, image, title, text }, index) => (
-          <>
+          <Box key={link}>
             <Link
               href={link}
               underline='hover'
@@ -69,7 +69,7 @@ const Information = ({ title, details, infoPosts }) => (
             {index + 1 !== infoPosts.length && (
               <Divider sx={{ margin: '20px 0' }} />
             )}
-          </>
+          </Box>
         ))}
       </Grid>
       <Grid item xs={12} md={6} sx={{ marginTop: '20px' }}>
