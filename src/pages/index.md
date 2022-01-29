@@ -47,8 +47,8 @@ infoPosts:
       de su interés.
     link: /info/alojamiento/
   - image: /img/cdmx-featured.jpg
-    text: Una pequeña de lugares a visitar e Ciudad de México, que nos gustan mucho
-      y nos gustaría que conocieran.
+    text: Una pequeña selección de lugares a visitar en Ciudad de México que nos
+      gustaría que conocieran.
     title: ¿Que hacer en Ciudad de México?
     link: /info/¿qué-hacer-en-ciudad-de-méxico/
   - link: /info/más-destinos-turísticos/
