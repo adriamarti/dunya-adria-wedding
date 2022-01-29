@@ -8,9 +8,6 @@ import '../../components/all.sass';
 const InfoPagePreview = ({ entry }) => {
   const data = entry.getIn(['data']).toJS();
 
-  console.log('=========');
-  console.log(data);
-
   if (data) {
     return (
       <>

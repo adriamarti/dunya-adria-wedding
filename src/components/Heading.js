@@ -7,7 +7,11 @@ const Heading = ({ variant, component, sx, children }) => (
   <Typography
     variant={variant}
     component={component ?? variant}
-    sx={{ ...sx, fontFamily: "'Abril Fatface', cursive" }}
+    sx={{
+      ...sx,
+      color: 'rgba(0, 0, 0, 0.87)',
+      fontFamily: "'Abril Fatface', cursive",
+    }}
   >
     {children}
   </Typography>
