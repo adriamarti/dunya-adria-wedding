@@ -30,9 +30,9 @@ celebrationPre: PARTE 2
 celebrationTitle: La celebración
 celebrationText: >-
   Llegando a las 18:30 al [Ex-Convento de San
-  Hipólito](https://goo.gl/maps/Fwj8gHmez5zwA4oy5), comenzaremos a calentar
-  motores, con un cocktail de bienvenida, para romper el hielo y que nos
-  conozcamos todos. **¡A disfrutar!**
+  Hipólito](https://g.page/ex-convento-san-hipolito?share), comenzaremos a
+  calentar motores, con un cocktail de bienvenida, para romper el hielo y que
+  nos conozcamos todos. **¡A disfrutar!**
 
 
   Mientras están gozando de los cocteles y aperitivos, nosotros estaremos en un petit comité, celebrando nuestra boda civil. ¡En un momento más bajamos a unirnos con ustedes!
