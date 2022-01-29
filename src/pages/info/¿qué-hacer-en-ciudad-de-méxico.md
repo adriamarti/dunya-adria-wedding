@@ -1,8 +1,8 @@
 ---
 templateKey: info-post
 title: ¿Qué hacer en Ciudad de México?
-description: "Una pequeña selección de lugares a visitar en Ciudad de México,
-  que nos gustan mucho y nos gustaría que conocieran. "
+description: "Una pequeña selección de lugares a visitar en Ciudad de México que
+  nos gustaría que conocieran. "
 coverImage: /img/cdmx-cover.jpg
 content: >-
   ##### Algunos tips antes de empezar...
