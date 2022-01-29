@@ -83,7 +83,7 @@ content: >-
   Oaxaca (5  días incluido Puerto Escondido y Mazunte). Es quizás uno de los estados más mágicos del país. Con sus ruinas en Monte Albán, su cascada de Hierve El Agua y su capital. Sería mejor ir en avión, ya que está retirado de Ciudad de México. Tiene varias playas, pero la más recomendada es Puerto Escodido. Para quienes estén antes, La Guelaguetza es una tradición ancestral multicolor, de danza y música. El origen de esta hermosa celebración data de la época prehispánica y se le considera un ritual hacia los dioses; y la edición del 2022 se llevará a cabo el 25 de julio y el 1 de agosto, en la misma ciudad de Oaxaca. P.D. No se olviden de probar el mejor mezcal de gusano.
 
 
-  ![](https://media.istockphoto.com/photos/china-oaxaquena-and-fireworks-guelaguetza-oaxaca-picture-id576896144 "La Guelaguetza.")
+  ![](https://storage.googleapis.com/mvsnoticias/2019/07/bed20137-oaxacaguelaguetza.jpg "La Guelaguetza.")
 
 
   ![](https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/8b/7d/ba.jpg "Monte Albán.")
