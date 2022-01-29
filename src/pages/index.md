@@ -64,11 +64,12 @@ infoPosts:
 details:
   - emoticon: 👠 🎩
     title: Dress code
-    text: El código de vestimenta es de etiqueta.
+    text: El código de vestimenta es de etiqueta. Hombres con traje completo.
+      Mujeres con vestido largo.
   - title: Recinto histórico
     emoticon: 💒
-    text: Estaremos en un recinto histórico, patrimonio de la Ciudad de México. Es
-      responsabilidad de todo cuidarlo.
+    text: El ex convento es recinto histórico, patrimonio de la Ciudad de México.
+      Debemos cuidarlo. No se permite fumar en ninguna área.
   - emoticon: 🙋
     title: Confirmación
     text: No olviden registrarse, o no podrán acceder al banquete. El último día

@@ -32,20 +32,20 @@ export default function Markdown({ sx, children }) {
         '& h4': {
           fontSize: '34px',
           fontWeight: '400',
-          margin: '60px 0 40px 0',
+          margin: '30px 0 20px 0',
           lineHeight: '44px',
         },
         '& h5': {
           fontSize: '34px',
           fontWeight: '400',
-          margin: '60px 0 40px 0',
+          margin: '30px 0 20px 0',
           lineHeight: '44px',
         },
         '& h6': {
           fontSize: '20px',
           fontWeight: '500',
-          margin: '60px 0 40px 0',
-          lineHeight: '30px',
+          margin: '10px 0 10px 0',
+          lineHeight: '24px',
         },
         '& ul': {
           margin: '20px 0',
@@ -67,6 +67,9 @@ export default function Markdown({ sx, children }) {
           '&:hover': {
             textDecoration: 'underline',
           },
+        },
+        '& img': {
+          width: '100%',
         },
         ...sx,
       }}
