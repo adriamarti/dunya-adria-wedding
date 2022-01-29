@@ -117,3 +117,63 @@ collections:
                   { label: 'Text', name: 'text', widget: 'string' },
                 ],
             }
+  - name: 'components'
+    label: 'Components'
+    files:
+      - file: 'src/components/confirmation.md'
+        label: 'Confirmation'
+        name: 'confirmation'
+        fields:
+          - {
+              label: 'Template Key',
+              name: 'templateKey',
+              widget: 'hidden',
+              default: 'confirmation-component',
+            }
+          - { label: 'Titulo', name: 'title', widget: 'string' }
+          - { label: 'Texto', name: 'text', widget: 'markdown' }
+          - { label: 'Tab', name: 'tab', widget: 'string' }
+          - { label: 'Input Nombre', name: 'nameInput', widget: 'string' }
+          - { label: 'Selecciona Entrante', name: 'starter', widget: 'string' }
+          - {
+              label: 'Opciones Entrante',
+              name: 'starterOptions',
+              widget: 'list',
+              fields:
+                [
+                  {
+                    label: 'Nombre del entrante',
+                    name: 'name',
+                    widget: 'string',
+                  },
+                ],
+            }
+          - {
+              label: 'Selecciona Principal',
+              name: 'mainCourse',
+              widget: 'string',
+            }
+          - {
+              label: 'Opciones Entrante',
+              name: 'mainCourseOptions',
+              widget: 'list',
+              fields:
+                [
+                  {
+                    label: 'Nombre del principal',
+                    name: 'name',
+                    widget: 'string',
+                  },
+                ],
+            }
+          - {
+              label: 'Checkbox Transporte',
+              name: 'transport',
+              widget: 'string',
+            }
+          - {
+              label: 'Mensaje Confirmación aceptada',
+              name: 'successMessage',
+              widget: 'markdown',
+            }
+          - { label: 'Mensaje Error', name: 'errorMessage', widget: 'markdown' }
