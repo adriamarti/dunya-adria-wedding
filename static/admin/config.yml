@@ -120,7 +120,7 @@ collections:
   - name: 'components'
     label: 'Components'
     files:
-      - file: 'src/components/confirmation.md'
+      - file: 'src/pages/confirmation.md'
         label: 'Confirmation'
         name: 'confirmation'
         fields:
