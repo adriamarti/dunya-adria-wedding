@@ -17,7 +17,7 @@ content: >-
   Taxi, Uber, Autobús, Coche, Avión. Para moverse en la ciudad, les puedo recomendar 100% que caminen lo más posible, tanto en la zona centro, como en Paseo de la Reforma, Chapultepec, Insurgentes. Uber es un medio muy usado, económico y efectivo (quizás lo máximo que vayan a pagar son 10 euros, y lo pueden compartir con otras 3 personas). Así que les recomiendo que bajen la aplicación y la tengan vinculada con su tarjeta de crédito/débito. 
 
 
-  También, les recomiendo comprar un boleto del Bus Turístico que van a poder tomar desde el inicio, en el Zócalo (Plaza del Constitución). Este autobús los llevará a todos los sitios de interés, y les servirá como taxi durante dos días (yo recomiendo que sean dos circuitos y no uno, porque no les dará tiempo con uno). Así, podrán visitar los sitios más importantes, y volver a abordar el bus, usando éste como taxi. Pueden ver toda la explicación en este link:[](https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.) [Bus Turístico.](<https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.>)
+  También, les recomiendo comprar un boleto del Bus Turístico que van a poder tomar desde el inicio, en el Zócalo (Plaza del Constitución). Este autobús los llevará a todos los sitios de interés, y les servirá como taxi durante dos días (yo recomiendo que sean dos circuitos y no uno, porque no les dará tiempo con uno). Así, podrán visitar los sitios más importantes, y volver a abordar el bus, usando éste como taxi. Pueden ver toda la explicación en este link:[](https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.) [Bus Turístico.](https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.)
 
 
   Es importante que siempre lleven consigo efectivo. Al menos unos $500 pesos por día, cada persona, ya que por supuesto que en casi todos los establecimientos hay terminal para la tarjeta de débito/crédito, sin embargo, también es bueno llevar efectivo por cualquier si acaso.
@@ -80,7 +80,9 @@ content: >-
   ![](https://historiacivil.files.wordpress.com/2019/12/castillo-1.jpg)
 
 
-  * Museo de Antropología e Historia. Este museo es imperdible, junto con el Templo Mayor, y el Castillo de Chapultepec.
+  * Museo de Antropología e Historia. **Este museo es imperdible**.
+
+  * Templo Mayor
 
   * Bosque de Chapultepec
 
@@ -113,16 +115,16 @@ content: >-
 
   * Templo Mayor (siglo XIII), a un costado del Palacio Federal, detrás de la Catedral Metropolitana.
 
-  * Colonia Polanco, Colonia La Condesa y Colonia Roma
 
-
-  ###### Otras zonas de interés
+  ###### Otras zonas
 
 
   ![](https://www.worldartfoundations.com/wp-content/uploads/2018/10/Museo-Soumaya.jpg)
 
 
   * Museo Soumaya (no tiene coste)
+
+  * Colonia Polanco, Colonia La Condesa y Colonia Roma
 
   * En la Condesa se come muy bien y es súper agradable, se los recomiendo mucho, además de ir a pasear al Parque México.\
     Coyoacán - La Casa Azul (museo de Frida Kahlo)
