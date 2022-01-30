@@ -55,7 +55,7 @@ content: >-
 
   * Tiene la 6ª calle más larga del mundo (Avenida de los Insurgentes, con 29 km.). Si la quieren recorrer, vale mucho la pena.
 
-  * El Zócalo, como popularmente se le conoce a la Plaza de la Constitución, es la plaza más grande de América, y la segunda más grande del mundo, después de la Plaza Roja, de Moscú. Comer en alguno de los restaurantes con terraza, recorrer la calle Madero, visitar la catedral, y si es posible, entrar a Palacio de Gobierno es obligado
+  * El Zócalo, como popularmente se le conoce a la Plaza de la Constitución, es la plaza más grande de América, y la segunda más grande del mundo, después de la Plaza Roja, de Moscú. Comer en alguno de los restaurantes con terraza, recorrer la calle Madero, visitar la catedral, y si es posible, entrar a Palacio de Gobierno.
 
   * Antiguamente, era una ciudad situada entre lagos. El único que le sobrevive es Xochimilco, y se puede visitar, y disfrutar de las trajineras. Está a 1 hora aproximadamente en coche, pero vale la pena. 
 
