@@ -204,7 +204,7 @@ content: >-
 
   * Oaxaca: La Guelaguetza es una tradición ancestral multicolor, de danza y música. El origen de esta hermosa celebración data de la época prehispánica y se le considera un ritual hacia los dioses; y la edición del 2022 se llevará a cabo el 25 de julio y el 1 de agosto. Aquí se hace muy buen mezcal de gusano.
 
-  * Monte Albán: las ruinas de la civilización maya también se localizan aquí, en Monte Albán, localizadas a 8km de la capital de Oaxaca.
+  * Monte Albán: las ruinas de la civilización zapoteca también se localizan aquí, en Monte Albán, localizadas a 8km de la capital de Oaxaca.
 
   * Puerto Escondido: es la ciudad más poblada de la costa oaxaqueña y uno de los principales destinos turísticos del estado. Está a 
 
