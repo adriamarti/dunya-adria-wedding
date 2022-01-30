@@ -46,7 +46,7 @@ content: >-
 
   * Tiene una población cercana a los 25 millones de habitantes, tomando en cuenta toda el área metropolitana (Ciudad de México y Estado de México). Se encuentra a 2250 metros sobre el nivel del mar.
 
-  * La Calzada México-Tacuba, es la primera calle del continente, se encuentra en el centro, por si quieren recorrerla, y es la que conectaba tierra firme con el sistema de lagos de la antigua México-Tenochtitlán.
+  * La Calzada México-Tacuba, es una de las cuatro calzadas originales que fueron construidas por los mexicas[](https://es.wikipedia.org/wiki/Mexicas "Mexicas"), cuya función principal era comunicar a México-Tenochtitlan, situada en el Lago de Texcoco.
 
   * Es la segunda ciudad con más museos del mundo (más de 200), después de Londres, así que hay para todos los gustos.
 
@@ -57,7 +57,12 @@ content: >-
   * Antiguamente, era una ciudad situada entre lagos. El único que le sobrevive es Xochimilco, y se puede visitar, y disfrutar de las trajineras. Está a 1 hora aproximadamente en coche, pero vale la pena. 
 
 
+  ##### Tiempo adecuado de estancia: 6-7 días 
+
+
   ##### Lugares de interés:
+
+
 
 
   Paseo de la Reforma se tiene que caminar, tomen su tiempo para ver todo lo que tiene a sus costados, es una de las avenidas más importantes, sino la que más, donde se encuentran muchísimos pasajes históricos, y se puede llegar a varias intersecciones, por ejemplo con el Ángel de la Independencia (no pierdan oportunidad de tomar foto), lleguen hasta el bosque de Chapultepec, o bien con la Calle Juárez, hasta el otro extremo, en donde se podrá llegar a la Alameda Central, Bellas Artes, La Torre Latinoamericana, y de allí acceso a calle Madero, que desembocará en el Zócalo, la Catedral Metropolitana y Palacio de Gobierno Federal.
@@ -138,7 +143,15 @@ content: >-
     ![](https://www.visitarteotihuacan.com/wp-content/uploads/2014/10/teotihuacan_18.jpg)
   * [Teotihuacan](https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan) es otro lugar que es necesario conocer. Está a una hora y media aproximadamente desde el centro de Ciudad de México. Se puede ir en bus, ya bien con un tour, o bien tomando uno desde la centra de autobuses zona norte. Pueden preguntar por tours directamente. Las ruinas están situadas a una hora y media de la ciudad, dirección noreste. Más o menos se tarda unas ocho horas entre ir y regresar. Recorran toda la calzada de los muertos, y pidan a un guía que les explique. Si son madrugadores, y llegan allí antes de que salga el sol, podrán subirse en [globo aerostático. ](https://aerodiverti.com.mx/?gclid=Cj0KCQiAi9mPBhCJARIsAHchl1wMZRWZTyXspvjaAtw-WJeN7J16CmSbUzjdE8XkL6LwwzntOi9CLD4aAqP3EALw_wcB)
 
-    ![]()
+    ###### ¿Dónde comer?
 
-    ###### ¿Qué y dónde comer?
+    Definitivamente por lugares no batallarán, prácticamente en todos lados habrá un puesto, un restaurante, o un local dónde comer. Pero aquí van una serie de recomendaciones.
+
+    * Café de Tacuba. 
+    * La Casa de Toño.
+    * Taquería El Huequito
+    * Taqueria El Califa
+    * Restaurante Rosetta
+    * Restaurante Pujol
+    * Cityzen Bar (tiene unas vistas increibles=))
 ---
