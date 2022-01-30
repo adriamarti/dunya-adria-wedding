@@ -279,7 +279,7 @@ content: >-
   * Dunas de Samalayuca: el estado también tiene desierto, así que podrán hacer sandboarding si así lo desean. Se encuentra a 3 horas y media en coche desde la capital.
 
 
-  **[Ver video de Chihuahua](https://www.youtube.com/watch?v=komxqwqeNRU&list=PLxgnuWubm-skDv-xzUPfgXgaG63l1LxYf) éste es un video que ejemplifica el ecosistema del estado.**
+  **[Ver video de Chihuahua](https://www.youtube.com/watch?v=IXYZoDrIPDU) éste es un video que ejemplifica el ecosistema del estado.**
 
 
   **Imágenes de Chihuahua**
