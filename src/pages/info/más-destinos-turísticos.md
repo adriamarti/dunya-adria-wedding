@@ -112,8 +112,7 @@ content: >-
   **Jalisco**
 
 
-  **Recomendación de estancia: 7 días**
-
+  **Recomendación de estancia: 7 días**\
 
   Medio de transporte para llegar desde CDMX: se recomienda avión.\
 
@@ -123,7 +122,13 @@ content: >-
   Lugares por visitar:
 
 
-  *
+  * Guadalajara:  la capital es hermosa y llena de historia también. No olviden ir al Hospicio Cabañas, la catedral, el teatro Degollado, y no olviden comer las tortas ahogadas.
+
+  * Tlaquepaque: Es una ciudad pintoresca, recomendable para ir desde el medio día y hasta la tarde, comer en la plaza principal y escuchar mariachis.
+
+  * Tequila: es el pueblo mágico, de donde proviene el nombre del famoso tequila. Pueden buscar tours en internet, y ver cuál es el proceso de su destilado, producción y envasado, asi como desss 
+
+  * Lagos de Moreno, Lago de Chapala.
 
 
   Guadalajara y Puerto Vallarta, Jalisco (4 a 7 días, incluido Puerto Vallarta). De Jalisco viene la charrería, los mariachis, el tequila y el mezcal. Pueden ir al pueblo mágico de Tequila, y tener un tour de cómo se produce este producto endémico. La capital es hermosa y llena de historia también. No olviden ir al Hospicio Cabañas, la catedral. Lo mejor, es que a 3 horas en coche, llegan a Puerto Vallarta, una playa que vale la pena. Personalmente, es una de las que más me gustan, junto con todas las de Riviera Maya. Recomiendo que se vaya en avión desde CDMX.
