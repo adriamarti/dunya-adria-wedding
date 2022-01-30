@@ -5,11 +5,11 @@ description: Algunas sugerencias sobre posibles sitios a visitar fuera de Ciudad
 coverImage: /img/destino-cover.jpg
 content: >-
   **México cuenta con 32 estados, y muchísimas ciudades interesantes y bonitas
-  por recorrer, pero hicimos una pequeña seleción, que aquí les dejamos a su
+  por recorrer, pero hicimos una pequeña selección, que aquí les dejamos a su
   consideración.** 
 
 
-  **P.D. Sobra decir que en todos se puede comer muy bien, y que hay museos y áreas de esparcimiento.**
+  **P.D. Sobra decir que en todos se puede comer muy bien, y que hay museos y áreas de esparcimiento. Además, a algunos de los destinos les agregamos un corto video, no todos lo tienen pero no por ello, no son igual de recomendables, les animamos a que busquen por su cuenta más información de los destinos que más les interesen.**
 
 
   **Puebla**
@@ -25,7 +25,9 @@ content: >-
 
   * Cholula, Puebla: es otra ciudad del estado de Puebla. Se le considera la primera ciudad del continente, ya que fue fundada hacia el 600 a.C. Tiene la pirámide más grande en cuanto a su base, del mundo; y es además una ciudad repleta de iglesias, (la leyenda cuenta que hay una iglesia para cada día del año, la verdad es que cuenta con 39, pero son muchas para el espacio de la ciudad). En ella, podrán ver más de cerca el volcán Popocatépetl.
 
-    **Imágenes de Puebla**
+
+  **Imágenes de Puebla**
+
 
   ![Ciudad de Puebla](https://www.poblanerias.com/wp-content/archivos/2020/04/panoramica-ciudad-120884.jpg "Ciudad de Puebla")
 
@@ -213,7 +215,10 @@ content: >-
   * Mazunte: es auténtico, tiene playazas, se come bien, es todo un ejemplo de sostenibilidad y de integración de locales y extranjeros.
 
 
-  **Imágenes de Oaxaca**
+  **[Ver video de Oaxaca](https://www.youtube.com/watch?v=qUcOjN4gRKw) éste es un video que ejemplifica el ecosistema del estado**
+
+
+  **Imágenes de Oaxaca** 
 
 
   ![](https://storage.googleapis.com/mvsnoticias/2019/07/bed20137-oaxacaguelaguetza.jpg "La Guelaguetza.")
@@ -240,6 +245,9 @@ content: >-
   * Cascadas de Agua Azul: a 5 horas de la capital en bus, pero vale la pena. Es un sistema de cascadas color turquesa, muy bonitas. La mayoría de los turistas van en un tour hasta allí.
 
   * San Cristóbal de Las Casas: a una hora y media de Tuxtla Gutiérrez, está este importante centro turístico y belleza que conserva su historia, y por eso, es uno de los pueblos mágicos más bonitos del país. 
+
+
+  **[Ver video de Chiapas](https://www.youtube.com/watch?v=-qkgc_DFvK4&list=PLxgnuWubm-skDv-xzUPfgXgaG63l1LxYf&index=8) éste es un video que ejemplifica el ecosistema del estado**
 
 
   **Imágenes de Chiapas** 
@@ -269,6 +277,9 @@ content: >-
   * Cascada de Basaseachi: es una gozada ver la cascada permanente más alta de México, con 246 m.
 
   * Dunas de Samalayuca: el estado también tiene desierto, así que podrán hacer sandboarding si así lo desean. Se encuentra a 3 horas y media en coche desde la capital.
+
+
+  **[Ver video de Chihuahua](https://www.youtube.com/watch?v=komxqwqeNRU&list=PLxgnuWubm-skDv-xzUPfgXgaG63l1LxYf) éste es un video que ejemplifica el ecosistema del estado.**
 
 
   **Imágenes de Chihuahua**
@@ -350,6 +361,9 @@ content: >-
   * Holbox: una isla de desconexión total, no hay ningún barco directo de **Cancún** a **Holbox**, ya que el trayecto por vía acuático sería muy largo. El único ferry que llega a Isla **Holbox** sale desde Chiquilá, un pequeño pueblo a unos 10 kilómetros de la isla. Por lo tanto, el primer paso de la ruta es ir de **Cancún** a Chiquilá para poder coger el ferry a **Holbox**.
 
 
+  **[Ver video de Quintana Roo](https://www.youtube.com/watch?v=yBSjzfIgCSM) éste es un video que ejemplifica el ecosistema del estado.**
+
+
   **Imágenes de Quintana Roo**
 
 
@@ -373,6 +387,9 @@ content: >-
   * Uxmal: está a unas 2 horas de Chichén Itzá. Es otra zona arqueológico de las muchas que existen en la península de Yucatán. Les dejo una [foto](https://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjNkUrIN2VfocoWBxJ85iH2aQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UEd3OAEdRhvNM6voGZghM4w-P-3d-P-3d) para que la vean. 
 
   * Las Coloradas: una playa escondida denominada "Las Coloradas", está a casi cuatro horas de Cancún. En esta playa el color del agua del mar es rosa, se debe a que hay una presencia, **poco común, de microorganismos rojos** y de concentración de sal. Según los científicos este fenómeno ocurre cuando el agua se evapora y la concentración del plankton y algas rojos aumenta.
+
+
+  **[Ver video de Yucatán](https://www.youtube.com/watch?v=_rHm9yuhLNE) éste es un video que ejemplifica el ecosistema del estado.**
 
 
   **Imágenes de Yucatán**
