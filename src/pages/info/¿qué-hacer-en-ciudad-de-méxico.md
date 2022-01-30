@@ -156,13 +156,19 @@ content: >-
     Definitivamente por lugares no batallarán, prácticamente en todos lados habrá un puesto, un restaurante, o un local dónde comer, y es complicado que alguno desilusione, ya sea caro, normal o barato. Desde una fonda en la calle con tacos a $5 pesos c/u, o hasta sitios en los que por dos tacos les pueden cobrar $300... todo es cuestión de presupuestos. 
 
     * Café de Tacuba. Sirven desayunos y comidas muy buenos.
+    * Bar La Ópera. Cuenta la leyenda que en el techo sigue marcado un balazo que Pancho Villa disparó en una de sus visitas. Es muy, muy bonito. Recomiendo los chiles en nogada.
     * La Casa de Toño. Sirven desayunos y comidas muy buenos.
     * La Casa de Los Azulejos - Sanborns. Vale mucho la pena este Sanborns por ser un recinto histórico.
     * Cafetería Eno. Tiene varias sucursales pero cualquiera viene bien.
     * Taquería El Huequito.
     * Taqueria El Califa. Deben pedir los de al pastor.
     * Restaurante Rosetta.
+    * El pescadito.
+    * Contramar.
+    * Villa Rica Vallejo.
     * Restaurante Pujol. con doble estrella Michelin.
+    * Carajillo.
+    * Rosa Negra.
     * Cityzen Bar (tiene unas vistas increíbles).
     * Balcón del Zócalo.
     * Café Don Porfirio. Un café enfrente de Bellas Artes en el último piso de Sears, es una vista única.
