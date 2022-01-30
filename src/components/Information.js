@@ -13,9 +13,9 @@ const Information = ({ title, details, infoPosts }) => (
     sx={{
       marginTop: '280px',
       maxHeight: {
-        xs: '1000px',
-        sm: '500px',
-        md: '100px',
+        xs: `${details.length * 200}px`,
+        sm: `${details.length * 100}px`,
+        md: `${details.length * 50}px`,
       },
     }}
   >
@@ -24,7 +24,6 @@ const Information = ({ title, details, infoPosts }) => (
       sx={{ transform: 'translateY(-800px)' }}
       rowSpacing={4}
       columnSpacing={8}
-      alignItems='center'
     >
       <Grid item xs={12}>
         <Heading variant='h3' component='h2' sx={{ marginBottom: '40px' }}>
@@ -72,20 +71,20 @@ const Information = ({ title, details, infoPosts }) => (
           </Box>
         ))}
       </Grid>
-      <Grid item xs={12} md={6} sx={{ marginTop: '20px' }}>
+      <Grid item xs={12} md={6}>
         <Box
           sx={{
             backgroundColor: 'rgba(245, 245, 245)',
             padding: '40px',
           }}
         >
-          {details.map(({ emoticon, title, text }) => (
+          {details.map(({ emoticon, title, text }, index) => (
             <Stack
               key={title}
               direction='row'
               spacing={2}
               alignItems='flex-start'
-              sx={{ marginBottom: '20px' }}
+              sx={{ marginBottom: index + 1 === details.length ? '0' : '20px' }}
             >
               <Heading variant='h5' component='span'>
                 {emoticon}
