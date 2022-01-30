@@ -57,12 +57,10 @@ content: >-
   * Antiguamente, era una ciudad situada entre lagos. El único que le sobrevive es Xochimilco, y se puede visitar, y disfrutar de las trajineras. Está a 1 hora aproximadamente en coche, pero vale la pena. 
 
 
-  ##### Tiempo adecuado de estancia: 6-7 días 
+  ##### Tiempo adecuado de estancia: 6-7 días
 
 
   ##### Lugares de interés:
-
-
 
 
   Paseo de la Reforma se tiene que caminar, tomen su tiempo para ver todo lo que tiene a sus costados, es una de las avenidas más importantes, sino la que más, donde se encuentran muchísimos pasajes históricos, y se puede llegar a varias intersecciones, por ejemplo con el Ángel de la Independencia (no pierdan oportunidad de tomar foto), lleguen hasta el bosque de Chapultepec, o bien con la Calle Juárez, hasta el otro extremo, en donde se podrá llegar a la Alameda Central, Bellas Artes, La Torre Latinoamericana, y de allí acceso a calle Madero, que desembocará en el Zócalo, la Catedral Metropolitana y Palacio de Gobierno Federal.
@@ -135,6 +133,10 @@ content: >-
 
   * Colonia Polanco, Colonia La Condesa y Colonia Roma, totalmente recomendables para tomar una copa y comer.
 
+  * La Ciudadela. Si buscan algún recuerdo, o simplemente ver arte mexicano, éste es el lugar, no se van a arrepentir.
+
+  * Monumento a la Revolución Meex
+
   * Coyoacán (que significa lugar de los que tienen o poseen coyotes) es otra cara de la ciudad, sobre todo su centro. Es una alcaldía de la Ciudad de México, donde se sentirán en un pueblito tranquilo, y muy pintoresco. Aquí está La Casa Azul ([museo de Frida Kahlo](https://www.museofridakahlo.org.mx/es/el-museo/)). Les sugiero que compren sus boletos con tiempo, porque se suele llenar mucho en esta época del año. 
 
     ![](https://viviryconocermexico.files.wordpress.com/2011/09/coyotes.jpg)
@@ -153,5 +155,6 @@ content: >-
     * Taqueria El Califa
     * Restaurante Rosetta
     * Restaurante Pujol
-    * Cityzen Bar (tiene unas vistas increibles=))
+    * Cityzen Bar (tiene unas vistas increíbles)
+    * En el mercado de San Juan encuentran de todo. Desde lo más exóticos como insectos hasta lo tradicional.
 ---
