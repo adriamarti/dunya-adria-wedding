@@ -78,13 +78,13 @@ details:
     title: Confirmación
     text: No olviden registrarse, o no podrán acceder al banquete. El último día
       para hacerlo es el 30 de mayo.
+  - title: Medidas anti-COVID
+    text: Vamos a tomar todas las medidas posibles para ofrecer una velada segura.
+    emoticon: 👌
   - text: sin embargo, si es su deseo regalarnos algo, les agradeceremos que sea
       efectivo en sobres.
     title: Su presencia es nuestro mayor regalo…
     emoticon: 🎁
-  - title: Medidas anti-COVID
-    text: Vamos a tomar todas las medidas posibles para ofrecer una velada segura.
-    emoticon: 👌
 paragraph: >
   Nos encantaría contar con tu presencia en el día más importante de nuestras
   vidas.
