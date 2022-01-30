@@ -12,7 +12,7 @@ content: >-
   **P.D. Sobra decir que en todos se puede comer muy bien, y que hay museos y áreas de esparcimiento.**
 
 
-  **Puebla.**
+  **Puebla**
 
 
   **Recomendación de estancia: 4 días**
@@ -25,7 +25,7 @@ content: >-
 
   * Cholula, Puebla: es otra ciudad del estado de Puebla. Se le considera la primera ciudad del continente, ya que fue fundada hacia el 600 a.C. Tiene la pirámide más grande en cuanto a su base, del mundo; y es además una ciudad repleta de iglesias, (la leyenda cuenta que hay una iglesia para cada día del año, la verdad es que cuenta con 39, pero son muchas para el espacio de la ciudad). En ella, podrán ver más de cerca el volcán Popocatépetl.
 
-    Imágenes de Puebla
+    **Imágenes de Puebla**
 
   ![Ciudad de Puebla](https://www.poblanerias.com/wp-content/archivos/2020/04/panoramica-ciudad-120884.jpg "Ciudad de Puebla")
 
@@ -46,7 +46,7 @@ content: >-
 
   * San Miguel de Allende: es considerada la ciudad mejor ciudad del mundo, según Travel + Leisure World's Best Awards 2021. Aquí viven muchos extranjeros, especialmente de Estados Unidos y Europa. Sin embargo, el ambiente es 100% mexicano. Sus callejones y la catedral son muy bonitos.
 
-    Imágenes de Guanajuato
+    **Imágenes de Guanajuato**
 
   ![](https://static1.evcdn.net/images/reduction/1243487_w-850_h-400_q-100_m-crop.jpg "Ciudad de Guanajuato. ")
 
@@ -206,11 +206,11 @@ content: >-
 
   * Puerto Escondido: es la ciudad más poblada de la costa oaxaqueña y uno de los principales destinos turísticos del estado. Está a 
 
-  * **Huatulco: es otra playa recomendada, la población asciende a tan sólo 7500 habitantes, por lo que es muy tranquilo.**
+  * Huatulco: es otra playa recomendada, la población asciende a tan sólo 7500 habitantes, por lo que es muy tranquilo.
 
-  * **Hierve El Agua:** está ubicado en Oaxaca, a 70 km de la ciudad, en el [municipio](https://rascamapas.com/products/rascamapa-de-todos-los-municipios-de-mexico "Rasca Mapa de México") de San Lorenzo Albarradas y es un balneario natural. es un sistema de cascadas petrificadas, formadas por carbonato de calcio. Las cascadas son de origen natural y se formaron hace miles de años, por el escurrimiento de agua con alto contenido de minerales.
+  * Hierve El Agua: está ubicado en Oaxaca, a 70 km de la ciudad, en el [](https://rascamapas.com/products/rascamapa-de-todos-los-municipios-de-mexico "Rasca Mapa de México")municipio de San Lorenzo Albarradas y es un balneario natural. es un sistema de cascadas petrificadas, formadas por carbonato de calcio. Las cascadas son de origen natural y se formaron hace miles de años, por el escurrimiento de agua con alto contenido de minerales.
 
-  * Mazunte: es **auténtico, tiene playazas, se come bien**, es todo un ejemplo de **sostenibilidad y de integración de locales y extranjeros.**
+  * Mazunte: es auténtico, tiene playazas, se come bien, es todo un ejemplo de sostenibilidad y de integración de locales y extranjeros.
 
 
   **Imágenes de Oaxaca**
@@ -262,7 +262,7 @@ content: >-
 
   * Chihuahua Capital: recorrer todo el centro histórico, visitar el museo de La Quinta Gameros, Museo de Pancho Villa, Museo Casa Chihuahua, Museo del Calabozo de Hidalgo, la catedral, dar un recorrido por las grutas de Nombre de Dios. Realizar el tour de [Chihuahua Bárbaro ](https://chihuahuabarbaro.com/)
 
-  * Ruta CHEPE: recomiendo muchísimo un par de días al menos para realizar el recorrido por el \[CHEPE](< <https://chepe.mx/>>) (tren Chihuahua-Pacífico),  y otro par en la sierra. Allí podrán llegar a la estación que prefieran, les recomiendo quedarse en Creel, que es un pueblo mágico. Hay guías turísticos que los pueden mover a ver el Valle de las Ranas, el Valle de los Hongos, el Lago Arareco, y la cascada de Cusárare. (El tiempo de traslado es aproximadamente 7 horas porque no es un tren de alta velocidad, en realidad, ese es el encanto, para que puedan apreciar toda la naturaleza).
+  * Ruta CHEPE: recomiendo muchísimo un par de días al menos para realizar el recorrido por el [CHEPE](https://chepe.mx/) (tren Chihuahua-Pacífico),  y otro par en la sierra. Allí podrán llegar a la estación que prefieran, les recomiendo quedarse en Creel, que es un pueblo mágico. Hay guías turísticos que los pueden mover a ver el Valle de las Ranas, el Valle de los Hongos, el Lago Arareco, y la cascada de Cusárare. (El tiempo de traslado es aproximadamente 7 horas porque no es un tren de alta velocidad, en realidad, ese es el encanto, para que puedan apreciar toda la naturaleza).
 
   * Cañón del Cobre: si se animaron a ir a la sierra, a través del CHEPE o por bus, les recomiendo que vayan al Cañón del Cobre, es 4 veces más extenso y 2 veces más profundo que el Cañón de Colorado, en Arizona, Estados Unidos. Aquí está la tirolesa mas larga del mundo, si gustan, pueden probar la experiencia. Aquí dejo un video: <https://www.youtube.com/watch?v=4ckpHaMqMZ4>
 
@@ -297,7 +297,7 @@ content: >-
 
   * Cola de Caballo: cerca de Villa de Santiago. Es una cascada que es muy bonita por su forma, como lo indica su nombre. 
 
-  * Chipinque: está en la misma ciudad, se pueden ir en taxi o uber. Es un parque ecológico que vale muchísimo la pena caminar (y escalar). Aquí les dejo el link para que lo puedan ver mejor: [Chipinque](https://www.chipinque.org.mx/)
+  * Chipinque: está en la misma ciudad, se pueden ir en taxi o uber. Es un parque ecológico que vale muchísimo la pena caminar (y escalar). Aquí les dejamos el link para que lo puedan ver mejor: [Chipinque](https://www.chipinque.org.mx/)
 
     **Imágenes de Nuevo León** 
 
@@ -362,7 +362,7 @@ content: >-
   **Yucatán**
 
 
-  **Recomendación de estancia: 3 días**
+  **Recomendación de estancia: 4 días**
 
 
   Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 20 horas, vía terrestre. Lugares por visitar:
