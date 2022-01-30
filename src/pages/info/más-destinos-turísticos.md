@@ -11,14 +11,49 @@ content: >-
   **P.D. Sobra decir que en todos se puede comer muy bien, y que hay museos y áreas de esparcimiento.**
 
 
-  **Puebla y Cholula, Puebla (4 días).** Está también a dos horas y media aproximadamente de CDMX, en coche. E igual que las ciudades anteriores, es totalmente recomendable. Cholula tiene la pirámide más grande en cuanto a su base, del mundo; y es además una ciudad repleta de iglesias, (la leyenda cuenta que hay una iglesia para cada día del año, la verdad es que cuenta con 39, pero son muchas para el espacio de la ciudad). Por otra parte, la capital (Puebla) del estado, también se los recomiendo mucho. Es un Estado considerado como heroico, ya que allí se libró la llamada Batalla de Puebla, del 5 de mayo de 1862, derrotando al ejército francés. Les recomiendo mucho la calle de los dulces. Por último, pero no menos importante, podrán ver más de cerca el volcán Popocatépetl.
+  **Puebla.**
 
+
+  **Recomendación de estancia: 4 días**\
+
+  Medio de transporte para llegar desde CDMX: puede ser autobús, o coche\
+
+  Tiempo para llegar desde CDMX: 2 horas y media.\
+
+  Lugares por visitar:
+
+
+  * Ciudad de Puebla, capital del estado. Su centro histórico, la calle de los dulces, las Fuentes de Loreto, la Biblioteca Palafoxiana, la catedral, El Callejón de los Sapos, el Africam Safari, La Capilla del Rosario, la Estrella de Puebla, y más.
+
+  * Cholula, Puebla: Es otra ciudad del estado de Puebla. Se le considera la primera ciudad del continente, ya que fue fundada hacia el 600 a.C. Tiene la pirámide más grande en cuanto a su base, del mundo; y es además una ciudad repleta de iglesias, (la leyenda cuenta que hay una iglesia para cada día del año, la verdad es que cuenta con 39, pero son muchas para el espacio de la ciudad). En ella, podrán ver más de cerca el volcán Popocatépetl.
+
+    ###### **Imágenes del Estado de Puebla**
 
   ![Ciudad de Puebla](https://www.poblanerias.com/wp-content/archivos/2020/04/panoramica-ciudad-120884.jpg "Ciudad de Puebla")
 
 
   ![](https://www.mexicodesconocido.com.mx/wp-content/uploads/2019/03/167-919-1-3iglesiaremedios.jpg "Cholula, Puebla y el volcán Popocatépetl")
 
+
+
+
+  **Guanajuato**
+
+
+  **Recomendación de estancia: 4 días**\
+
+  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avion.\
+
+  Tiempo para llegar desde CDMX: 2 horas y media.\
+
+  Lugares por visitar:
+
+
+  * Ciudad de Puebla, capital del estado. Su centro histórico, la calle de los dulces, las Fuentes de Loreto, la Biblioteca Palafoxiana, la catedral, El Callejón de los Sapos, el Africam Safari, La Capilla del Rosario, la Estrella de Puebla, y más.
+
+  * Cholula, Puebla: Es otra ciudad del estado de Puebla. Se le considera la primera ciudad del continente, ya que fue fundada hacia el 600 a.C. Tiene la pirámide más grande en cuanto a su base, del mundo; y es además una ciudad repleta de iglesias, (la leyenda cuenta que hay una iglesia para cada día del año, la verdad es que cuenta con 39, pero son muchas para el espacio de la ciudad). En ella, podrán ver más de cerca el volcán Popocatépetl.
+
+    ###### **Imágenes del Estado de Puebla**
 
   Guanajuato y San Miguel de Allende, Guanajuato (4 días) Su capital, Guanajuato, es bellísima, vale muchísimo la pena. Está el Callejón del Beso, el museo de las Momias, y recintos culturales por doquier. Está a 5 horas en coche de Ciudad de México, si quieren mejor ir en avión también es válido. San Miguel de Allende es considerada la ciudad mejor ciudad del mundo, según Travel + Leisure World's Best Awards 2021. Aquí viven muchos extranjeros, especialmente de Estados Unidos y Europa. Sin embargo, el ambiente es 100% mexicano. 
 
