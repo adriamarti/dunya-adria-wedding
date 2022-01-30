@@ -60,8 +60,6 @@ content: >-
   ##### Tiempo adecuado de estancia: 6-7 días
 
 
-
-
   [Video sobre Ciudad de México](https://www.youtube.com/watch?v=sLhs8SDDd04)
 
 
@@ -152,7 +150,7 @@ content: >-
 
     ###### ¿Dónde comer?
 
-    Definitivamente por lugares no batallarán, prácticamente en todos lados habrá un puesto, un restaurante, o un local dónde comer, y es complicado que alguno desilusione, ya sea caro, normal o barato. Desde una fonda en la calle con tacos a $5 pesos, o hasta sitios en los que por dos tacos les pueden cobrar $300... todo es cuestión de presupuestos. 
+    Definitivamente por lugares no batallarán, prácticamente en todos lados habrá un puesto, un restaurante, o un local dónde comer, y es complicado que alguno desilusione, ya sea caro, normal o barato. Desde una fonda en la calle con tacos a $5 pesos c/u, o hasta sitios en los que por dos tacos les pueden cobrar $300... todo es cuestión de presupuestos. 
 
     * Café de Tacuba. Sirven desayunos y comidas muy buenos.
     * La Casa de Toño. Sirven desayunos y comidas muy buenos.
