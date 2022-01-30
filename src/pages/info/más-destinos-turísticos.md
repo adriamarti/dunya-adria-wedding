@@ -325,8 +325,6 @@ content: >-
   ![](https://elpersonalista.com/wp-content/uploads/2020/01/la-paz-bcs-baja-california-sur-new-york-times.jpg "La Paz, Baja California Sur.")
 
 
-
-
   **Quintana Roo**
 
 
@@ -371,16 +369,9 @@ content: >-
 
   * Chichén Itzá: una de las siete maravillas del mundo moderno, está a unas tres horas de Cancún en coche. No se pierdan de visitar toda el área, tanto el juego de pelota, como el observatorio astronómico maya. Pidan un guía para poder tener la mayor información posible.  
 
-  * Uxmal: está a unas 2 horas de Chichén Itza 
+  * Uxmal: está a unas 2 horas de Chichén Itzá. Es otra zona arqueológico de las muchas que existen en la península de Yucatán. Les dejo una [foto](https://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjNkUrIN2VfocoWBxJ85iH2aQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UEd3OAEdRhvNM6voGZghM4w-P-3d-P-3d) para que la vean. 
 
-  * Las Coloradas: 
-
-
-
-
-  Mérida y Río Lagartos, Yucatán (3 días) Como ciudad y como destino turístico en general, también es muy atractivo. Tiene una playa escondida denominada "Las Coloradas", en la que el color del agua es rosa, se debe a que hay una presencia, **poco común, de microorganismos rojos** y de concentración de sal. Según los científicos este fenómeno ocurre cuando el agua se evapora y la concentración del plankton y algas rojos aumenta. También la ciudad de Yucatán es denominada como La Ciudad Blanca, por su arquitectura. 
-
-
+  * Las Coloradas: una playa escondida denominada "Las Coloradas", está a casi cuatro horas de Cancún. En esta playa el color del agua del mar es rosa, se debe a que hay una presencia, **poco común, de microorganismos rojos** y de concentración de sal. Según los científicos este fenómeno ocurre cuando el agua se evapora y la concentración del plankton y algas rojos aumenta.
 
 
   **Imágenes de Yucatán**
@@ -390,7 +381,4 @@ content: >-
 
 
   ![](https://mxcity.mx/wp-content/uploads/2020/06/las-coloradas-01.jpg "Las Coloradas.")
-
-
-  Si tienen dudas, me dicen, con confianza.
 ---
