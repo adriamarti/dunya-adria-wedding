@@ -160,7 +160,7 @@ content: >-
     * La Casa de Los Azulejos - Sanborns. Vale mucho la pena este Sanborns por ser un recinto histórico.
     * Cafetería Eno. Tiene varias sucursales pero cualquiera viene bien.
     * Taquería El Huequito.
-    * Taqueria El Califa.
+    * Taqueria El Califa. Deben pedir los de al pastor.
     * Restaurante Rosetta.
     * Restaurante Pujol. con doble estrella Michelin.
     * Cityzen Bar (tiene unas vistas increíbles).
