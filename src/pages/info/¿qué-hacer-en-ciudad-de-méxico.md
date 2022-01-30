@@ -1,8 +1,8 @@
 ---
 templateKey: info-post
 title: ¿Qué hacer en Ciudad de México?
-description: "Una pequeña selección de lugares a visitar en Ciudad de México que
-  nos gustaría que conocieran. "
+description: Una pequeña selección de lugares a visitar en Ciudad de México que
+  nos gustaría que conocieran, y que son imperdibles.
 coverImage: /img/cdmx-cover.jpg
 content: >-
   ##### Algunos tips antes de empezar...
@@ -14,19 +14,25 @@ content: >-
   ##### Medios de transporte:
 
 
-  Taxi, Uber, Autobús, Coche, Avión. Para moverse en la ciudad, les puedo recomendar 100% que caminen lo más posible, tanto en la zona centro, como en Paseo de la Reforma, Chapultepec, Insurgentes. Uber es un medio muy usado, económico y efectivo (quizás lo máximo que vayan a pagar son 10 euros, y lo pueden compartir con otras 3 personas). Así que les recomiendo que bajen la aplicación y la tengan vinculada con su tarjeta de crédito/débito. 
-
-
-  También, les recomiendo comprar un boleto del Bus Turístico que van a poder tomar desde el inicio, en el Zócalo (Plaza del Constitución). Este autobús los llevará a todos los sitios de interés, y les servirá como taxi durante dos días (yo recomiendo que sean dos circuitos y no uno, porque no les dará tiempo con uno). Así, podrán visitar los sitios más importantes, y volver a abordar el bus, usando éste como taxi. Pueden ver toda la explicación en este link:[](https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.) [Bus Turístico.](https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.)
-
-
-  Es importante que siempre lleven consigo efectivo. Al menos unos $500 pesos por día, cada persona, ya que por supuesto que en casi todos los establecimientos hay terminal para la tarjeta de débito/crédito, sin embargo, también es bueno llevar efectivo por cualquier si acaso.
+  Taxi, Uber, Autobús, Coche, Avión. Para moverse en la ciudad, les puedo recomendar 100% que caminen lo más posible, tanto en la zona centro, como en Paseo de la Reforma, Chapultepec, Insurgentes. 
 
 
   También el metro, y metrobús son eficientes, y muy baratos, cada viaje cuesta 0,40 centavos de euro. Existen ciclovías, por si gustan hacer turismo en bici. Los domingos cierran Paseo de la Reforma, toda la mañana hasta las 13:00 hrs.
 
 
-  Al llegar al aeropuerto les preguntarán cuál es el motivo de su visita, y muy probablemente cuál es la dirección del hotel, o sitio en el que se piensan hospedar. Así que tengan a la mano esta información. Al igual que en cualquier aeropuerto, existirán taxis, rentas de coche, autobús, etc, para poder llegar al hotel e instalarse. Pueden sacar dinero de los cajeros sin problema, al momento de llegar al aeropuerto (una comisión de 5€ es lo que puede cobrarles, pero básicamente eso es lo que cobran en las casas de cambio o bancos).
+  Uber es un medio muy usado, económico y efectivo (quizás lo máximo que vayan a pagar son 10 euros, y lo pueden compartir con otras 3 personas). Así que les recomiendo que bajen la aplicación y la tengan vinculada con su tarjeta de crédito/débito. 
+
+
+  También, recomendamos comprar un boleto del Bus Turístico que van a poder tomar desde el inicio, en el Zócalo (Plaza del Constitución). Este autobús los llevará a todos los sitios de interés, y les servirá como taxi durante dos días (yo recomiendo que sean dos circuitos y no uno, porque no les dará tiempo con uno). Así, podrán visitar los sitios más importantes, y volver a abordar el bus, usando éste como taxi. Pueden ver toda la explicación en este link:[](https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.) [Bus Turístico.](https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.)
+
+
+  Es importante que siempre lleven consigo efectivo. Al menos unos $500 pesos por día, cada persona, ya que por supuesto que en casi todos los establecimientos hay terminal para la tarjeta de débito/crédito, sin embargo, también es bueno llevar efectivo por cualquier si acaso.
+
+
+  Al llegar al aeropuerto les preguntarán cuál es el motivo de su visita, y muy probablemente cuál es la dirección del hotel, o sitio en el que se piensan hospedar. Así que tengan a la mano esta información. También, conserven su tarjeta que cumplimentaron al viajar a México, ésta tendrá que regresarse al momento de embarcar en el vuelo de vuelta a España. 
+
+
+  Al igual que en cualquier aeropuerto, existirán taxis, rentas de coche, autobús, etc, para poder llegar al hotel e instalarse. Pueden sacar dinero de los cajeros sin problema, al momento de llegar al aeropuerto (una comisión de 5€ es lo que puede cobrarles, pero básicamente eso es lo que cobran en las casas de cambio o bancos).
 
 
   El Wifi de la Ciudad de México lo van a encontrar con la leyenda: “Internet para todos” y funciona. Sólo que deben permanecer más bien estáticos en el punto que quieran hacer una búsqueda o utilizar whatsapp. Si van en un coche o metro, se les desconectará fácilmente.
@@ -38,15 +44,13 @@ content: >-
   ##### Algunos *facts* sobre Ciudad de México
 
 
-  * Tiene una población cercana a los 25 millones de habitantes, tomando en cuenta toda el área metropolitana (Ciudad de México y Estado de México). Se encuentra a 2250 km sobre el nivel del mar.
+  * Tiene una población cercana a los 25 millones de habitantes, tomando en cuenta toda el área metropolitana (Ciudad de México y Estado de México). Se encuentra a 2250 metros sobre el nivel del mar.
 
-  * Ciudad de México, es la ciudad más antigua de todo América. 
+  * La Calzada México-Tacuba, es la primera calle del continente, se encuentra en el centro, por si quieren recorrerla, y es la que conectaba tierra firme con el sistema de lagos de la antigua México-Tenochtitlán.
 
-  * La Calzada México-Tacuba, es la primera calle del continente, se encuentra en el centro, por si quieren recorrerla, y es la que conectaba tierra firme con el sistema de lagos de la antigua Tenochtitlan.
+  * Es la segunda ciudad con más museos del mundo (más de 200), después de Londres, así que hay para todos los gustos.
 
-  * Es la segunda ciudad con más museos del mundo (más de 200), así que hay para todos los gustos.
-
-  * Tiene la 6ª calle más larga del mundo (Avenida Insurgentes, con 29 km.). Si la quieren recorrer, vale mucho la pena.
+  * Tiene la 6ª calle más larga del mundo (Avenida de los Insurgentes, con 29 km.). Si la quieren recorrer, vale mucho la pena.
 
   * El Zócalo, como popularmente se le conoce a la Plaza de la Constitución, es la plaza más grande de América, y la segunda más grande del mundo, después de la Plaza Roja, de Moscú. Comer en alguno de los restaurantes con terraza, recorrer la calle Madero, visitar la catedral, y si es posible, entrar a Palacio de Gobierno es obligado
 
@@ -56,7 +60,7 @@ content: >-
   ##### Lugares de interés:
 
 
-  Avenida de Paseo de la Reforma (se tiene que caminar), o simplemente Paseo de la Reforma, si bien no es la avenida más larga, sí es la más importante, donde se encuentran muchísimos pasajes históricos, y se puede llegar a varias intersecciones, por ejemplo con el Ángel de la Independencia, Chapultepec, Insurgentes,  o bien con la Calle Juárez, en donde se podrá llegar a la Alameda Central, Bellas Artes, La Torre Latinoamericana, y de allí acceso a calle Madero, que desembocará en el Zócalo, la Catedral Metropolitana y Palacio de Gobierno Federal.
+  Paseo de la Reforma se tiene que caminar, tomen su tiempo para ver todo lo que tiene a sus costados, es una de las avenidas más importantes, sino la que más, donde se encuentran muchísimos pasajes históricos, y se puede llegar a varias intersecciones, por ejemplo con el Ángel de la Independencia (no pierdan oportunidad de tomar foto), lleguen hasta el bosque de Chapultepec, o bien con la Calle Juárez, hasta el otro extremo, en donde se podrá llegar a la Alameda Central, Bellas Artes, La Torre Latinoamericana, y de allí acceso a calle Madero, que desembocará en el Zócalo, la Catedral Metropolitana y Palacio de Gobierno Federal.
 
 
   ###### Paseo de La Reforma
@@ -69,6 +73,8 @@ content: >-
 
   * La Diana Cazadora
 
+  * El Senado de la República 
+
   * La Bolsa Mexicana de Valores
 
   * La Estela de Luz
@@ -80,13 +86,11 @@ content: >-
   ![](https://historiacivil.files.wordpress.com/2019/12/castillo-1.jpg)
 
 
-  * Museo de Antropología e Historia. **Este museo es imperdible**.
+  * [Museo de Antropología e Historia](https://www.mna.inah.gob.mx/). **Este museo es imperdible**. Está aquí la Piedra del Sol y muchísimas piezas de valor histórico.
 
-  * Templo Mayor
+  * Bosque de Chapultepec. Es un bosque/parque con una extensión que casi triplica a la del Central Park de New York, totalmente recomendable que lo paseen sin prisa.
 
-  * Bosque de Chapultepec
-
-  * Castillo de Chapultepec
+  * Castillo de Chapultepec (o Museo de Historia de México) **También es un museo imperdible. Es el único castillo real de América.**
 
 
   ###### Centro de la ciudad
@@ -95,25 +99,25 @@ content: >-
   ![](https://warp.la/wp-content/uploads/2021/03/Bellas-Artes.jpg)
 
 
-  * Museo de Historia de México (Castillo de Chapultepec)
-
   * Alameda Central
 
   * Palacio de Bellas Artes
 
-  * Torre Latinoamericana, les recomiendo subir al último piso. Si no está demasiado nublado podrán llegar a ver los dos volcanes a la distancia, el Popocatépetl y el Iztaccihuatl.
+  * Torre Latinoamericana, les recomiendo subir al último piso. Podrán ver toda la ciudad, y además los dos volcanes a la distancia, el Popocatépetl y el Iztaccíhuatl.
 
-  * Zócalo (Plaza de la Constitución)
+  * Zócalo (Plaza de la Constitución).
 
-  * Palacio de Gobierno Federal
+  * Palacio Nacional. Podrán ver los murales que pintó Diego Rivera sobre la historia de México.
+
+  * Templo Mayor (siglo XIII), a un costado del Palacio Federal, detrás de la Catedral Metropolitana.
 
   * Catedral Metropolitana (afuera es donde pueden contratar el bus por dos días que puede servirles de taxi).
 
-  * Calle Madero (antigua plateros)
+  * Calle Madero (antigua plateros).
 
   * Palacio Postal, les recomiendo entrar.
 
-  * Templo Mayor (siglo XIII), a un costado del Palacio Federal, detrás de la Catedral Metropolitana.
+  * Museo Nacional de Arte (MUNAL)
 
 
   ###### Otras zonas
@@ -122,13 +126,19 @@ content: >-
   ![](https://www.worldartfoundations.com/wp-content/uploads/2018/10/Museo-Soumaya.jpg)
 
 
-  * Museo Soumaya (no tiene coste)
+  * Museo Soumaya. Es propiedad de Carlos Slim, y no tiene coste para entrar. La colección es impresionante, además de que el museo es bonito de por sí. Está localizado en la Colonia Polanco.
 
-  * Colonia Polanco, Colonia La Condesa y Colonia Roma
+  * Colonia Polanco, Colonia La Condesa y Colonia Roma, totalmente recomendables para tomar una copa y comer.
 
-  * En la Condesa se come muy bien y es súper agradable, se los recomiendo mucho, además de ir a pasear al Parque México.\
-    Coyoacán - La Casa Azul (museo de Frida Kahlo)
-  * Xochimilco (trajineras)
+  * Coyoacán (que significa lugar de los que tienen o poseen coyotes) es otra cara de la ciudad, sobre todo su centro. Es una alcaldía de la Ciudad de México, donde se sentirán en un pueblito tranquilo, y muy pintoresco. Aquí está La Casa Azul ([museo de Frida Kahlo](https://www.museofridakahlo.org.mx/es/el-museo/)). Les sugiero que compren sus boletos con tiempo, porque se suele llenar mucho en esta época del año. 
 
-  * Para ir a Teotihuacan, les sugiero que en su hotel pregunten por tours directamente. Las ruinas están situadas a una hora y media de la ciudad, dirección noreste.
+    ![](https://viviryconocermexico.files.wordpress.com/2011/09/coyotes.jpg)
+  * Xochimilco. Es el único circuito de lagos que le sobrevive a los cinco que existieron en Ciudad de México. El traslado es de aproximadamente una hora desde el centro de la ciudad. Un paseo en trajineras es obligado, además del buen ambiente que se forma allí. 
+
+    ![](https://www.visitarteotihuacan.com/wp-content/uploads/2014/10/teotihuacan_18.jpg)
+  * [Teotihuacan](https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan) es otro lugar que es necesario conocer. Está a una hora y media aproximadamente desde el centro de Ciudad de México. Se puede ir en bus, ya bien con un tour, o bien tomando uno desde la centra de autobuses zona norte. Pueden preguntar por tours directamente. Las ruinas están situadas a una hora y media de la ciudad, dirección noreste. Más o menos se tarda unas ocho horas entre ir y regresar. Recorran toda la calzada de los muertos, y pidan a un guía que les explique. Si son madrugadores, y llegan allí antes de que salga el sol, podrán subirse en [globo aerostático. ](https://aerodiverti.com.mx/?gclid=Cj0KCQiAi9mPBhCJARIsAHchl1wMZRWZTyXspvjaAtw-WJeN7J16CmSbUzjdE8XkL6LwwzntOi9CLD4aAqP3EALw_wcB)
+
+    ![]()
+
+    ###### ¿Qué y dónde comer?
 ---
