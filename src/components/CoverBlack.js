@@ -51,7 +51,10 @@ const Cover = ({ title, intro, when, where, confirmButton, note }) => (
         backgroundSize: 'contain',
         backgroundRepeat: 'no-repeat',
         backgroundPositionY: 'bottom',
-        minHeight: '100vh',
+        minHeight: {
+          xs: '950px',
+          md: '100vh',
+        },
       }}
     >
       <Grid container>
@@ -88,16 +91,6 @@ const Cover = ({ title, intro, when, where, confirmButton, note }) => (
                 placeholder='none'
               />
             </Box>
-            {/* <Typography
-              variant='body1'
-              sx={{
-                color: '#ffffff',
-                textAlign: { xs: 'center', md: 'left' },
-                marginTop: { xs: '32px !important', md: '48px' },
-              }}
-            >
-              {intro}x
-            </Typography> */}
             <Markdown
               sx={{
                 fontSize: '16px',
@@ -124,7 +117,7 @@ const Cover = ({ title, intro, when, where, confirmButton, note }) => (
               textAlign='center'
               width='100%'
               sx={{
-                position: { xs: 'absolute', md: 'relative' },
+                position: 'relative',
                 bottom: { xs: '20px', md: '-20px' },
               }}
             >
@@ -135,6 +128,10 @@ const Cover = ({ title, intro, when, where, confirmButton, note }) => (
               direction='row'
               sx={{
                 position: 'absolute',
+                display: {
+                  xs: 'none',
+                  sm: 'flex',
+                },
                 bottom: { xs: '20px', md: '20px' },
                 left: { xs: '20px' },
               }}

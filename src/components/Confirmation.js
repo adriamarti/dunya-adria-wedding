@@ -229,7 +229,9 @@ const Confirmation = ({ button }) => {
                             {options &&
                               options?.map((option) => (
                                 <MenuItem key={option} value={option}>
-                                  <Box>{option}</Box>
+                                  <Box sx={{ whiteSpace: 'normal' }}>
+                                    {option}
+                                  </Box>
                                 </MenuItem>
                               ))}
                           </Field>
