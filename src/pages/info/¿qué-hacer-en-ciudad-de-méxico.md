@@ -145,7 +145,7 @@ content: >-
 
   * Recorrer el Paseo de la calle Presidente Masaryk es buena idea. Pueden encontrar restaurantes un poco caros, pero muy buenos.
 
-  * Santa Fé. Recorrerla por medio del Turibus, para mayor comodidad, ya que está alejada del centro.
+  * Santa Fé. Recorrerla por medio del Bus Turístico, para mayor comodidad, ya que está alejada del centro.
 
   * La Ciudadela. Si buscan algún recuerdo, o simplemente ver arte mexicano, éste es el lugar, no se van a arrepentir.
 
