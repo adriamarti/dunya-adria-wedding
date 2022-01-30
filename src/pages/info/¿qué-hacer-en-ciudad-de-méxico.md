@@ -26,16 +26,19 @@ content: >-
   Recomendamos comprar un boleto del Bus Turístico que van a poder tomar desde el inicio, en el Zócalo. Este autobús los llevará a todos los sitios de interés, y les servirá como taxi durante dos días (yo recomiendo que sean dos circuitos, tanto el que pasa por Santa Fe, como el que pasa por Coyoacán, y hagan las paradas que mejor consideren). Podrán visitar los sitios más importantes, y volver a abordar el bus, usando éste como taxi. Pueden ver toda la explicación en este link:[](https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.) [Bus Turístico.](https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/#:~:text=El%20autob%C3%BAs%20tur%C3%ADstico%20de%20Ciudad,entre%20otros%20lugares%20de%20inter%C3%A9s.)
 
 
-  Es importante que siempre lleven consigo efectivo. Al menos unos $500 pesos por día, cada persona, ya que por supuesto que en casi todos los establecimientos hay terminal para la tarjeta de débito/crédito, sin embargo, también es bueno llevar efectivo por cualquier si acaso.
+  Es importante que siempre lleven consigo efectivo. Ya que, aunque hay terminales para tarjetas de débito/débito la tecnología siempre puede fallar. 
 
 
-  Al llegar al aeropuerto les preguntarán cuál es el motivo de su visita, y muy probablemente cuál es la dirección del hotel, o sitio en el que se piensan hospedar. Así que tengan a la mano esta información. También, conserven su tarjeta que cumplimentaron al viajar a México, ésta tendrá que regresarse al momento de embarcar en el vuelo de vuelta a España. 
+  Al llegar al aeropuerto les preguntarán cuál es el motivo de su visita, tiempo de estancia, y muy probablemente cuál es la dirección del hotel, o sitio en el que se piensan hospedar. Así que tengan a la mano esta información. 
 
 
-  Al igual que en cualquier aeropuerto, existirán taxis, rentas de coche, autobús, etc, para poder llegar al hotel e instalarse. Pueden sacar dinero de los cajeros sin problema, al momento de llegar al aeropuerto (una comisión de 5€ es lo que puede cobrarles, pero básicamente eso es lo que cobran en las casas de cambio o bancos).
+  También, conserven su tarjeta que cumplimentaron al viajar a México, la FMM (Forma Migratoria Múltiple), que se obtiene a bordo en el avión del sitio de origen (España), en el mismo punto de entrada (aeropuerto de México), o en línea en el siguiente enlace de internet: <https://www.inm.gob.mx/fmme/publico/solicitud.html> esta FMM tendrá que regresarse al momento de embarcar en el vuelo de salida de México, si no, no les dejarán volar.
 
 
-  El Wifi de la Ciudad de México lo van a encontrar con la leyenda: “Internet para todos” y funciona. Sólo que deben permanecer más bien estáticos en el punto que quieran hacer una búsqueda o utilizar whatsapp. Si van en un coche o metro, se les desconectará fácilmente.
+  Al igual que en cualquier aeropuerto, existirán taxis, rentas de coche, autobús, etc., para poder llegar al hotel e instalarse. Pueden sacar dinero de los cajeros sin problema, al momento de llegar al aeropuerto (una comisión de 5€ es lo que puede cobrarles, pero básicamente eso es lo que cobran en las casas de cambio o bancos).
+
+
+  El Wifi de la Ciudad de México lo van a encontrar con la leyenda: “Internet para todos” y funciona. Sólo que deben permanecer más bien estáticos en el punto que quieran hacer una búsqueda o utilizar Whatsapp. Si van en un coche o metro, se les desconectará fácilmente.
 
 
   Las llamadas de emergencia se hacen al 911.
@@ -66,7 +69,7 @@ content: >-
   ##### Lugares de interés:
 
 
-  Paseo de la Reforma se tiene que caminar, tomen su tiempo para ver todo lo que tiene a sus costados, es una de las avenidas más importantes, sino la que más, donde se encuentran muchísimos pasajes históricos, y se puede llegar a varias intersecciones, por ejemplo con el Ángel de la Independencia (no pierdan oportunidad de tomar foto), lleguen hasta el bosque de Chapultepec, o bien con la Calle Juárez, hasta el otro extremo, en donde se podrá llegar a la Alameda Central, Bellas Artes, La Torre Latinoamericana, y de allí acceso a calle Madero, que desembocará en el Zócalo, la Catedral Metropolitana y Palacio de Gobierno Federal.
+  Paseo de la Reforma se tiene que caminar, tomen su tiempo para ver todo lo que tiene a sus costados, es una de las avenidas más importantes, sino la que más, donde se encuentran muchísimos pasajes históricos, y se puede llegar a varias intersecciones, por ejemplo con el Ángel de la Independencia (no pierdan oportunidad de tomar foto), lleguen hasta el bosque de Chapultepec, y visiten su museo. O bien, lleguen hasta la Calle Juárez, que está al otro extremo, en donde se podrá llegar a la Alameda Central, Bellas Artes, La Torre Latinoamericana, y de allí acceso a calle Madero, que desembocará en el Zócalo, la Catedral Metropolitana y Palacio de Gobierno Federal.
 
 
   ###### Paseo de La Reforma
