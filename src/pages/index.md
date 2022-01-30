@@ -26,7 +26,7 @@ ceremonyText: >-
   gustaría que se perdieran de nada.**
 
 
-  Una vez finalizada la ceremonia nos dirigiremos a la recepción, la cual se iniciará a las 18.30. Ofreceremos transporte hasta la recepción para aquellos que lo hayan indicado en la confirmación de asistencia.
+  Una vez finalizada la ceremonia nos dirigiremos a la recepción, la cual se iniciará a las 18.30 hrs. Ofreceremos transporte hasta la recepción para aquellos que lo hayan indicado en la confirmación de asistencia.
 celebrationPre: PARTE 2
 celebrationTitle: La celebración
 celebrationText: >-
