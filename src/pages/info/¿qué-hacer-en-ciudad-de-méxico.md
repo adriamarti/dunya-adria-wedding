@@ -137,11 +137,21 @@ content: >-
 
   * Museo Soumaya. Es propiedad de Carlos Slim, y no tiene coste para entrar. La colección es impresionante, además de que el museo es bonito de por sí. Está localizado en la Colonia Polanco.
 
-  * Colonia Polanco, Colonia La Condesa y Colonia Roma, totalmente recomendables para tomar una copa y comer.
+  * Colonia Polanco, Colonia La Condesa y Colonia Roma, totalmente recomendables para tomar una copa y comer, así como dar un paseo y descubrir la denominada "Casa de las Brujas", o tocar la cuerda a un coche que funge como monumento a la nostalgia, en la colonia Condesa.
+
+  * Palacio de Minería.
+
+  * Plaza Garibaldi. En esta plaza hay mariachis y fiesta, es ideal para ir con amigos.
+
+  * Recorrer el Paseo de la calle Presidente Masaryk es buena idea. Pueden encontrar restaurantes un poco caros, pero muy buenos.
+
+  * Santa Fé. Recorrerla por medio del Turibus, para mayor comodidad, ya que está alejada del centro.
 
   * La Ciudadela. Si buscan algún recuerdo, o simplemente ver arte mexicano, éste es el lugar, no se van a arrepentir.
 
   * Monumento a la Revolución Mexicana (colonia Tabacalera). Hay un café en lo alto de la cúpula, que les recomiendo.  
+
+  * Basílica de Guadalupe. No sólo es la basílica, sino que es un área bastante grande de jardines y más templos. Es el segundo templo más visitado del mundo, después de la Basílica de San Pedro.
 
   * Coyoacán (que significa lugar de los que tienen o poseen coyotes) es otra cara de la ciudad, sobre todo su centro. Es una alcaldía de la Ciudad de México, donde se sentirán en un pueblito tranquilo, y muy pintoresco. Aquí está La Casa Azul ([museo de Frida Kahlo](https://www.museofridakahlo.org.mx/es/el-museo/)). Les sugiero que compren sus boletos con tiempo, porque se suele llenar mucho en esta época del año. 
 
