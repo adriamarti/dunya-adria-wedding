@@ -261,18 +261,13 @@ content: >-
 
   * Chihuahua Capital: recorrer todo el centro histórico, visitar el museo de La Quinta Gameros, Museo de Pancho Villa, Museo Casa Chihuahua, Museo del Calabozo de Hidalgo, la catedral, dar un recorrido por las grutas de Nombre de Dios. Realizar el tour de [Chihuahua Bárbaro ](https://chihuahuabarbaro.com/)
 
-  * Ruta CHEPE: recomiendo muchísimo un par de días al menos para realizar el recorrido por el [CHEPE](< <https://chepe.mx/>>) (tren Chihuahua-Pacífico),  y otro par en la sierra. Allí podrán llegar a la estación que prefieran, les recomiendo quedarse en Creel, que es un pueblo mágico. Hay guías turísticos que los pueden mover a ver el Valle de las Ranas, el Valle de los Hongos, el Lago Arareco, y la cascada de Cusárare. (El tiempo de traslado es aproximadamente 7 horas porque no es un tren de alta velocidad, en realidad, ese es el encanto, para que puedan apreciar toda la naturaleza).
+  * Ruta CHEPE: recomiendo muchísimo un par de días al menos para realizar el recorrido por el \[CHEPE](< <https://chepe.mx/>>) (tren Chihuahua-Pacífico),  y otro par en la sierra. Allí podrán llegar a la estación que prefieran, les recomiendo quedarse en Creel, que es un pueblo mágico. Hay guías turísticos que los pueden mover a ver el Valle de las Ranas, el Valle de los Hongos, el Lago Arareco, y la cascada de Cusárare. (El tiempo de traslado es aproximadamente 7 horas porque no es un tren de alta velocidad, en realidad, ese es el encanto, para que puedan apreciar toda la naturaleza).
 
-  * Cañón del Cobre: si se animaron a ir a la sierra, a través del CHEPE o por bus, les recomiendo que vayan al Cañón del Cobre, es 4 veces más extenso y 2 veces más profundo que el Cañón de Colorado, en Arizona, Estados Unidos. Aquí está la tirolesa mas larga del mundo,; si[](https://es.wikipedia.org/wiki/Altitud "Altitud")
+  * Cañón del Cobre: si se animaron a ir a la sierra, a través del CHEPE o por bus, les recomiendo que vayan al Cañón del Cobre, es 4 veces más extenso y 2 veces más profundo que el Cañón de Colorado, en Arizona, Estados Unidos. Aquí está la tirolesa mas larga del mundo, si gustan, pueden probar la experiencia. Aquí dejo un video: <https://www.youtube.com/watch?v=4ckpHaMqMZ4>
 
-  * Cascada de Basaseachi:
+  * Cascada de Basaseachi: es una gozada ver la cascada permanente más alta de México, con 246 m.
 
-  * Dunas de Samalayuca:
-
-
-
-
-  Chihuahua, y la sierra de Chihuahua (4 días incluido la sierra) Es mi terruño :) La mitad del estado es desierto, o árido; mientras que la otra mitad es bosque puro. Si van a la parte desértica, podrían hacer sandboarding. Recomiendo un par de días en la capital, y otro par en la sierra. Si pueden hacer el recorrido del CHEPE (tren de pasajeros <https://chepe.mx/>) y parar a dormir en Creel, háganlo. La cascada de Cusárare y Basaseachi, totalmente recomendables. Si tienen el hígado para subirse a la tirolesa más larga del mundo, ¡adelante! En la ciudad, tienen que visitar La Quinta Gameros, El Museo de Pancho Villa, El Calabozo de Hidalgo, el Palacio de Gobierno y el Museo Casa Chihuahua, así como todo el centro histórico.
+  * Dunas de Samalayuca: el estado también tiene desierto, así que podrán hacer sandboarding si así lo desean. Se encuentra a 3 horas y media en coche desde la capital.
 
 
   **Imágenes de Chihuahua**
@@ -284,8 +279,26 @@ content: >-
   ![](https://periodicoviaje.com/wp-content/uploads/2020/07/chepe1.jpg "Recorrido tren CHEPE (Chihuahua-Pacífico)")
 
 
-  Monterrey, Nuevo León (4 días) Es la ciudad de las montañas, y se le conoce como La Sultana del Norte. A mi juicio, es junto con Ciudad de México, la capital más moderna del país. Tiene de todo. Vegetación alrededor, centro histórico bonito, pero a la vez rascacielos y tiendas modernas. La cascada Cola de Caballo, y el pueblo de Santiago son muy bellos. También cuenta con bastante oferta nocturna. Parque Fundidora es imperdible, tienen que recorrerlo, son muchas hectáreas pero vale la pena; El Museo Historia de México, a un lado del Palacio de Gobierno, es imperdible. Deben subirse al Museo del Horno de Parque Fundidora. No se olviden de probar el cabrito, es la especialidad de este estado.
+  **Nuevo León**
 
+
+  **Recomendación de estancia: 5 días**
+
+
+  Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 12 horas, vía terrestre. Lugares por visitar:
+
+
+  * Monterrey: es la capital de Nuevo León, y se le conoce como "La Sultana del Norte", y también como "La Ciudad de Las Montañas",y tiene de todo. Desde zonas boscosas alrededor, como centro histórico, oferta nocturna variada, y más. Su especialidad culinaria es el cabrito. No dejen de visitar Parque Fundidora, y entrar al [Museo del horno](http://www.horno3.org/), recorran el [Paseo Santa Lucía](https://nuevoleon.travel/experiencias/paseo-santa-lucia/). Caminen toda la Macroplaza; les recomiendo ir al museo de Historia de México, que está a un costado del Palacio de Gobierno, en la Macroplaza. Vayan hasta el asta bandera de El Obispado; la vista de toda la ciudad es espectacular. Para el desestrés, vayan al Barrio Antiguo, esta a un lado de la Macroplaza, encontrarán bares, más museos, mercaditos ambulantes y es muy bonito y tranquilo.
+
+  * San Pedro Garza García: si optan por salir de noche, esta es una magnifica zona, no se arrepentirán, encontrarán todo tipo de oferta de bares y restaurantes. 
+
+  * Villa de Santiago: a una hora por carretera de Monterrey, está Villa de Santiago, les recomiendo caminarlo todo, es otro pueblo mágico. Coman en el hotel Las Palomas, no se arrepentirán. 
+
+  * Cola de Caballo: cerca de Villa de Santiago. Es una cascada que es muy bonita por su forma, como lo indica su nombre. 
+
+  * Chipinque: está en la misma ciudad, se pueden ir en taxi o uber. Es un parque ecológico que vale muchísimo la pena caminar (y escalar). Aquí les dejo el link para que lo puedan ver mejor: [Chipinque](https://www.chipinque.org.mx/)
+
+    **Imágenes de Nuevo León** 
 
   ![](https://pbs.twimg.com/media/ENS80RoU0AING08.jpg "Monterrey, Nuevo León.")
 
@@ -293,8 +306,18 @@ content: >-
   ![](https://elsouvenir.com/wp-content/uploads/2019/01/cascada-cola-de-caballo-1.jpg "Cascada Cola de Caballo.")
 
 
-  Los Cabos y La Paz, Baja California Sur (4 días) La mayoría de los spring breakers vienen de Estados Unidos en esta época del año. Los Cabos es la ciudad más cotizada. Les diría que viesen las ballenas, pero en esa época del año es en invierno (febrero), pero pueden visitar playa muy bonitas, y hacer un tour para poder hacer submarinismo, o simplemente disfrutar de la playa. 
+  **Baja California Sur**
 
+
+  **Recomendación de estancia: 4 días**
+
+
+  Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 30 horas, vía terrestre. Lugares por visitar:
+
+
+  * Los Cabos: la mayoría de los spring breakers vienen de Estados Unidos en Semana Santa. Los Cabos es la ciudad más cotizada del estado, por sus paradiacas playas. Les diría que viesen las ballenas, pero en agosto no suelen estar, se les encuentra en invierno (más bien en el mes de febrero). 
+
+    **Imágenes de Baja California Sur**
 
   ![](https://img2.viajar.elperiodico.com/86/4d/1d/panoramica-arco.jpg "Los Cabos, Baja California Sur.")
 
@@ -302,16 +325,33 @@ content: >-
   ![](https://elpersonalista.com/wp-content/uploads/2020/01/la-paz-bcs-baja-california-sur-new-york-times.jpg "La Paz, Baja California Sur.")
 
 
-  Puerto de Veracruz y Catemaco, Veracruz (4 días). Aconsejo tomar avión para llegar. Veracruz se encuentra en el Golfo de México, y tiene costa y selva. Pueden ir al Puerto de Veracruz y desplazarse a Catemaco, es una ciudad en la que existe un ecosistema muy rico de animales pertenecientes a la selva y con una cantidad abundante de lagos. Hay uno en el que el principal animal es el cangrejo de río. Muy bonitos. En Catemaco se realizan "limpias" por brujos/curanderos, y la gente va por mero interés o por simple curiosidad. 
 
 
-  ![](https://grupoenconcreto.com/wp-content/uploads/2021/06/VERACRUZ.jpg "Puerto de Veracruz.")
+  **Quintana Roo**
 
 
-  ![](https://www.eluniversal.com.mx/sites/default/files/2021/03/24/nanciyaga_catemaco_veracruz_cabanas.jpg "Catemaco. ")
+  **Recomendación de estancia: 5 días**
 
 
-  Cancún, Tulúm, Holbox, Chichén Itzá, Quintana Roo y Yucatán (6 días). Llegada en avión. Lo pongo junto porque constituyen la Riviera Maya. Vayan a Xcaret (es todo un día) es un parque natural, donde aprenderán muchas cosas de la cultura maya y sobre todo el espectáculo final, les encantará. Busquen boletos por internet. Vayan a cenotes, hay muchísimos, y es una experiencia súper recomendable zambullirse en ellos. Chichén Itzá no puede faltar (está en el estado de Yucatán a 3 horas de Cancún en coche, ya bien que vayan en un tour o que se alquilen un coche). Tulúm es de las playas más bonitas que van a conocer, con ruinas arqueológicas de cara al mar. También pueden ir a Cobá, la pirámide más alta de la Riviera, aún los dejarán subir, según entiendo. Disfruten de las noches en Cancún y, también,  y de todo el día por Playa del Carmen. O vayan en yate hasta Isla Mujeres. También, pueden desplazarse por carretera hasta En la misma ciudad existen muchos tours, sobre todo en los hoteles y en el malecón y centro de Cancún, así como en el aeropuerto, llegando, podrán informarse en los módulos disponibles.  Por último, pero no menos importante, esta Holbox, una isla no tan masificadas de turistas, es de desconexión total, no es para nada de fiesta, sino de relajación.
+  Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 20 horas, vía terrestre. Lugares por visitar:
+
+
+  * Cancún: recorrer el malecón, tomar un ferry hasta Isla Mujeres, o visitar los bares y discotecas de noche, en el centro. Los restaurantes, todos, son muy buenos. Vayan al Bubba Gump, les va a gustar, y más si son fans de la película Forrest Gump. El Coco Bongo es mítico, también.
+
+  * Playa del Carmen: paseen por la 5ª Avenida, y disfruten de la playa abierta a todo mundo.
+
+  * Xcaret: es un parque natural, que es lugar obligado visitar. Desde la mañana y hasta la noche, tendrán para hacer de todo, y allí mismo pueden comer, hacer snorkel, y sobre todo: el espectáculo del final es 100% recomendable. Les gustará mucho. 
+
+  * Cenotes: hay muchos, pueden preguntar en los hoteles, para visitar el que más les agrade. ¡Se deben de zambullir en el agua! Es toda una experiencia.
+
+  * Tulúm: es quizás la playa más bonita de toda Riviera Maya, en cuanto a que de cara al mar se encuentran las ruinas de Tulúm. Lleven mucha agua y buen protector solar, así como lentes de sol y sombrero o gorra.
+
+  * Bacalar: está más retirado, pero pueden ir en bus, o en un coche alquilado, aquí está la laguna de los siete colores, porque literal, tiene siete tipos de azul que la hacen ver muy bonita.
+
+  * Holbox: una isla de desconexión total, no hay ningún barco directo de **Cancún** a **Holbox**, ya que el trayecto por vía acuático sería muy largo. El único ferry que llega a Isla **Holbox** sale desde Chiquilá, un pequeño pueblo a unos 10 kilómetros de la isla. Por lo tanto, el primer paso de la ruta es ir de **Cancún** a Chiquilá para poder coger el ferry a **Holbox**.
+
+
+  **Imágenes de Quintana Roo**
 
 
   ![](https://content.r9cdn.net/rimg/dimg/fb/9b/fce36aaa-city-34713-16296d9e374.jpg?crop=true&width=500&height=300&xhint=2828&yhint=1934 "Cancún, Quintana Roo.")
@@ -320,7 +360,30 @@ content: >-
   ![](https://www.ecoturismoyaventura.com/wp-content/uploads/2020/10/Cenotes-en-cancun.jpg "Cenotes.")
 
 
+  **Yucatán**
+
+
+  **Recomendación de estancia: 3 días**
+
+
+  Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 20 horas, vía terrestre. Lugares por visitar:
+
+
+  * Chichén Itzá: una de las siete maravillas del mundo moderno, está a unas tres horas de Cancún en coche. No se pierdan de visitar toda el área, tanto el juego de pelota, como el observatorio astronómico maya. Pidan un guía para poder tener la mayor información posible.  
+
+  * Uxmal: está a unas 2 horas de Chichén Itza 
+
+  * Las Coloradas: 
+
+
+
+
   Mérida y Río Lagartos, Yucatán (3 días) Como ciudad y como destino turístico en general, también es muy atractivo. Tiene una playa escondida denominada "Las Coloradas", en la que el color del agua es rosa, se debe a que hay una presencia, **poco común, de microorganismos rojos** y de concentración de sal. Según los científicos este fenómeno ocurre cuando el agua se evapora y la concentración del plankton y algas rojos aumenta. También la ciudad de Yucatán es denominada como La Ciudad Blanca, por su arquitectura. 
+
+
+
+
+  **Imágenes de Yucatán**
 
 
   ![](https://www.adonde-y-cuando.es/site/images/illustration/oualler/-chichen-itza.jpg "Chichén Itzá")
