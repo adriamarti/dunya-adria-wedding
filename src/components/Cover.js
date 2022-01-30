@@ -29,7 +29,7 @@ const Cover = ({
     <Container
       maxWidth='lg'
       sx={{
-        height: { xs: 'auto', md: '100vh' },
+        minHeight: { xs: 'auto', md: '100vh' },
         overflow: 'hidden',
       }}
     >
@@ -89,12 +89,15 @@ const Cover = ({
               sx={{
                 position: { xs: 'relative', md: 'absolute' },
                 bottom: { xs: 'none', md: '100px' },
+                marginBottom: { xs: '220px', md: '20px' },
               }}
             >
               <Stack
                 direction={{ xs: 'column', sm: 'row', md: 'column' }}
                 spacing={{ xs: 1, sm: 4, md: 1 }}
-                sx={{ marginTop: { xs: '40px', md: '0' } }}
+                sx={{
+                  marginTop: { xs: '40px', md: '0' },
+                }}
                 justifyContent='center'
               >
                 <Data label={when.label} value={when.value} />
