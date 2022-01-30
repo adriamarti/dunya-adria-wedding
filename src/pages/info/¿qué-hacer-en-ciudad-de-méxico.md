@@ -135,7 +135,7 @@ content: >-
 
   * La Ciudadela. Si buscan algún recuerdo, o simplemente ver arte mexicano, éste es el lugar, no se van a arrepentir.
 
-  * Monumento a la Revolución Meex
+  * Monumento a la Revolución Mexicana (colonia Tabacalera). Hay un café en lo alto de la cúpula, que les recomiendo.  
 
   * Coyoacán (que significa lugar de los que tienen o poseen coyotes) es otra cara de la ciudad, sobre todo su centro. Es una alcaldía de la Ciudad de México, donde se sentirán en un pueblito tranquilo, y muy pintoresco. Aquí está La Casa Azul ([museo de Frida Kahlo](https://www.museofridakahlo.org.mx/es/el-museo/)). Les sugiero que compren sus boletos con tiempo, porque se suele llenar mucho en esta época del año. 
 
@@ -151,10 +151,13 @@ content: >-
 
     * Café de Tacuba. 
     * La Casa de Toño.
-    * Taquería El Huequito
-    * Taqueria El Califa
-    * Restaurante Rosetta
-    * Restaurante Pujol
-    * Cityzen Bar (tiene unas vistas increíbles)
+    * La Casa de Los Azulejos - Sanborns. Vale mucho la pena este Sanborns por ser un recinto hisotir
+    * Cafetería Eno. Tiene varias sucursales pero cualquiera viene bien.
+    * Taquería El Huequito.
+    * Taqueria El Califa.
+    * Restaurante Rosetta.
+    * Restaurante Pujol.
+    * Cityzen Bar (tiene unas vistas increíbles).
+    * Balcón del Zócalo.
     * En el mercado de San Juan encuentran de todo. Desde lo más exóticos como insectos hasta lo tradicional.
 ---
