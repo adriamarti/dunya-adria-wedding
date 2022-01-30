@@ -268,7 +268,7 @@ content: >-
   Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 18 horas, vía terrestre. Lugares por visitar:
 
 
-  * Chihuahua Capital: recorrer todo el centro histórico, visitar el museo de La Quinta Gameros, Museo de Pancho Villa, Museo Casa Chihuahua, Museo del Calabozo de Hidalgo, la catedral, dar un recorrido por las grutas de Nombre de Dios. Realizar el tour de [Chihuahua Bárbaro ](https://chihuahuabarbaro.com/)
+  * Chihuahua Capital: recorrer todo el centro histórico, visitar el museo de La Quinta Gameros, Museo de Pancho Villa, Museo Casa Chihuahua, Museo del Calabozo de Hidalgo, la catedral, dar un recorrido por las grutas de Nombre de Dios. Realizar el tour de [Chihuahua Bárbaro ](https://chihuahuabarbaro.com/) Por la noche recomiendo ir a cenar a Distrito 1.
 
   * Ruta CHEPE: recomiendo muchísimo un par de días al menos para realizar el recorrido por el [CHEPE](https://chepe.mx/) (tren Chihuahua-Pacífico),  y otro par en la sierra. Allí podrán llegar a la estación que prefieran, les recomiendo quedarse en Creel, que es un pueblo mágico. Hay guías turísticos que los pueden mover a ver el Valle de las Ranas, el Valle de los Hongos, el Lago Arareco, y la cascada de Cusárare. (El tiempo de traslado es aproximadamente 7 horas porque no es un tren de alta velocidad, en realidad, ese es el encanto, para que puedan apreciar toda la naturaleza).
 
