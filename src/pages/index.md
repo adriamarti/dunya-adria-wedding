@@ -20,7 +20,8 @@ note: Más información
 ceremonyTitle: La ceremonia
 ceremonyText: >-
   La ceremonia religiosa tendrá lugar en la [Parroquia de la Sagrada
-  Família](https://goo.gl/maps/Fwj8gHmez5zwA4oy5), en punto de las 17 hrs. **Se
+  Familia](https://goo.gl/maps/Fwj8gHmez5zwA4oy5) (Calle Puebla 144, Colonia
+  Roma Norte, de la alcaldía Cuauhtémoc). Comenzará en punto de las 17 hrs. **Se
   ruega máxima puntualidad, la misa comenzará sin esperar a nadie, y no nos
   gustaría que se perdieran de nada.**
 
@@ -30,9 +31,10 @@ celebrationPre: PARTE 2
 celebrationTitle: La celebración
 celebrationText: >-
   Llegando a las 18:30 al [Ex-Convento de San
-  Hipólito](https://g.page/ex-convento-san-hipolito?share), comenzaremos a
-  calentar motores, con un cocktail de bienvenida, para romper el hielo y que
-  nos conozcamos todos. **¡A disfrutar!**
+  Hipólito](https://g.page/ex-convento-san-hipolito?share) (Ave. Hidalgo 107,
+  Colonia Guerrero, en la alcaldía Cuauhtémoc), comenzaremos a calentar motores,
+  con un cocktail de bienvenida, para romper el hielo y que nos conozcamos
+  todos. **¡A disfrutar!**
 
 
   Mientras están gozando de los cocteles y aperitivos, nosotros estaremos en un petit comité, celebrando nuestra boda civil. ¡En un momento más bajamos a unirnos con ustedes!
