@@ -78,15 +78,15 @@ content: >-
   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sobrevuelos_CDMX_IMG_5982_%2839488832615%29.jpg/1200px-Sobrevuelos_CDMX_IMG_5982_%2839488832615%29.jpg)
 
 
-  * Ángel de la Independencia o Victoria Alada
+  * Ángel de la Independencia o Victoria Alada.
 
-  * La Diana Cazadora
+  * La Diana Cazadora.
 
-  * El Senado de la República 
+  * El Senado de la República. 
 
-  * La Bolsa Mexicana de Valores
+  * La Bolsa Mexicana de Valores.
 
-  * La Estela de Luz
+  * La Estela de Luz.
 
 
   ###### Chapultepec
@@ -108,9 +108,9 @@ content: >-
   ![](https://warp.la/wp-content/uploads/2021/03/Bellas-Artes.jpg)
 
 
-  * Alameda Central
+  * Alameda Central.
 
-  * Palacio de Bellas Artes
+  * Palacio de Bellas Artes.
 
   * Torre Latinoamericana, les recomiendo subir al último piso. Podrán ver toda la ciudad, y además los dos volcanes a la distancia, el Popocatépetl y el Iztaccíhuatl.
 
@@ -126,7 +126,7 @@ content: >-
 
   * Palacio Postal, les recomiendo entrar.
 
-  * Museo Nacional de Arte (MUNAL)
+  * Museo Nacional de Arte (MUNAL).
 
 
   ###### Otras zonas
@@ -173,7 +173,6 @@ content: >-
     * Balcón del Zócalo.
     * Café Don Porfirio. Un café enfrente de Bellas Artes en el último piso de Sears, es una vista única.
     * Compren tacos en algún puesto donde vean bastante gente acumulada. Si no saben qué pedir pidan la especialidad. Si no les hace demasiado mal el chile, pongan salsa y no huyan ¡inténtenlo!
-    * Probar esquites y/o elotes.
-    * Probar el atole, el pulque, una cerveza con clamato, enchiladas, mole, chilaquiles, caldo tlalpeño, sopa azteca, menudo, pozole, tamales, tlacoyos, tlayudas, pambazos, y todas las cosas que no conozcan. 
+    * Probar el elotes/esquites, atole, el pulque, una cerveza con clamato, enchiladas, mole, chilaquiles, caldo tlalpeño, sopa azteca, menudo, pozole, tamales, tlacoyos, tlayudas, pambazos, y todas las cosas que no conozcan. 
     * En el mercado de San Juan encuentran de todo. Desde lo más exóticos como insectos hasta lo tradicional. También recomendamos el mercado de Coyoacán.
 ---
