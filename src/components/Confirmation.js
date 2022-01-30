@@ -194,6 +194,8 @@ const Confirmation = ({ button }) => {
                         value={selectedTab}
                         onChange={handleTabChange}
                         variant='scrollable'
+                        scrollButtons
+                        allowScrollButtonsMobile
                       >
                         {invitados.map(({ tab }) => (
                           <Tab key={tab} label={tab} />
