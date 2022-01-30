@@ -32,7 +32,7 @@ content: >-
   Al llegar al aeropuerto les preguntarán cuál es el motivo de su visita, tiempo de estancia, y muy probablemente cuál es la dirección del hotel, o sitio en el que se piensan hospedar. Así que tengan a la mano esta información. 
 
 
-  También, conserven su tarjeta que cumplimentaron al viajar a México, la FMM (Forma Migratoria Múltiple), que se obtiene a bordo en el avión del sitio de origen (España), en el mismo punto de entrada (aeropuerto de México), o en línea en el siguiente enlace de internet: <https://www.inm.gob.mx/fmme/publico/solicitud.html> esta FMM tendrá que regresarse al momento de embarcar en el vuelo de salida de México, si no, no les dejarán volar.
+  También, conserven su tarjeta que cumplimentaron al viajar a México, la FMM (Forma Migratoria Múltiple), que se obtiene a bordo en el avión del sitio de origen (España), en el mismo punto de entrada (aeropuerto de México), o en línea en el siguiente enlace de internet: <https://www.inm.gob.mx/fmme/publico/solicitud.html> esta FMM tendrá que regresarse al momento de embarcar en el vuelo de vuelta, si no, no les dejarán volar.
 
 
   Al igual que en cualquier aeropuerto, existirán taxis, rentas de coche, autobús, etc., para poder llegar al hotel e instalarse. Pueden sacar dinero de los cajeros sin problema, al momento de llegar al aeropuerto (una comisión de 5€ es lo que puede cobrarles, pero básicamente eso es lo que cobran en las casas de cambio o bancos).
