@@ -14,7 +14,8 @@ content: >-
   **Puebla.**
 
 
-  **Recomendación de estancia: 4 días**\
+  **Recomendación de estancia: 4 días**
+
 
   Medio de transporte para llegar desde CDMX: puede ser autobús, o coche\
 
@@ -23,11 +24,11 @@ content: >-
   Lugares por visitar:
 
 
-  * Ciudad de Puebla, capital del estado. Su centro histórico, la calle de los dulces, las Fuentes de Loreto, la Biblioteca Palafoxiana, la catedral, El Callejón de los Sapos, el Africam Safari, La Capilla del Rosario, la Estrella de Puebla, y más.
+  * Ciudad de Puebla, capital del estado: su centro histórico, la calle de los dulces, las Fuentes de Loreto, la Biblioteca Palafoxiana, la catedral, El Callejón de los Sapos, el Africam Safari, La Capilla del Rosario, la Estrella de Puebla, y más.
 
-  * Cholula, Puebla: Es otra ciudad del estado de Puebla. Se le considera la primera ciudad del continente, ya que fue fundada hacia el 600 a.C. Tiene la pirámide más grande en cuanto a su base, del mundo; y es además una ciudad repleta de iglesias, (la leyenda cuenta que hay una iglesia para cada día del año, la verdad es que cuenta con 39, pero son muchas para el espacio de la ciudad). En ella, podrán ver más de cerca el volcán Popocatépetl.
+  * Cholula, Puebla: es otra ciudad del estado de Puebla. Se le considera la primera ciudad del continente, ya que fue fundada hacia el 600 a.C. Tiene la pirámide más grande en cuanto a su base, del mundo; y es además una ciudad repleta de iglesias, (la leyenda cuenta que hay una iglesia para cada día del año, la verdad es que cuenta con 39, pero son muchas para el espacio de la ciudad). En ella, podrán ver más de cerca el volcán Popocatépetl.
 
-    ###### **Imágenes del Estado de Puebla**
+    Imágenes de Puebla
 
   ![Ciudad de Puebla](https://www.poblanerias.com/wp-content/archivos/2020/04/panoramica-ciudad-120884.jpg "Ciudad de Puebla")
 
@@ -35,28 +36,23 @@ content: >-
   ![](https://www.mexicodesconocido.com.mx/wp-content/uploads/2019/03/167-919-1-3iglesiaremedios.jpg "Cholula, Puebla y el volcán Popocatépetl")
 
 
-
-
   **Guanajuato**
 
 
   **Recomendación de estancia: 4 días**\
 
-  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avion.\
+  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avión.\
 
-  Tiempo para llegar desde CDMX: 2 horas y media.\
+  Tiempo para llegar desde CDMX: 5 horas, vía terrestre.\
 
   Lugares por visitar:
 
 
-  * Ciudad de Puebla, capital del estado. Su centro histórico, la calle de los dulces, las Fuentes de Loreto, la Biblioteca Palafoxiana, la catedral, El Callejón de los Sapos, el Africam Safari, La Capilla del Rosario, la Estrella de Puebla, y más.
+  * Ciudad de Guanajuato: la capital es bellísima, vale muchísimo la pena. Está el Callejón del Beso (y su leyenda), el museo de las Momias, y recintos culturales por doquier. Es una ciudad llena de eventos artísticos y culturales. La catedral es muy bonita, y tienen que recorrer los túneles que atraviesan la ciudad, caminando.
 
-  * Cholula, Puebla: Es otra ciudad del estado de Puebla. Se le considera la primera ciudad del continente, ya que fue fundada hacia el 600 a.C. Tiene la pirámide más grande en cuanto a su base, del mundo; y es además una ciudad repleta de iglesias, (la leyenda cuenta que hay una iglesia para cada día del año, la verdad es que cuenta con 39, pero son muchas para el espacio de la ciudad). En ella, podrán ver más de cerca el volcán Popocatépetl.
+  * San Miguel de Allende: es considerada la ciudad mejor ciudad del mundo, según Travel + Leisure World's Best Awards 2021. Aquí viven muchos extranjeros, especialmente de Estados Unidos y Europa. Sin embargo, el ambiente es 100% mexicano. Sus callejones y la catedral son muy bonitos.
 
-    ###### **Imágenes del Estado de Puebla**
-
-  Guanajuato y San Miguel de Allende, Guanajuato (4 días) Su capital, Guanajuato, es bellísima, vale muchísimo la pena. Está el Callejón del Beso, el museo de las Momias, y recintos culturales por doquier. Está a 5 horas en coche de Ciudad de México, si quieren mejor ir en avión también es válido. San Miguel de Allende es considerada la ciudad mejor ciudad del mundo, según Travel + Leisure World's Best Awards 2021. Aquí viven muchos extranjeros, especialmente de Estados Unidos y Europa. Sin embargo, el ambiente es 100% mexicano. 
-
+    Imágenes de Guanajuato
 
   ![](https://static1.evcdn.net/images/reduction/1243487_w-850_h-400_q-100_m-crop.jpg "Ciudad de Guanajuato. ")
 
@@ -64,7 +60,26 @@ content: >-
   ![](https://experientiality.com/wp-content/uploads/2018/09/El-Jardin-San-Miguel-De-Allende.jpg "San Miguel de Allende.")
 
 
-  La Huasteca Potosina y San Luis, San Luis Potosí. San Luis Potosí es la ciudad capital del estado con el mismo nombre, y es totalmente recomendable. Es muy agradable pasear por su centro histórico y en poco más de una hora estarán en la Huasteca, un lugar mágico con cascadas y bosque que puede ser de su interés visitar. Además está el jardín surrealista en la comunidad de Xilitla. Mejor ir en avión desde Ciudad de México.
+  **San Luis Potosí**
+
+
+  **Recomendación de estancia: 4 días**\
+
+  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avión.\
+
+  Tiempo para llegar desde CDMX: 5 horas, vía terrestre.\
+
+  Lugares por visitar:
+
+
+  * San Luis Potosí (capital): es muy agradable pasear por su centro histórico. Y puede ser el punto de estancia para poder viajar a la Huasteca Potosina.
+
+  * Huasteca Potosina: las cascadas de Tamasopo son de color turquesa, y podrán darse un baño dentro. Está a dos horas y media de la capital de San Luis Potosí, vía terrestre.
+
+  * Xilitla: el Jardín Surrealista es un imperdible. Queda un poco más alejado de la capital del estado (a unas 4 horas en coche, pero bien vale la pena descubrirlo).
+
+
+  **Imágenes de San Luis Potosí**
 
 
   ![](https://img.itinari.com/pages/images/original/5369da9a-e46e-45b4-9cbe-56ea64acc9e4-istock-1161011161.jpg?ch=DPR&dpr=1&w=1200&h=800&s=96cab924d16839e94ca01471c4fefcf4 "Huasteca Potosina.")
@@ -73,13 +88,45 @@ content: >-
   ![](https://www.mexicodesconocido.com.mx/wp-content/uploads/2017/09/fotos-xilitla-800x600-dpg-5_0.jpg "Jardín Surrealista en San Luis Potosí")
 
 
-  Cuevas de Tolantongo, Hidalgo. No he estado nunca, pero creo que puede ser una buena opción por descubrir. Son aguas termales, provenientes del interior de la tierra, con minerales, con vistas súper bonitas. Pueden ir en carretera, pero son alrededor de 4 horas en coche desde Ciudad de México.
+  **Hidalgo**
+
+
+  **Recomendación de estancia: 3 días**\
+
+  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avión.\
+
+  Tiempo para llegar desde CDMX: 3 horas y media, vía terrestre.\
+
+  Lugares por visitar:
+
+
+  * Cuevas de Tolantongo: puede ser una buena opción por descubrir. Son aguas termales, provenientes del interior de la tierra, con minerales, con vistas súper bonitas al bosque. 
+
+
+  **Imágenes de Hidalgo**
 
 
   ![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/64/dd/b1/img-20180925-083736-largejpg.jpg?w=1200&h=-1&s=1 "Cuevas de Tolantongo.")
 
 
-  Guadalajara y Puerto Vallarta, Jalisco (3 a 6 días, incluido Puerto Vallarta). De Jalisco viene la charrería, los mariachis, el tequila y el mezcal. Pueden ir al pueblo mágico de Tequila, y tener un tour de cómo se produce este producto endémico. La capital es hermosa y llena de historia también. No olviden ir al Hospicio Cabañas, la catedral, y… la o mejor, es que a 3 horas en coche, llegan a Puerto Vallarta, una playa que vale la pena. Personalmente, es una de las que más me gustan, junto con todas las de Riviera Maya. Recomiendo que se vaya en avión desde CDMX.
+  **Jalisco**
+
+
+  **Recomendación de estancia: 7 días**
+
+
+  Medio de transporte para llegar desde CDMX: se recomienda avión.\
+
+  Tiempo para llegar desde CDMX: 6 horas vía terrestre.
+
+
+  Lugares por visitar:
+
+
+  *
+
+
+  Guadalajara y Puerto Vallarta, Jalisco (4 a 7 días, incluido Puerto Vallarta). De Jalisco viene la charrería, los mariachis, el tequila y el mezcal. Pueden ir al pueblo mágico de Tequila, y tener un tour de cómo se produce este producto endémico. La capital es hermosa y llena de historia también. No olviden ir al Hospicio Cabañas, la catedral. Lo mejor, es que a 3 horas en coche, llegan a Puerto Vallarta, una playa que vale la pena. Personalmente, es una de las que más me gustan, junto con todas las de Riviera Maya. Recomiendo que se vaya en avión desde CDMX.
 
 
   ![](https://realestatemarket.com.mx/images/2021/02-febrero/1602/pequena_guadalajara.jpg "Centro de Guadalajara, Jalisco.")
