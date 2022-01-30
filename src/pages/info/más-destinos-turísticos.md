@@ -272,7 +272,7 @@ content: >-
 
   * Ruta CHEPE: recomiendo muchísimo un par de días al menos para realizar el recorrido por el [CHEPE](https://chepe.mx/) (tren Chihuahua-Pacífico),  y otro par en la sierra. Allí podrán llegar a la estación que prefieran, les recomiendo quedarse en Creel, que es un pueblo mágico. Hay guías turísticos que los pueden mover a ver el Valle de las Ranas, el Valle de los Hongos, el Lago Arareco, y la cascada de Cusárare. (El tiempo de traslado es aproximadamente 7 horas porque no es un tren de alta velocidad, en realidad, ese es el encanto, para que puedan apreciar toda la naturaleza).
 
-  * Cañón del Cobre: si se animaron a ir a la sierra, a través del CHEPE o por bus, les recomiendo que vayan al Cañón del Cobre, es 4 veces más extenso y 2 veces más profundo que el Cañón de Colorado, en Arizona, Estados Unidos. Aquí está la tirolesa mas larga del mundo, si gustan, pueden probar la experiencia. Aquí dejo un video: <https://www.youtube.com/watch?v=4ckpHaMqMZ4>
+  * Barrancas del Cobre: si se animaron a ir a la sierra, a través del CHEPE o por bus, les recomiendo que vayan a las Barrancas del Cobre, es 4 veces más extenso y 2 veces más profundo que el Cañón de Colorado, en Arizona, Estados Unidos. Aquí está la tirolesa mas larga del mundo, si gustan, pueden probar la experiencia. Aquí dejo un video: <https://www.youtube.com/watch?v=4ckpHaMqMZ4> hay varios hoteles y cabañas para poder quedarse una o dos noches. [Hotel Barrancas del Cobre.](https://www.hotelbarrancasdelcobre.com/)
 
   * Cascada de Basaseachi: es una gozada ver la cascada permanente más alta de México, con 246 m.
 
