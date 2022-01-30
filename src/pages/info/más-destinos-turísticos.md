@@ -9,7 +9,7 @@ content: >-
   consideración.** 
 
 
-  **P.D. Sobra decir que en todos se puede comer muy bien, y que hay museos y áreas de esparcimiento. Además, a algunos de los destinos les agregamos un corto video, no todos lo tienen pero no por ello, no son igual de recomendables, les animamos a que busquen por su cuenta más información de los destinos que más les interesen.**
+  **P.D. Sobra decir que en todos se puede comer muy bien, y que hay sitios de interés por conocer. Algunos destinos tienen un video para ilustrar mejor su contenido.** 
 
 
   **Puebla**
