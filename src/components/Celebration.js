@@ -3,7 +3,9 @@ import PropTypes from 'prop-types';
 
 import { Box, Container, Grid } from '@mui/material';
 
-import SanHipolitoVideo from '../videos/san-hipolito.mp4';
+import SanHipolitoVideoMp4 from '../videos/san-hipolito.mp4';
+import SanHipolitoVideoOgv from '../videos/san-hipolito.ogv';
+import SanHipolitoVideoWebm from '../videos/san-hipolito.webm';
 import Heading from './Heading';
 import Paragraph from './Paragraph';
 import Markdown from './Markdown';
@@ -32,8 +34,11 @@ const Celebration = ({ celebrationPre, celebrationTitle, celebrationText }) => (
         muted
         loop
         style={{ width: '100%', height: 'auto', objectFit: 'cover' }}
+        poster='../img/video-poster.png'
       >
-        <source src={SanHipolitoVideo} type='video/mp4' />
+        <source src={SanHipolitoVideoWebm} type='video/webm' />
+        <source src={SanHipolitoVideoOgv} type='video/ogg' />
+        <source src={SanHipolitoVideoMp4} type='video/mp4' />
       </video>
     </Box>
     <Box
