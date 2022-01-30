@@ -60,6 +60,11 @@ content: >-
   ##### Tiempo adecuado de estancia: 6-7 días
 
 
+
+
+  [Video sobre Ciudad de México](https://www.youtube.com/watch?v=sLhs8SDDd04)
+
+
   ##### Lugares de interés:
 
 
@@ -159,6 +164,7 @@ content: >-
     * Restaurante Pujol.
     * Cityzen Bar (tiene unas vistas increíbles).
     * Balcón del Zócalo.
+    * Café Don Porfirio. Un café enfrente de Bellas Artes en el último piso de Sears, es una vista única.
     * Compren tacos en algún puesto donde vean bastante gente acumulada. Si no saben qué pedir pidan la especialidad. Si no les hace demasiado mal el chile, pongan salsa y no huyan ¡inténtenlo!
     * Probar esquites y/o elotes.
     * Probar el atole, el pulque, una cerveza con clamato, enchiladas, mole, chilaquiles, caldo tlalpeño, sopa azteca, menudo, pozole, tamales, tlacoyos, tlayudas, pambazos, y todas las cosas que no conozcan. 
