@@ -21,7 +21,7 @@ ceremonyTitle: La ceremonia
 ceremonyText: >-
   La ceremonia religiosa tendrá lugar en la [Parroquia de la Sagrada
   Familia](https://goo.gl/maps/Fwj8gHmez5zwA4oy5) (Calle Puebla 144, Colonia
-  Roma Norte, de la alcaldía Cuauhtémoc). Comenzará en punto de las 17 hrs. **Se
+  Roma Norte, en la alcaldía Cuauhtémoc). Comenzará en punto de las 17 hrs. **Se
   ruega máxima puntualidad, la misa comenzará sin esperar a nadie, y no nos
   gustaría que se perdieran de nada.**
 
