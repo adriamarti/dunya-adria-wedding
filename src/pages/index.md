@@ -68,10 +68,10 @@ details:
     title: Dress code
     text: El código de vestimenta es de etiqueta. Hombres con traje completo.
       Mujeres con vestido largo.
-  - emoticon: 👶
+  - emoticon: 🍭
     title: Evento para adultos
-    text: La boda está dirigida a gente adulta. Les recomendamos no llevar niños
-      pequeños, ya que no habrá amenidades para ellos.
+    text: La boda está dirigida a gente adulta. Les recomendamos no llevar niños, ya
+      que no habrá amenidades para ellos.
   - title: Recinto histórico
     emoticon: 💒
     text: El ex convento es recinto histórico, patrimonio de la Ciudad de México.
