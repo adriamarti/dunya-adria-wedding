@@ -147,11 +147,11 @@ content: >-
 
     ###### ¿Dónde comer?
 
-    Definitivamente por lugares no batallarán, prácticamente en todos lados habrá un puesto, un restaurante, o un local dónde comer. Pero aquí van una serie de recomendaciones.
+    Definitivamente por lugares no batallarán, prácticamente en todos lados habrá un puesto, un restaurante, o un local dónde comer, y es complicado que alguno desilusione, ya sea caro, normal o barato. Desde una fonda en la calle con tacos a $5 pesos, o hasta sitios en los que por dos tacos les pueden cobrar $300... todo es cuestión de presupuestos. 
 
     * Café de Tacuba. 
     * La Casa de Toño.
-    * La Casa de Los Azulejos - Sanborns. Vale mucho la pena este Sanborns por ser un recinto hisotir
+    * La Casa de Los Azulejos - Sanborns. Vale mucho la pena este Sanborns por ser un recinto histórico.
     * Cafetería Eno. Tiene varias sucursales pero cualquiera viene bien.
     * Taquería El Huequito.
     * Taqueria El Califa.
@@ -159,5 +159,8 @@ content: >-
     * Restaurante Pujol.
     * Cityzen Bar (tiene unas vistas increíbles).
     * Balcón del Zócalo.
-    * En el mercado de San Juan encuentran de todo. Desde lo más exóticos como insectos hasta lo tradicional.
+    * Compren tacos en algún puesto donde vean bastante gente acumulada. Si no saben qué pedir pidan la especialidad. Si no les hace demasiado mal el chile, pongan salsa y no huyan ¡inténtenlo!
+    * Probar esquites y/o elotes.
+    * Probar el atole, el pulque, una cerveza con clamato, enchiladas, mole, chilaquiles, caldo tlalpeño, sopa azteca, menudo, pozole, tamales, tlacoyos, tlayudas, pambazos, y todas las cosas que no conozcan. 
+    * En el mercado de San Juan encuentran de todo. Desde lo más exóticos como insectos hasta lo tradicional. También recomendamos el mercado de Coyoacán.
 ---
