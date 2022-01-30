@@ -17,11 +17,7 @@ content: >-
   **Recomendación de estancia: 4 días**
 
 
-  Medio de transporte para llegar desde CDMX: puede ser autobús, o coche\
-
-  Tiempo para llegar desde CDMX: 2 horas y media.\
-
-  Lugares por visitar:
+  Medio de transporte para llegar desde CDMX: puede ser autobús, o coche. Tiempo para llegar desde CDMX: 2 horas y media. Lugares por visitar:
 
 
   * Ciudad de Puebla, capital del estado: su centro histórico, la calle de los dulces, las Fuentes de Loreto, la Biblioteca Palafoxiana, la catedral, El Callejón de los Sapos, el Africam Safari, La Capilla del Rosario, la Estrella de Puebla, y más.
@@ -39,13 +35,10 @@ content: >-
   **Guanajuato**
 
 
-  **Recomendación de estancia: 4 días**\
+  **Recomendación de estancia: 4 días** 
 
-  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avión.\
 
-  Tiempo para llegar desde CDMX: 5 horas, vía terrestre.\
-
-  Lugares por visitar:
+  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avión. Tiempo para llegar desde CDMX: 5 horas, vía terrestre. Lugares por visitar:
 
 
   * Ciudad de Guanajuato: la capital es bellísima, vale muchísimo la pena. Está el Callejón del Beso (y su leyenda), el museo de las Momias, y recintos culturales por doquier. Es una ciudad llena de eventos artísticos y culturales. La catedral es muy bonita, y tienen que recorrer los túneles que atraviesan la ciudad, caminando.
@@ -63,13 +56,10 @@ content: >-
   **San Luis Potosí**
 
 
-  **Recomendación de estancia: 4 días**\
+  **Recomendación de estancia: 4 días**
 
-  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avión.\
 
-  Tiempo para llegar desde CDMX: 5 horas, vía terrestre.\
-
-  Lugares por visitar:
+  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avión. Tiempo para llegar desde CDMX: 5 horas, vía terrestre. Lugares por visitar:
 
 
   * San Luis Potosí (capital): es muy agradable pasear por su centro histórico. Y puede ser el punto de estancia para poder viajar a la Huasteca Potosina.
@@ -91,13 +81,10 @@ content: >-
   **Hidalgo**
 
 
-  **Recomendación de estancia: 3 días**\
+  **Recomendación de estancia: 3 días**
 
-  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avión.\
 
-  Tiempo para llegar desde CDMX: 3 horas y media, vía terrestre.\
-
-  Lugares por visitar:
+  Medio de transporte para llegar desde CDMX: puede ser autobús, coche o avión. Tiempo para llegar desde CDMX: 3 horas y media, vía terrestre. Lugares por visitar:
 
 
   * Cuevas de Tolantongo: puede ser una buena opción por descubrir. Son aguas termales, provenientes del interior de la tierra, con minerales, con vistas súper bonitas al bosque. 
@@ -112,27 +99,23 @@ content: >-
   **Jalisco**
 
 
-  **Recomendación de estancia: 7 días**\
-
-  Medio de transporte para llegar desde CDMX: se recomienda avión.\
-
-  Tiempo para llegar desde CDMX: 6 horas vía terrestre.
+  **Recomendación de estancia: 7 días**
 
 
-  Lugares por visitar:
+  Medio de transporte para llegar desde CDMX: se recomienda avión. Tiempo para llegar desde CDMX: 6 horas vía terrestre. Lugares por visitar:
 
 
-  * Guadalajara:  la capital es hermosa y llena de historia también. No olviden ir al Hospicio Cabañas, la catedral, el teatro Degollado, y no olviden comer las tortas ahogadas.
+  * Guadalajara:  la capital es hermosa y llena de historia también. No olviden ir al Hospicio Cabañas y admirar los murales de , la catedral, el teatro Degollado, y no olviden comer las tortas ahogadas.
 
-  * Tlaquepaque: Es una ciudad pintoresca, recomendable para ir desde el medio día y hasta la tarde, comer en la plaza principal y escuchar mariachis.
+  * Tlaquepaque: Es una ciudad pintoresca, a 20 minutos de Guadalajara. Recomendable para ir desde el medio día y hasta la tarde, comer en la plaza principal, tomar un buen pulque (es una bebida también derivada de la fermentación del maguey, conocida también como la bebida de los dioses, o aguamiel), así como de escuchar mariachis (Jalisco es de donde provienen los mariachis).
 
-  * Tequila: es el pueblo mágico, de donde proviene el nombre del famoso tequila. Pueden buscar tours en internet, y ver cuál es el proceso de su destilado, producción y envasado, asi como desss 
+  * Tequila: es el pueblo mágico, de donde proviene el nombre del famoso producto endémico de México. Pueden buscar tours en internet, y ver cuál es el proceso de su destilado, producción y envasado, así como degustar un buen tequila. [Tequilatours.mx](https://tequilatours.mx/)
 
-  * Lagos de Moreno, Lago de Chapala.
+  * Lagos de Moreno, Lago de Chapala. Están a una hora de la capital. Son ciudades coloniales, con grandes lagos, y donde se puede comer muy bien.
 
+  * Puerto Vallarta: una playa que vale la pena. Personalmente, es una de las que más me gustan, junto con todas las de Riviera Maya. Su centro es muy bonito y el malecón es muy bonito para recorrerlo todo. Se hacen 3 horas aproximadamente, en coche, desde Guadalajara.
 
-  Guadalajara y Puerto Vallarta, Jalisco (4 a 7 días, incluido Puerto Vallarta). De Jalisco viene la charrería, los mariachis, el tequila y el mezcal. Pueden ir al pueblo mágico de Tequila, y tener un tour de cómo se produce este producto endémico. La capital es hermosa y llena de historia también. No olviden ir al Hospicio Cabañas, la catedral. Lo mejor, es que a 3 horas en coche, llegan a Puerto Vallarta, una playa que vale la pena. Personalmente, es una de las que más me gustan, junto con todas las de Riviera Maya. Recomiendo que se vaya en avión desde CDMX.
-
+    **Imágenes de Jalisco**
 
   ![](https://realestatemarket.com.mx/images/2021/02-febrero/1602/pequena_guadalajara.jpg "Centro de Guadalajara, Jalisco.")
 
@@ -140,8 +123,20 @@ content: >-
   ![](https://www.expreso.info/files/2020-05/Puerto_Vallarta1.jpeg "Puerto Vallarta, Jalisco.")
 
 
-  Querétaro, Querétaro (3 días). Es una ciudad colonia que a su vez es muy moderna, y está a dos horas de Ciudad de México, en coche. Vale la pena pasear por su centro histórico, visitar el Cerro de las Campañas y hacer el tour de vino y queso, por el cual es famoso.
+  **Querétaro**
 
+
+  **Recomendación de estancia: 3 días**
+
+
+  Medio de transporte para llegar desde CDMX: autobús o coche. Tiempo para llegar desde CDMX: 2 horas y media, vía terrestre. Lugares por visitar:
+
+
+  * Querétaro: Es una ciudad colonial que a su vez es muy moderna.. Vale la pena pasear por su centro histórico, visitar el Cerro de las Campañas y hacer el tour de vino y queso, por el cual es famoso.
+
+  * Tequisquiapan: A 50 minutos en coche de la capital de Querétaro, podrán hacer el tour del queso y el vino. Les dejamos una página al respecto: [tour queso y vino](https://www.viajesyenoturismo.com.mx/ruta-arte-queso-y-vino/)
+
+    **Imágenes de Querétaro**
 
   ![](https://www.remaxabc.com.mx/wp-content/uploads/2020/11/Retrata-la-belleza-que-ofrecen-los-miradores-en-Quere%CC%81taro.jpg "Ciudad de Querétaro.")
 
@@ -149,7 +144,27 @@ content: >-
   ![](https://viajacentromexico.com/wp-content/uploads/2020/07/Region-de-vinos-baja-86-scaled.jpg "Ruta del vino y el queso en Querétaro.")
 
 
-  Morelia, Pátzcuaro y la Isla de Janitzio (Michoacán). Morelia es la capital, y es muy bella, es estar en otra época, y el centro histórico es muy bonito. Janitzio es una de las islas del lago de Pátzcuaro, ubicado en el Estado de Michoacán, México. Es la más importante de las cinco islas, seguido de Yunuen, del lago de Pátzcuaro. Su nombre original purépecha es Janitsïo o Flor de trigo o maíz. Michoacan es el hogar de la mariposa monarca que migra desde Canadá en los meses de noviembre a marzo de cada año. También, en este estado, el día de muertos es el más pintoresco para vivir la experiencia el 2 noviembre. Mejor ir en avión desde Ciudad de México.
+  **Michoacán**
+
+
+  **Recomendación de estancia: 4 días**
+
+
+  Medio de transporte para llegar desde CDMX: autobús, coche o preferentemente avión. Tiempo para llegar desde CDMX: 4 horas, vía terrestre. Lugares por visitar:
+
+
+  * Morelia: es la capital del estado, y es muy bella. Es estar en otra época, y el centro histórico es muy bonito. 
+
+
+
+  * Lago de Pátzcuaro: es totalmente recomendable, está a 60 km de la capital.
+
+
+
+  * Isla de Janitzio: su nombre original purépecha es Janitsïo o Flor de trigo o maíz. Michoacan es el hogar de la mariposa monarca que migra desde Canadá en los meses de noviembre a marzo de cada año.
+
+
+  **Imágenes de Michoacán**
 
 
   ![](https://media-cdn.tripadvisor.com/media/photo-s/15/74/c8/e9/place-morelia-michoacan.jpg "Morelia, Michoacán.")
@@ -158,8 +173,20 @@ content: >-
   ![](https://www.zihuatanejo.net/patzcuaro/images/janitziofishermen2.jpg "Lago de Pátzcuaro, Michoacán.")
 
 
-  Chilpancingo, Taxco, y Acapulco, Guerrero (6 días incluido Acapulco) Mucho qué ver. En verdad.  Recomiendo que se vaya en avión desde CDMX. Taxco es conocida por ser una ciudad colonial, pueblo mágico, que conserva el ambiente del siglo XIX, mientras que Acapulco es una bahía muy concurrida y bonita, además, la capital, Chilpancingo, tiene mucha historia que puede ser de su interés. 
+  **Guerrero**
 
+
+  **Recomendación de estancia: 6 días**
+
+
+  Medio de transporte para llegar desde CDMX: autobús, coche o preferentemente avión. Tiempo para llegar desde CDMX: 4 horas y media, vía terrestre. Lugares por visitar:
+
+
+  * Taxco: es conocida por ser una ciudad colonial, pueblo mágico. Es famosa por la producción de joyas de plata y la arquitectura colonial. 
+
+  * Acapulco: es una bahía muy concurrida y bonita. No se pierdan a ver a los clavadista de La Quebrada. 
+
+    **Imágenes de Guerrero**
 
   ![](https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2021/11/platillos-tipicos-de-taxco.jpg "Taxco, Guerrero.")
 
@@ -167,7 +194,29 @@ content: >-
   ![](https://cdn.forbes.com.mx/2020/07/acapulco-640x360.jpg "Acapulco, Guerrero.")
 
 
-  Oaxaca (5  días incluido Puerto Escondido y Mazunte). Es quizás uno de los estados más mágicos del país. Con sus ruinas en Monte Albán, su cascada de Hierve El Agua y su capital. Sería mejor ir en avión, ya que está retirado de Ciudad de México. Tiene varias playas, pero la más recomendada es Puerto Escodido. Para quienes estén antes, La Guelaguetza es una tradición ancestral multicolor, de danza y música. El origen de esta hermosa celebración data de la época prehispánica y se le considera un ritual hacia los dioses; y la edición del 2022 se llevará a cabo el 25 de julio y el 1 de agosto, en la misma ciudad de Oaxaca. P.D. No se olviden de probar el mejor mezcal de gusano.
+  **Oaxaca**
+
+
+  **Recomendación de estancia: 7 días**
+
+
+  Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 7 horas, vía terrestre. Lugares por visitar:
+
+
+  * Oaxaca: La Guelaguetza es una tradición ancestral multicolor, de danza y música. El origen de esta hermosa celebración data de la época prehispánica y se le considera un ritual hacia los dioses; y la edición del 2022 se llevará a cabo el 25 de julio y el 1 de agosto. Aquí se hace muy buen mezcal de gusano.
+
+  * Monte Albán: las ruinas de la civilización maya también se localizan aquí, en Monte Albán, localizadas a 8km de la capital de Oaxaca.
+
+  * Puerto Escondido: es la ciudad más poblada de la costa oaxaqueña y uno de los principales destinos turísticos del estado. Está a 
+
+  * **Huatulco: es otra playa recomendada, la población asciende a tan sólo 7500 habitantes, por lo que es muy tranquilo.**
+
+  * **Hierve El Agua:** está ubicado en Oaxaca, a 70 km de la ciudad, en el [municipio](https://rascamapas.com/products/rascamapa-de-todos-los-municipios-de-mexico "Rasca Mapa de México") de San Lorenzo Albarradas y es un balneario natural. es un sistema de cascadas petrificadas, formadas por carbonato de calcio. Las cascadas son de origen natural y se formaron hace miles de años, por el escurrimiento de agua con alto contenido de minerales.
+
+  * Mazunte: es **auténtico, tiene playazas, se come bien**, es todo un ejemplo de **sostenibilidad y de integración de locales y extranjeros.**
+
+
+  **Imágenes de Oaxaca**
 
 
   ![](https://storage.googleapis.com/mvsnoticias/2019/07/bed20137-oaxacaguelaguetza.jpg "La Guelaguetza.")
@@ -176,7 +225,27 @@ content: >-
   ![](https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/8b/7d/ba.jpg "Monte Albán.")
 
 
-  Chiapas (5 - 6  días incluido San Cristóbal y cascadas de Agua Azul y el Cañón del Sumidero) Es la selva de México, (junto con otros estados, pero Chiapas es el referente número 1 en esta materia). No se pierdan de ir a las ruinas mayas de Palenque, aquí se ubica la tumba de Pakal, denominado "El astronauta de Palenque", se trata de una lápida descubierta en 1949 por el arqueólogo Alberto Ruz. En el interior del Templo de las Inscripciones, se representa a K'inich Janahb Pakal, un importante gobernante maya. En San Cristóbal de las Casas el clima siempre suele ser frío/fresco, así que llevar algo para cubrirse. Por último, pero no menos importante: vayan a las Cascadas de Agua Azul y El Cañón del Sumidero.
+  **Chiapas**
+
+
+  **Recomendación de estancia: 7 días**
+
+
+  Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 10 horas, vía terrestre. Lugares por visitar:
+
+
+  * Tuxtla Gutiérrez: la Plaza Cívica, se ubica la Catedral de San Marcos del siglo XVI. En las cercanías, está el Museo del Café, con exhibiciones sobre el cultivo del café en Chiapas. A menudo, el Parque de la Marimba es sede de conciertos de marimba.
+
+  * Palenque: es una zona arqueológica enclavada en el centro de la selva tropical, ubicada a 282 km de Tuxtla Gutiérrez. No se pierdan de estas ruinas mayas, donde se ubica la tumba de Pakal, denominado "El astronauta de Palenque", se trata de un importante gobernante maya. 
+
+  * Cañón del Sumidero: es un estrecho cañón de gran profundidad situado a 5 km de la capital, en el municipio de Chiapa de Corzo. Este cañón tiene un acantilado cuya altura va un poco más allá de los mil metros. [](https://es.wikipedia.org/wiki/Altitud "Altitud")
+
+  * Cascadas de Agua Azul: a 5 horas de la capital en bus, pero vale la pena. Es un sistema de cascadas color turquesa, muy bonitas. La mayoría de los turistas van en un tour hasta allí.
+
+  * San Cristóbal de Las Casas: a una hora y media de Tuxtla Gutiérrez, esta este 
+
+
+  **Imágenes de Oaxaca**Chiapas (5 - 6  días incluido San Cristóbal y cascadas de Agua Azul y el Cañón del Sumidero) Es la selva de México, (junto con otros estados, pero Chiapas es el referente número 1 en esta materia). No se pierdan de ir a las ruinas mayas de Palenque, aquí se ubica la tumba de Pakal, denominado "El astronauta de Palenque", se trata de una lápida descubierta en 1949 por el arqueólogo Alberto Ruz. En el interior del Templo de las Inscripciones, se representa a K'inich Janahb Pakal, un importante gobernante maya. En San Cristóbal de las Casas el clima siempre suele ser frío/fresco, así que llevar algo para cubrirse. Por último, pero no menos importante: vayan a las Cascadas de Agua Azul y El Cañón del Sumidero.
 
 
   ![](https://img.itinari.com/pages/images/original/87f79c55-3274-432c-963d-41e55244ddbd-istock-487421269.jpg?ch=DPR&dpr=1&w=1600&s=533ddb23b6a79ca110ba75f2f343f6d3 "Palenque, Chiapas.")
