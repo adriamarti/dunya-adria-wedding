@@ -148,31 +148,56 @@ content: >-
     ![](https://viviryconocermexico.files.wordpress.com/2011/09/coyotes.jpg)
   * Xochimilco. Es el único circuito de lagos que le sobrevive a los cinco que existieron en Ciudad de México. El traslado es de aproximadamente una hora desde el centro de la ciudad. Un paseo en trajineras es obligado, además del buen ambiente que se forma allí. 
 
-    ![](https://www.visitarteotihuacan.com/wp-content/uploads/2014/10/teotihuacan_18.jpg)
+    ![](https://www.elsoldemexico.com.mx/doble-via/cpkmrc-01-portada-cuartoscuro_824385_impreso.jpg/ALTERNATES/LANDSCAPE_400/01%20PORTADA%20cuartoscuro_824385_impreso.jpg)
   * [Teotihuacan](https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan) es otro lugar que es necesario conocer. Está a una hora y media aproximadamente desde el centro de Ciudad de México. Se puede ir en bus, ya bien con un tour, o bien tomando uno desde la centra de autobuses zona norte. Pueden preguntar por tours directamente. Las ruinas están situadas a una hora y media de la ciudad, dirección noreste. Más o menos se tarda unas ocho horas entre ir y regresar. Recorran toda la calzada de los muertos, y pidan a un guía que les explique. Si son madrugadores, y llegan allí antes de que salga el sol, podrán subirse en [globo aerostático. ](https://aerodiverti.com.mx/?gclid=Cj0KCQiAi9mPBhCJARIsAHchl1wMZRWZTyXspvjaAtw-WJeN7J16CmSbUzjdE8XkL6LwwzntOi9CLD4aAqP3EALw_wcB)
 
-    ###### ¿Dónde comer?
 
-    Definitivamente por lugares no batallarán, prácticamente en todos lados habrá un puesto, un restaurante, o un local dónde comer, y es complicado que alguno desilusione, ya sea caro, normal o barato. Desde una fonda en la calle con tacos a $5 pesos c/u, o hasta sitios en los que por dos tacos les pueden cobrar $300... todo es cuestión de presupuestos. 
+  ![](https://www.visitarteotihuacan.com/wp-content/uploads/2014/10/teotihuacan_18.jpg)
 
-    * Café de Tacuba. Sirven desayunos y comidas muy buenos.
-    * Bar La Ópera. Cuenta la leyenda que en el techo sigue marcado un balazo que Pancho Villa disparó en una de sus visitas. Es muy, muy bonito. Recomiendo los chiles en nogada.
-    * La Casa de Toño. Sirven desayunos y comidas muy buenos.
-    * La Casa de Los Azulejos - Sanborns. Vale mucho la pena este Sanborns por ser un recinto histórico.
-    * Cafetería Eno. Tiene varias sucursales pero cualquiera viene bien.
-    * Taquería El Huequito.
-    * Taqueria El Califa. Deben pedir los de al pastor.
-    * Restaurante Rosetta.
-    * El pescadito.
-    * Contramar.
-    * Villa Rica Vallejo.
-    * Restaurante Pujol. con doble estrella Michelin.
-    * Carajillo.
-    * Rosa Negra.
-    * Cityzen Bar (tiene unas vistas increíbles).
-    * Balcón del Zócalo.
-    * Café Don Porfirio. Un café enfrente de Bellas Artes en el último piso de Sears, es una vista única.
-    * Compren tacos en algún puesto donde vean bastante gente acumulada. Si no saben qué pedir pidan la especialidad. Si no les hace demasiado mal el chile, pongan salsa y no huyan ¡inténtenlo!
-    * Probar el elotes/esquites, atole, el pulque, una cerveza con clamato, enchiladas, mole, chilaquiles, caldo tlalpeño, sopa azteca, menudo, pozole, tamales, tlacoyos, tlayudas, pambazos, y todas las cosas que no conozcan. 
-    * En el mercado de San Juan encuentran de todo. Desde lo más exóticos como insectos hasta lo tradicional. También recomendamos el mercado de Coyoacán.
+
+  ###### ¿Dónde comer?
+
+
+  Definitivamente por lugares no batallarán, prácticamente en todos lados habrá un puesto, un restaurante, o un local dónde comer, y es complicado que alguno desilusione, ya sea caro, normal o barato. Desde una fonda en la calle con tacos a $5 pesos c/u, o hasta sitios en los que por dos tacos les pueden cobrar $300. Todo es cuestión de presupuestos. 
+
+
+  * Café de Tacuba. Sirven desayunos y comidas muy buenos.
+
+  * Bar La Ópera. Cuenta la leyenda que en el techo sigue marcado un balazo que Pancho Villa disparó en una de sus visitas. Es muy, muy bonito. Recomiendo los chiles en nogada.
+
+  * La Casa de Toño. Sirven desayunos y comidas muy buenos.
+
+  * La Casa de Los Azulejos - Sanborns. Vale mucho la pena este Sanborns por ser un recinto histórico.
+
+  * Cafetería Eno. Tiene varias sucursales pero cualquiera viene bien.
+
+  * Taquería El Huequito.
+
+  * Taqueria El Califa. Deben pedir los de al pastor.
+
+  * Restaurante Rosetta.
+
+  * El pescadito.
+
+  * Contramar.
+
+  * Villa Rica Vallejo.
+
+  * Restaurante Pujol. con doble estrella Michelin.
+
+  * Carajillo.
+
+  * Rosa Negra.
+
+  * Cityzen Bar (tiene unas vistas increíbles).
+
+  * Balcón del Zócalo.
+
+  * Café Don Porfirio. Un café enfrente de Bellas Artes en el último piso de Sears, es una vista única.
+
+  * Compren tacos en algún puesto donde vean bastante gente acumulada. Si no saben qué pedir pidan la especialidad. Si no les hace demasiado mal el chile, pongan salsa y no huyan ¡inténtenlo!
+
+  * Probar el elotes/esquites, atole, el pulque, una cerveza con clamato, enchiladas, mole, chilaquiles, caldo tlalpeño, sopa azteca, menudo, pozole, tamales, tlacoyos, tlayudas, pambazos, y todas las cosas que no conozcan. 
+
+  * En el mercado de San Juan encuentran de todo. Desde lo más exóticos como insectos hasta lo tradicional. También recomendamos el mercado de Coyoacán.
 ---
