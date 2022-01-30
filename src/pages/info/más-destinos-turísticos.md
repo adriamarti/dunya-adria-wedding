@@ -155,11 +155,7 @@ content: >-
 
   * Morelia: es la capital del estado, y es muy bella. Es estar en otra época, y el centro histórico es muy bonito. 
 
-
-
   * Lago de Pátzcuaro: es totalmente recomendable, está a 60 km de la capital.
-
-
 
   * Isla de Janitzio: su nombre original purépecha es Janitsïo o Flor de trigo o maíz. Michoacan es el hogar de la mariposa monarca que migra desde Canadá en los meses de noviembre a marzo de cada año.
 
@@ -242,10 +238,10 @@ content: >-
 
   * Cascadas de Agua Azul: a 5 horas de la capital en bus, pero vale la pena. Es un sistema de cascadas color turquesa, muy bonitas. La mayoría de los turistas van en un tour hasta allí.
 
-  * San Cristóbal de Las Casas: a una hora y media de Tuxtla Gutiérrez, esta este 
+  * San Cristóbal de Las Casas: a una hora y media de Tuxtla Gutiérrez, está este importante centro turístico y belleza que conserva su historia, y por eso, es uno de los pueblos mágicos más bonitos del país. 
 
 
-  **Imágenes de Oaxaca**Chiapas (5 - 6  días incluido San Cristóbal y cascadas de Agua Azul y el Cañón del Sumidero) Es la selva de México, (junto con otros estados, pero Chiapas es el referente número 1 en esta materia). No se pierdan de ir a las ruinas mayas de Palenque, aquí se ubica la tumba de Pakal, denominado "El astronauta de Palenque", se trata de una lápida descubierta en 1949 por el arqueólogo Alberto Ruz. En el interior del Templo de las Inscripciones, se representa a K'inich Janahb Pakal, un importante gobernante maya. En San Cristóbal de las Casas el clima siempre suele ser frío/fresco, así que llevar algo para cubrirse. Por último, pero no menos importante: vayan a las Cascadas de Agua Azul y El Cañón del Sumidero.
+  **Imágenes de Chiapas** 
 
 
   ![](https://img.itinari.com/pages/images/original/87f79c55-3274-432c-963d-41e55244ddbd-istock-487421269.jpg?ch=DPR&dpr=1&w=1600&s=533ddb23b6a79ca110ba75f2f343f6d3 "Palenque, Chiapas.")
@@ -254,7 +250,32 @@ content: >-
   ![](https://cdn1.matadornetwork.com/blogs/2/2018/06/Sumidero1-1200x854.jpg "Cañón del Sumidero.")
 
 
+  **Chihuahua**
+
+
+  **Recomendación de estancia: 5 días**
+
+
+  Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 18 horas, vía terrestre. Lugares por visitar:
+
+
+  * Chihuahua Capital: recorrer todo el centro histórico, visitar el museo de La Quinta Gameros, Museo de Pancho Villa, Museo Casa Chihuahua, Museo del Calabozo de Hidalgo, la catedral, dar un recorrido por las grutas de Nombre de Dios. Realizar el tour de [Chihuahua Bárbaro ](https://chihuahuabarbaro.com/)
+
+  * Ruta CHEPE: recomiendo muchísimo un par de días al menos para realizar el recorrido por el [CHEPE](< <https://chepe.mx/>>) (tren Chihuahua-Pacífico),  y otro par en la sierra. Allí podrán llegar a la estación que prefieran, les recomiendo quedarse en Creel, que es un pueblo mágico. Hay guías turísticos que los pueden mover a ver el Valle de las Ranas, el Valle de los Hongos, el Lago Arareco, y la cascada de Cusárare. (El tiempo de traslado es aproximadamente 7 horas porque no es un tren de alta velocidad, en realidad, ese es el encanto, para que puedan apreciar toda la naturaleza).
+
+  * Cañón del Cobre: si se animaron a ir a la sierra, a través del CHEPE o por bus, les recomiendo que vayan al Cañón del Cobre, es 4 veces más extenso y 2 veces más profundo que el Cañón de Colorado, en Arizona, Estados Unidos. Aquí está la tirolesa mas larga del mundo,; si[](https://es.wikipedia.org/wiki/Altitud "Altitud")
+
+  * Cascada de Basaseachi:
+
+  * Dunas de Samalayuca:
+
+
+
+
   Chihuahua, y la sierra de Chihuahua (4 días incluido la sierra) Es mi terruño :) La mitad del estado es desierto, o árido; mientras que la otra mitad es bosque puro. Si van a la parte desértica, podrían hacer sandboarding. Recomiendo un par de días en la capital, y otro par en la sierra. Si pueden hacer el recorrido del CHEPE (tren de pasajeros <https://chepe.mx/>) y parar a dormir en Creel, háganlo. La cascada de Cusárare y Basaseachi, totalmente recomendables. Si tienen el hígado para subirse a la tirolesa más larga del mundo, ¡adelante! En la ciudad, tienen que visitar La Quinta Gameros, El Museo de Pancho Villa, El Calabozo de Hidalgo, el Palacio de Gobierno y el Museo Casa Chihuahua, así como todo el centro histórico.
+
+
+  **Imágenes de Chihuahua**
 
 
   ![](http://static.tiempo.com.mx/uploads/imagen/imagen/261688/principal_eapkd3txoaaamek.jpeg "Ciudad de Chihuahua.")
