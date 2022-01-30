@@ -21,7 +21,7 @@ ceremonyTitle: La ceremonia
 ceremonyText: >-
   La ceremonia religiosa tendrá lugar en la [Parroquia de la Sagrada
   Familia](https://goo.gl/maps/Fwj8gHmez5zwA4oy5) (Calle Puebla 144, Colonia
-  Roma Norte, de la alcaldía Cuauhtémoc). Comenzará en punto de las 17 hrs. **Se
+  Roma Norte, en la alcaldía Cuauhtémoc). Comenzará en punto de las 17 hrs. **Se
   ruega máxima puntualidad, la misa comenzará sin esperar a nadie, y no nos
   gustaría que se perdieran de nada.**
 
@@ -68,10 +68,10 @@ details:
     title: Dress code
     text: El código de vestimenta es de etiqueta. Hombres con traje completo.
       Mujeres con vestido largo.
-  - emoticon: 👶
+  - emoticon: 🧒🏻
     title: Evento para adultos
-    text: La boda está dirigida a gente adulta. Les recomendamos, de la manera más
-      atenta, no llevar niños pequeños, ya que no habrá amenidades para ellos.
+    text: La boda es para gente adulta. Les recomendamos no llevar niños, ya que no
+      habrá amenidades para ellos.
   - title: Recinto histórico
     emoticon: 💒
     text: El ex convento es recinto histórico, patrimonio de la Ciudad de México.

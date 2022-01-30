@@ -9,7 +9,7 @@ content: >-
   consideración.** 
 
 
-  **P.D. Sobra decir que en todos se puede comer muy bien, y que hay museos y áreas de esparcimiento. Además, a algunos de los destinos les agregamos un corto video, no todos lo tienen pero no por ello, no son igual de recomendables, les animamos a que busquen por su cuenta más información de los destinos que más les interesen.**
+  **P.D. Sobra decir que en todos se puede comer muy bien, y que hay sitios de interés por conocer. Algunos destinos tienen un video para ilustrar mejor su contenido.** 
 
 
   **Puebla**
@@ -204,7 +204,7 @@ content: >-
 
   * Oaxaca: La Guelaguetza es una tradición ancestral multicolor, de danza y música. El origen de esta hermosa celebración data de la época prehispánica y se le considera un ritual hacia los dioses; y la edición del 2022 se llevará a cabo el 25 de julio y el 1 de agosto. Aquí se hace muy buen mezcal de gusano.
 
-  * Monte Albán: las ruinas de la civilización maya también se localizan aquí, en Monte Albán, localizadas a 8km de la capital de Oaxaca.
+  * Monte Albán: las ruinas de la civilización zapoteca también se localizan aquí, en Monte Albán, localizadas a 8km de la capital de Oaxaca.
 
   * Puerto Escondido: es la ciudad más poblada de la costa oaxaqueña y uno de los principales destinos turísticos del estado. Está a 
 
@@ -268,18 +268,18 @@ content: >-
   Medio de transporte para llegar desde CDMX:  preferentemente avión. Tiempo para llegar desde CDMX: 18 horas, vía terrestre. Lugares por visitar:
 
 
-  * Chihuahua Capital: recorrer todo el centro histórico, visitar el museo de La Quinta Gameros, Museo de Pancho Villa, Museo Casa Chihuahua, Museo del Calabozo de Hidalgo, la catedral, dar un recorrido por las grutas de Nombre de Dios. Realizar el tour de [Chihuahua Bárbaro ](https://chihuahuabarbaro.com/)
+  * Chihuahua Capital: recorrer todo el centro histórico, visitar el museo de La Quinta Gameros, Museo de Pancho Villa, Museo Casa Chihuahua, Museo del Calabozo de Hidalgo, la catedral, dar un recorrido por las grutas de Nombre de Dios. Realizar el tour de [Chihuahua Bárbaro ](https://chihuahuabarbaro.com/) Por la noche recomiendo ir a cenar a Distrito 1.
 
   * Ruta CHEPE: recomiendo muchísimo un par de días al menos para realizar el recorrido por el [CHEPE](https://chepe.mx/) (tren Chihuahua-Pacífico),  y otro par en la sierra. Allí podrán llegar a la estación que prefieran, les recomiendo quedarse en Creel, que es un pueblo mágico. Hay guías turísticos que los pueden mover a ver el Valle de las Ranas, el Valle de los Hongos, el Lago Arareco, y la cascada de Cusárare. (El tiempo de traslado es aproximadamente 7 horas porque no es un tren de alta velocidad, en realidad, ese es el encanto, para que puedan apreciar toda la naturaleza).
 
-  * Cañón del Cobre: si se animaron a ir a la sierra, a través del CHEPE o por bus, les recomiendo que vayan al Cañón del Cobre, es 4 veces más extenso y 2 veces más profundo que el Cañón de Colorado, en Arizona, Estados Unidos. Aquí está la tirolesa mas larga del mundo, si gustan, pueden probar la experiencia. Aquí dejo un video: <https://www.youtube.com/watch?v=4ckpHaMqMZ4>
+  * Barrancas del Cobre: si se animaron a ir a la sierra, a través del CHEPE o por bus, les recomiendo que vayan a las Barrancas del Cobre, es 4 veces más extenso y 2 veces más profundo que el Cañón de Colorado, en Arizona, Estados Unidos. Aquí está la tirolesa mas larga del mundo, si gustan, pueden probar la experiencia. Aquí dejo un video: <https://www.youtube.com/watch?v=4ckpHaMqMZ4> hay varios hoteles y cabañas para poder quedarse una o dos noches. [Hotel Barrancas del Cobre.](https://www.hotelbarrancasdelcobre.com/)
 
   * Cascada de Basaseachi: es una gozada ver la cascada permanente más alta de México, con 246 m.
 
   * Dunas de Samalayuca: el estado también tiene desierto, así que podrán hacer sandboarding si así lo desean. Se encuentra a 3 horas y media en coche desde la capital.
 
 
-  **[Ver video de Chihuahua](https://www.youtube.com/watch?v=komxqwqeNRU&list=PLxgnuWubm-skDv-xzUPfgXgaG63l1LxYf) éste es un video que ejemplifica el ecosistema del estado.**
+  **[Ver video de Chihuahua](https://www.youtube.com/watch?v=IXYZoDrIPDU) éste es un video que ejemplifica el ecosistema del estado.**
 
 
   **Imágenes de Chihuahua**
