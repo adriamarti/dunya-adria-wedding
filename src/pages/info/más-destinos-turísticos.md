@@ -5,7 +5,8 @@ description: Algunas sugerencias sobre posibles sitios a visitar fuera de Ciudad
 coverImage: /img/destino-cover.jpg
 content: >-
   **México cuenta con 32 estados, y muchísimas ciudades interesantes y bonitas
-  por recorrer, aquí les dejamos unas recomendaciones a su consideración.** 
+  por recorrer, pero hicimos una pequeña seleción, que aquí les dejamos a su
+  consideración.** 
 
 
   **P.D. Sobra decir que en todos se puede comer muy bien, y que hay museos y áreas de esparcimiento.**
