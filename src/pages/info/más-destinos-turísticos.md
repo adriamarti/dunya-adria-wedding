@@ -108,7 +108,7 @@ content: >-
   Medio de transporte para llegar desde CDMX: se recomienda avión. Tiempo para llegar desde CDMX: 6 horas vía terrestre. Lugares por visitar:
 
 
-  * Guadalajara:  la capital es hermosa y llena de historia también. No olviden ir al Hospicio Cabañas y admirar los murales de , la catedral, el teatro Degollado, y no olviden comer las tortas ahogadas.
+  * Guadalajara:  la capital es hermosa y llena de historia también. No olviden ir al Hospicio Cabañas y admirar los murales de Clemente Orozco, entrar a la catedral, el teatro Degollado, y no olviden comer las tortas ahogadas.
 
   * Tlaquepaque: Es una ciudad pintoresca, a 20 minutos de Guadalajara. Recomendable para ir desde el medio día y hasta la tarde, comer en la plaza principal, tomar un buen pulque (es una bebida también derivada de la fermentación del maguey, conocida también como la bebida de los dioses, o aguamiel), así como de escuchar mariachis (Jalisco es de donde provienen los mariachis).
 
