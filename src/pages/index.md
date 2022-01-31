@@ -88,7 +88,6 @@ details:
       que el último día para hacerlo es el 30 de mayo.
   - title: Medidas anti-COVID
     text: Vamos a tomar todas las medidas posibles para ofrecer una velada segura.
-      Queremos que de verdad disfruten de la velada.
     emoticon: 👌
   - text: sin embargo, hay gente que nos ha preguntado por la "Mesa de Regalos", en
       esta ocasión no tendremos, por lo que si es su deseo regalarnos algo, les
