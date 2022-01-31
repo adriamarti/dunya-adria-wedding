@@ -141,7 +141,7 @@ content: >-
 
   * Palacio de Minería.
 
-  * Plaza Garibaldi. En esta plaza hay mariachis y fiesta, es ideal para ir con amigos.
+  * Plaza Garibaldi. En esta plaza hay mariachis.
 
   * Recorrer el Paseo de la calle Presidente Masaryk es buena idea.
 
@@ -158,7 +158,7 @@ content: >-
   * Xochimilco. Es el único circuito de lagos que le sobrevive a los cinco que existieron en Ciudad de México. El traslado es de aproximadamente una hora desde el centro de la ciudad. Un paseo en trajineras es obligado, además del buen ambiente que se forma allí. 
 
     ![](https://www.elsoldemexico.com.mx/doble-via/cpkmrc-01-portada-cuartoscuro_824385_impreso.jpg/ALTERNATES/LANDSCAPE_400/01%20PORTADA%20cuartoscuro_824385_impreso.jpg)
-  * [Teotihuacan](https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan) es otro lugar que es necesario conocer. Está a una hora y media aproximadamente desde el centro de Ciudad de México. Se puede ir en bus, ya bien con un tour, o bien tomando uno desde la central de autobuses, zona norte. Pueden preguntar por tours directamente. Las ruinas están situadas a una hora y media de la ciudad, dirección noreste. Más o menos se tarda unas ocho horas entre ir y regresar. Recorran toda la calzada de los muertos, y pidan a un guía que les explique. Si son madrugadores, y llegan allí antes de que salga el sol, podrán subirse en [globo aerostático. ](https://aerodiverti.com.mx/?gclid=Cj0KCQiAi9mPBhCJARIsAHchl1wMZRWZTyXspvjaAtw-WJeN7J16CmSbUzjdE8XkL6LwwzntOi9CLD4aAqP3EALw_wcB)
+  * **[Teotihuacan](https://www.inah.gob.mx/zonas/23-zona-arqueologica-de-teotihuacan)**  Está a una hora y media aproximadamente desde el centro de Ciudad de México. Se puede ir en bus, ya bien con un tour (Bus Turístico), o bien tomando uno desde la central de autobuses, zona norte. Pueden preguntar por tours directamente en su hotel. La zona arqueológica se encuentra  a una hora y media de la ciudad, dirección noreste. Más o menos se tarda unas ocho horas entre ir, visitar y regresar. Recorran toda la calzada de los muertos, y pidan a un guía que les explique. Si son madrugadores, y llegan allí antes de que salga el sol, podrán subirse en [globo aerostático. ](https://aerodiverti.com.mx/?gclid=Cj0KCQiAi9mPBhCJARIsAHchl1wMZRWZTyXspvjaAtw-WJeN7J16CmSbUzjdE8XkL6LwwzntOi9CLD4aAqP3EALw_wcB)
 
 
   ![](https://www.visitarteotihuacan.com/wp-content/uploads/2014/10/teotihuacan_18.jpg)
