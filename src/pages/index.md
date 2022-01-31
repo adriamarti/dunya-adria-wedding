@@ -66,8 +66,8 @@ infoPosts:
 details:
   - emoticon: 👠 🎩
     title: Dress code
-    text: El código de vestimenta es de etiqueta. Hombres con traje completo.
-      Mujeres con vestido largo.
+    text: "El código de vestimenta es de etiqueta. Hombres con traje completo.
+      Mujeres con vestido largo. "
   - emoticon: 🧒🏻
     title: Evento para adultos
     text: Les recomendamos de la manera más atenta no llevar niños, ya que no habrá
@@ -78,13 +78,16 @@ details:
       Debemos cuidarlo. No se permite fumar en ninguna área.
   - emoticon: 🙋
     title: Confirmación
-    text: No olviden registrarse, o no podrán acceder al banquete. El último día
-      para hacerlo es el 30 de mayo.
+    text: No olviden registrarse, o no podrán acceder al banquete, con su nombre se
+      generará la lista oficial de invitados que asistirán. Recuerden que el
+      último día para hacerlo es el 30 de mayo.
   - title: Medidas anti-COVID
     text: Vamos a tomar todas las medidas posibles para ofrecer una velada segura.
+      Queremos que de verdad disfruten de la velada.
     emoticon: 👌
-  - text: sin embargo, si es su deseo regalarnos algo, les agradeceremos que sea
-      efectivo en sobres.
+  - text: sin embargo, hay gente que nos ha preguntado por la "Mesa de Regalos", en
+      esta ocasión no tendremos, por lo que si es su deseo regalarnos algo, les
+      agradeceremos que sea efectivo en sobres.
     title: Su presencia es nuestro mayor regalo…
     emoticon: 🎁
 paragraph: >
