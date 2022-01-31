@@ -63,6 +63,12 @@ infoPosts:
     link: /info/¿necesitarás-maquillaje-y-peinado/
     image: /img/hair-featured.jpg
     title: " ¿Necesitarás maquillaje y peinado?"
+  - title: Manténganse al tanto
+    link: /info/Manténganse-al-tanto/
+    text: Si hay nueva información, la estaremos colocando en este apartado, por lo
+      que les pedimos que, de vez en cuando, se metan a navegar, en caso de que
+      haya alguna nueva.
+    image: https://www.celside-magazine.com/app/uploads/2021/04/glenn-carstens-peters-npxXWgQ33ZQ-unsplash-scaled.jpg
 details:
   - emoticon: 👠 🎩
     title: Dress code
