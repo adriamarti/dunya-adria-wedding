@@ -79,7 +79,7 @@ details:
       amenidades para ellos.
   - title: Recinto histórico
     emoticon: 💒
-    text: El ex convento es recinto del siglo XVI, patrimonio de la Ciudad de
+    text: El ex convento es un recinto del siglo XVI, patrimonio de la Ciudad de
       México. Debemos cuidarlo. No se permite fumar en ninguna área.
   - emoticon: 🙋
     title: Confirmación
