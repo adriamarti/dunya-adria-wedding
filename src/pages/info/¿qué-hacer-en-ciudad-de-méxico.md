@@ -192,7 +192,7 @@ content: >-
 
   * Villa Rica Vallejo.
 
-  * Restaurante Pujol. con doble estrella Michelin.
+  * Restaurante Pujol. con estrella Michelin.
 
   * Carajillo.
 
@@ -208,5 +208,5 @@ content: >-
 
   * Prueben los elotes/esquites, el atole, el pulque, una cerveza con clamato, enchiladas, mole, chilaquiles, caldo tlalpeño, sopa azteca, menudo, pozole, tamales, tlacoyos, tlayudas, pambazos, y todas las cosas que no conozcan. 
 
-  * En el mercado de San Juan encuentran de todo. Desde lo más exóticos como insectos hasta lo tradicional. También recomendamos el mercado de Coyoacán.
+  * En el mercado de San Juan encuentran de todo. Desde lo más exótico, como insectos, hasta lo tradicional. También recomendamos el mercado de Coyoacán.
 ---
