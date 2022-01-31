@@ -83,8 +83,8 @@ details:
       Debemos cuidarlo. No se permite fumar en ninguna área.
   - emoticon: 🙋
     title: Confirmación
-    text: No olviden registrarse, o no podrán acceder al banquete, con su nombre se
-      generará la lista oficial de invitados que asistirán. Recuerden que el
+    text: No olviden registrarse, o no podrán acceder al banquete, con su nombre y
+      apellidos se generará la lista oficial de asistentes. Recuerden que el
       último día para hacerlo es el 30 de mayo.
   - title: Medidas anti-COVID
     text: Vamos a tomar todas las medidas posibles para ofrecer una velada segura.
