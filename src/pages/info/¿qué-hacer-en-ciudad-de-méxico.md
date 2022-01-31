@@ -206,7 +206,7 @@ content: >-
 
   * Compren tacos en algún puesto donde vean bastante gente acumulada. Si no saben qué pedir pidan la especialidad. Si no les hace demasiado mal el chile, pongan salsa y no huyan ¡inténtenlo!
 
-  * Probar el elotes/esquites, atole, el pulque, una cerveza con clamato, enchiladas, mole, chilaquiles, caldo tlalpeño, sopa azteca, menudo, pozole, tamales, tlacoyos, tlayudas, pambazos, y todas las cosas que no conozcan. 
+  * Prueben los elotes/esquites, el atole, el pulque, una cerveza con clamato, enchiladas, mole, chilaquiles, caldo tlalpeño, sopa azteca, menudo, pozole, tamales, tlacoyos, tlayudas, pambazos, y todas las cosas que no conozcan. 
 
   * En el mercado de San Juan encuentran de todo. Desde lo más exóticos como insectos hasta lo tradicional. También recomendamos el mercado de Coyoacán.
 ---
