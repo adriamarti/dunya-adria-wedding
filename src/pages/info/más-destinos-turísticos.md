@@ -118,7 +118,12 @@ content: >-
 
   * Puerto Vallarta: una playa que vale la pena. Personalmente, es una de las que más me gustan, junto con todas las de Riviera Maya. Su centro es muy bonito y el malecón es muy bonito para recorrerlo todo. Se hacen 3 horas aproximadamente, en coche, desde Guadalajara.
 
-    **Imágenes de Jalisco**
+
+  **[Ver video de Guadalajara](https://www.youtube.com/watch?v=c4VGUawfTTc)**
+
+
+  **Imágenes de Jalisco**
+
 
   ![](https://realestatemarket.com.mx/images/2021/02-febrero/1602/pequena_guadalajara.jpg "Centro de Guadalajara, Jalisco.")
 
@@ -311,6 +316,8 @@ content: >-
   * Chipinque: está en la misma ciudad, se pueden ir en taxi o uber. Es un parque ecológico que vale muchísimo la pena caminar (y escalar). Aquí les dejamos el link para que lo puedan ver mejor: [Chipinque](https://www.chipinque.org.mx/)
 
     **Imágenes de Nuevo León** 
+
+    [Ver video de Monterrey](https://www.youtube.com/watch?v=eyj09ZokdpU)
 
   ![](https://pbs.twimg.com/media/ENS80RoU0AING08.jpg "Monterrey, Nuevo León.")
 
