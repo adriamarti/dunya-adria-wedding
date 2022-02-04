@@ -112,7 +112,7 @@ content: >-
 
   * Palacio de Bellas Artes.
 
-  * Torre Latinoamericana, les recomiendo subir al último piso. Podrán ver toda la ciudad, y además los dos volcanes a la distancia, el Popocatépetl y el Iztaccíhuatl.
+  * Torre Latinoamericana, les recomendamos subir al último piso. Podrán ver toda la ciudad, y además los dos volcanes a la distancia, el Popocatépetl y el Iztaccíhuatl.
 
   * Zócalo (Plaza de la Constitución).
 
