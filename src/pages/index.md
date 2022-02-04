@@ -66,8 +66,8 @@ infoPosts:
 details:
   - emoticon: 👠 🎩
     title: Dress code
-    text: "El código de vestimenta es de etiqueta. Hombres con traje completo.
-      Mujeres con vestido largo. "
+    text: "El código de vestimenta es de etiqueta rigurosa. Hombres con traje
+      completo. Mujeres con vestido largo. "
   - emoticon: 🧒🏻
     title: Evento para adultos
     text: Les recomendamos de la manera más atenta no llevar niños, ya que no habrá
