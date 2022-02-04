@@ -126,7 +126,7 @@ content: >-
 
   * Palacio Postal, les recomiendo entrar.
 
-  * Museo Nacional de Arte (MUNAL).
+  * Museo Nacional de Arte (MUNAL). Los domingos es gratis.
 
 
   ###### Otras zonas
