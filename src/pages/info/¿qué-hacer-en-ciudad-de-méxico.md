@@ -47,7 +47,7 @@ content: >-
   ##### Algunos *facts* sobre Ciudad de México
 
 
-  * Tiene una población cercana a los 25 millones de habitantes, tomando en cuenta toda el área metropolitana (Ciudad de México y Estado de México), lo que la hace la ciudad más poblada de América.  Se encuentra a 2250 metros sobre el nivel del mar.
+  * Tiene una población cercana a los 23 millones de habitantes, tomando en cuenta toda el área metropolitana (Ciudad de México y Estado de México), lo que la hace la ciudad más poblada de América.  Se encuentra a 2250 metros sobre el nivel del mar.
 
   * La Calzada México-Tacuba, es una de las cuatro calzadas originales que fueron construidas por los mexicas[](https://es.wikipedia.org/wiki/Mexicas "Mexicas"), cuya función principal era comunicar a México-Tenochtitlan, situada en el Lago de Texcoco.
 
