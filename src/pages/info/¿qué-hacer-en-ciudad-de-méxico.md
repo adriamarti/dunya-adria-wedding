@@ -137,7 +137,7 @@ content: >-
 
   * Museo Soumaya. Es propiedad de Carlos Slim, y no tiene coste para entrar. La colección es impresionante, además de que el museo es bonito de por sí. Está localizado en la Colonia Polanco.
 
-  * Den una vuelta por las colonias Polanco, La Condesa, La Roma y La Zona Rosa: totalmente recomendables para tomar una copa y comer, así como dar un paseo y descubrir la denominada "Casa de las Brujas", o tocar la cuerda a un coche que funge como monumento a la nostalgia, en la colonia Condesa.
+  * Den una vuelta por las colonias Polanco, La Condesa, La Juárez, La Roma y La Zona Rosa: totalmente recomendables para tomar una copa y comer, así como dar un paseo y descubrir la denominada "Casa de las Brujas", o tocar la cuerda a un coche que funge como monumento a la nostalgia, en la colonia Condesa.
 
   * Palacio de Minería.
 
