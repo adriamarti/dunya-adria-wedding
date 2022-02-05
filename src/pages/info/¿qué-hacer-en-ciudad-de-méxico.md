@@ -14,7 +14,7 @@ content: >-
   ##### Medios de transporte
 
 
-  Les recomendamos encarecidamente caminar lo más posible, tanto en el Centro Histórico, como en Paseo de la Reforma, Chapultepec e Insurgentes. 
+  Les recomendamos encarecidamente caminar lo más posible, en el Centro Histórico, Paseo de la Reforma, Chapultepec e Insurgentes. 
 
 
   El metro y metrobús son muy eficientes, y muy baratos, cada viaje cuesta 0,40 centavos de euro. Existen ciclovías, por si gustan hacer turismo en bici. Los domingos cierran Paseo de la Reforma, toda la mañana hasta las 13:00 hrs.
