@@ -67,7 +67,7 @@ content: >-
 
   * San Luis Potosí (capital): es muy agradable pasear por su centro histórico. Y puede ser el punto de estancia para poder viajar a la Huasteca Potosina.
 
-  * Real de Catorce: es un pueblo mágico que fue bastante importante en cuestión de mineria , 
+  * Real de Catorce: es un pueblo mágico que fue bastante importante para la minería, y recorrerlo es volver a estar en esa época del siglo XVIII.
 
   * Huasteca Potosina: las cascadas de Tamasopo son de color turquesa, y podrán darse un baño dentro. Está a dos horas y media de la capital de San Luis Potosí, vía terrestre.
 
