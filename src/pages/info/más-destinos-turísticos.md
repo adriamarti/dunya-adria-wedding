@@ -4,9 +4,9 @@ title: Más Destinos Turísticos
 description: Algunas sugerencias sobre posibles sitios a visitar fuera de Ciudad de México.
 coverImage: /img/destino-cover.jpg
 content: >-
-  **México cuenta con 32 estados, y muchísimas ciudades interesantes y bonitas
-  por recorrer, pero hicimos una pequeña selección, que aquí les dejamos a su
-  consideración.** 
+  **México cuenta con 32 entidades federativas, y muchísimas ciudades
+  interesantes y bonitas por recorrer, pero hicimos una pequeña selección, que
+  aquí les dejamos a su consideración.** 
 
 
   **P.D. Sobra decir que en todos se puede comer muy bien, y que hay sitios de interés por conocer. Algunos destinos tienen un video para ilustrar mejor su contenido.** 
