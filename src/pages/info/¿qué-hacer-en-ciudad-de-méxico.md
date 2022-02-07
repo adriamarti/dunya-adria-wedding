@@ -97,9 +97,9 @@ content: >-
 
   * [Museo de Antropología e Historia](https://www.mna.inah.gob.mx/). **Este museo es imperdible**. Está aquí la Piedra del Sol y muchísimas piezas de valor histórico.
 
-  * **Bosque de Chapultepec.** Es un bosque/parque con una extensión que casi triplica a la del Central Park de New York, totalmente recomendable que lo paseen sin prisa.
+  * Bosque de Chapultepec. Es un bosque/parque con una extensión que casi triplica a la del Central Park de New York, **totalmente recomendable que lo paseen sin prisa.**
 
-  * Castillo de Chapultepec (o Museo de Historia de México) **También es un museo imperdible. Es el único castillo real de América.**
+  * [Castillo de Chapultepec](https://www.mexicoescultura.com/recinto/53752/museo-nacional-de-historia-castillo-de-chapultepec.html) (o Museo de Historia de México) **También es un museo imperdible. Es el único castillo real de América.**
 
 
   ###### Centro de la ciudad
@@ -118,7 +118,7 @@ content: >-
 
   * Palacio Nacional. Podrán ver los murales que pintó Diego Rivera sobre la historia de México.
 
-  * Templo Mayor (siglo XIII), a un costado del Palacio Federal, detrás de la Catedral Metropolitana.
+  * **Templo Mayor (siglo XIII)**, a un costado del Palacio Federal, detrás de la Catedral Metropolitana. También es una visita obligada.
 
   * Catedral Metropolitana (afuera es donde pueden contratar el bus por dos días que puede servirles de taxi).
 
