@@ -67,6 +67,8 @@ content: >-
 
   * San Luis Potosí (capital): es muy agradable pasear por su centro histórico. Y puede ser el punto de estancia para poder viajar a la Huasteca Potosina.
 
+  * Real de Catorce: es un pueblo mágico que fue bastante importante en cuestión de mineria , 
+
   * Huasteca Potosina: las cascadas de Tamasopo son de color turquesa, y podrán darse un baño dentro. Está a dos horas y media de la capital de San Luis Potosí, vía terrestre.
 
   * Xilitla: el Jardín Surrealista es un imperdible. Queda un poco más alejado de la capital del estado (a unas 4 horas en coche, pero bien vale la pena descubrirlo).
