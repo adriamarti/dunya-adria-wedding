@@ -35,7 +35,7 @@ content: >-
   También, conserven su tarjeta que cumplimentaron al viajar a México, la FMM (Forma Migratoria Múltiple), que se obtiene a bordo en el avión del sitio de origen (España), en el mismo punto de entrada (aeropuerto de México), o en línea en el siguiente enlace de internet: <https://www.inm.gob.mx/fmme/publico/solicitud.html> esta FMM tendrán que regresarla al momento de embarcar en el vuelo de vuelta, si no, no les dejarán volar.
 
 
-  Al igual que en cualquier aeropuerto, existirán taxis, renta de coche, autobús, etc. Pueden sacar dinero de los cajeros sin problema, en el aeropuerto (una comisión de 5€ es lo que puede cobrarles, pero básicamente eso es lo que cobran en las casas de cambio o bancos).
+  Al igual que en cualquier aeropuerto, existirán taxis, renta de coche, autobús, etc. Pueden sacar dinero de los cajeros automáticos ( cobran una comisión alrededor de los €5 es lo que puede cobrarles, pero básicamente eso es lo que cobran en las casas de cambio o bancos).
 
 
   El Wifi de la Ciudad de México lo van a encontrar con la leyenda: “Internet para todos” es gratis  y funciona bien. Sólo que deben permanecer más bien estáticos en el punto que quieran hacer una búsqueda o utilizar Whatsapp. Si van en un coche o metro, se les desconectará fácilmente.
