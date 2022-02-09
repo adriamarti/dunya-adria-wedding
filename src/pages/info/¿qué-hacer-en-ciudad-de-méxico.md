@@ -17,7 +17,7 @@ content: >-
   Les recomendamos encarecidamente caminar lo más posible, en el Centro Histórico, Paseo de la Reforma, Chapultepec e Insurgentes. 
 
 
-  El metro y metrobús son muy eficientes, y muy baratos, cada viaje cuesta 0,40 centavos de euro. Existen ciclovías, por si gustan hacer turismo en bici. Los domingos cierran Paseo de la Reforma, toda la mañana hasta las 13:00 hrs.
+  El metro y metrobús son muy eficientes, y muy baratos, cada viaje cuesta 0,30 centavos de euro. Existen ciclovías, por si gustan hacer turismo en bici. Los domingos cierran Paseo de la Reforma, toda la mañana hasta las 13:00 hrs.
 
 
   Uber, Didi, Cabify, son también medios de transporte efectivos (quizás lo máximo que vayan a pagar son 10 euros, y lo pueden compartir con otras 3 personas). Así que les recomiendo que bajen las aplicaciones y la tengan vinculadas con su tarjeta de crédito/débito, aunque también puede pagarse en efectivo. Por otro lado, si no quieren hacer uso de estas aplicaciones, pueden tomar un taxi (los reconocerán de inmediato, son blancos con rosa), abundan en la ciudad.
