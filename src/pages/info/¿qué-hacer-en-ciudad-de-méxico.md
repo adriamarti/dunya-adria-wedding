@@ -63,7 +63,7 @@ content: >-
   ##### Tiempo adecuado de estancia: 6-7 días
 
 
-  ###### **[Video sobre Ciudad de México](https://www.youtube.com/watch?v=sLhs8SDDd04)**
+  #### **[Video sobre Ciudad de México](https://www.youtube.com/watch?v=sLhs8SDDd04)**
 
 
   ##### Lugares de interés
