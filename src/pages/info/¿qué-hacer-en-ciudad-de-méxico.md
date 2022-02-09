@@ -69,6 +69,9 @@ content: >-
   ##### Lugares de interés
 
 
+  Tiene tantos, que seguramente, incluso los habitantes de la ciudad no se la conocen toda, pero quisimos hacerles un breve listado de lo que consideramos más representativo/importante.
+
+
   Paseo de la Reforma se tiene que caminar. Tomen su tiempo para ver todo lo que tiene a sus costados, es una de las avenidas más importantes, sino la que más, donde se encuentran muchísimos pasajes históricos, y se puede llegar a varias intersecciones, por ejemplo con el Ángel de la Independencia (no pierdan oportunidad de tomar foto), lleguen hasta el bosque de Chapultepec, y visiten su museo. O bien, lleguen hasta la Calle Juárez, que está al otro extremo, en donde se podrá llegar a la Alameda Central, Bellas Artes, La Torre Latinoamericana, y de allí acceso a calle Madero, que desembocará en el Zócalo, la Catedral Metropolitana y Palacio Nacional.
 
 
