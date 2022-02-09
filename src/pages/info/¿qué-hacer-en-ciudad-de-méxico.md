@@ -38,7 +38,7 @@ content: >-
   Al igual que en cualquier aeropuerto, existirán taxis, renta de coche, autobús, etc. Pueden sacar dinero de los cajeros automáticos (cobran una comisión alrededor de los €5, pero básicamente eso es lo que cobran en las casas de cambio).
 
 
-  El Wifi de la Ciudad de México lo van a encontrar con la leyenda: “Internet para todos” es gratis  y funciona bien. Sólo que deben permanecer más bien estáticos en el punto que quieran hacer una búsqueda o utilizar Whatsapp. Si van en un coche o metro, se les desconectará fácilmente.
+  El Wifi de la Ciudad de México lo van a encontrar con la leyenda: “Internet para todos” es gratis  y funciona bien; sólo deberán permanecer en un lugar sin desplazarse tan rápido, ya que si están en el metro o en un coche, puede desconectarse. 
 
 
   Las llamadas de emergencia se hacen al 911.
