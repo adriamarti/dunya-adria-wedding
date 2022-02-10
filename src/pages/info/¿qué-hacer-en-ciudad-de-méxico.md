@@ -59,6 +59,7 @@ content: >-
 
   * Antiguamente, era una ciudad situada entre lagos. El único que le sobrevive es Xochimilco, y se puede visitar, y disfrutar de las trajineras. Está a 1 hora aproximadamente en coche, pero vale la pena. 
 
+    ![](https://www.lavanguardia.com/files/image_948_465/uploads/2018/10/08/5fa447e10b952.jpeg)
 
   ##### Tiempo adecuado de estancia: 6-7 días
 
@@ -156,6 +157,7 @@ content: >-
 
   * Basílica de Guadalupe. No sólo es la basílica, sino que es un área bastante grande de jardines y más templos. Es el segundo templo más visitado del mundo, después de la Basílica de San Pedro.
 
+    ![](https://www.xmigrations.com/wp-content/uploads/2019/08/Tour-por-el-n%C3%BAcleo-cultural-de-Coyoac%C3%A1n-con-visita-al-Museo-Frida-Kahlo-Ciudad-de-M%C3%A9xico1.jpg)
   * Coyoacán (que significa lugar de los que tienen o poseen coyotes) es otra cara de la ciudad, sobre todo su centro. Es una alcaldía de la Ciudad de México, donde se sentirán en un pueblito tranquilo, y muy pintoresco. Aquí está La Casa Azul ([museo de Frida Kahlo](https://www.museofridakahlo.org.mx/es/el-museo/)). Les sugiero que compren sus boletos con tiempo, porque se suele llenar mucho en esta época del año. 
 
   * Xochimilco. Es el único circuito de lagos que le sobrevive a los cinco que existieron en Ciudad de México. El traslado es de aproximadamente una hora desde el centro de la ciudad. Un paseo en trajineras es obligado, además del buen ambiente que se forma allí. 
