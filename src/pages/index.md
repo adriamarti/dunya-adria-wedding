@@ -69,9 +69,9 @@ details:
     text: "El código de vestimenta es de etiqueta rigurosa. Hombres con traje
       completo. Mujeres con vestido largo. "
   - emoticon: 🧒🏻
-    title: Evento para adultos
-    text: Les recomendamos de la manera más atenta no llevar niños, ya que no habrá
-      amenidades para ellos.
+    title: Evento pensado para adultos
+    text: La boda no ofrecerá amenidades para menores pero entendemos que algunos de
+      vosotros querrá venir con sus peques..
   - title: Recinto histórico
     emoticon: 💒
     text: El ex convento es un recinto del siglo XVI, patrimonio de la Ciudad de
@@ -85,8 +85,8 @@ details:
     text: Tomaremos todas las medidas posibles para ofrecer una velada segura.
     emoticon: 👌
   - text: sin embargo, hay gente que nos ha preguntado por la "Mesa de Regalos", en
-      esta ocasión no tendremos, por lo que si es su deseo regalarnos algo, les
-      agradeceremos que sea efectivo en sobres.
+      esta ocasión no tendremos, por lo que si es su deseo regalarnos algo
+      puedes contactar cons nosotros directamente.
     title: Su presencia es nuestro mayor regalo…
     emoticon: 🎁
 paragraph: >
