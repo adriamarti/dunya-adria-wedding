@@ -70,8 +70,8 @@ details:
       completo. Mujeres con vestido largo. "
   - emoticon: 🧒🏻
     title: Evento pensado para adultos
-    text: La boda no ofrecerá amenidades para menores pero entendemos que algunos de
-      vosotros querrá venir con sus peques.
+    text: No habrán amenidades para niños pero entendemos que algunos de ustedes
+      puedan venir con sus peques.
   - title: Recinto histórico
     emoticon: 💒
     text: El ex convento es un recinto del siglo XVI, patrimonio de la Ciudad de
