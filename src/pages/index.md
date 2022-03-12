@@ -84,10 +84,10 @@ details:
   - title: Medidas anti-COVID
     text: Tomaremos todas las medidas posibles para ofrecer una velada segura.
     emoticon: 👌
-  - text: sin embargo, hay gente que nos ha preguntado por la "Mesa de Regalos", en
-      esta ocasión no tendremos, por lo que si es su deseo regalarnos algo
-      puedes contactar cons nosotros directamente.
-    title: Su presencia es nuestro mayor regalo…
+  - text: Sin embargo, si es su deseo hacernos un regalo, nos pueden contactar
+      directamente; o bien, tendremos una urna para sobres en la entrada de la
+      recepción.
+    title: Su presencia es nuestro regalo
     emoticon: 🎁
 paragraph: >
   Nos encantaría contar con tu presencia en el día más importante de nuestras
