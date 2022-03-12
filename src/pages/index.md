@@ -84,9 +84,9 @@ details:
   - title: Medidas anti-COVID
     text: Tomaremos todas las medidas posibles para ofrecer una velada segura.
     emoticon: 👌
-  - text: Sin embargo, si es su deseo hacernos un regalo, nos pueden contactar
-      directamente; o bien, tendremos una urna para sobres en la entrada de la
-      recepción.
+  - text: Sin embargo, si es su deseo hacernos un regalo adicional, nos pueden
+      contactar directamente; o bien, tendremos una urna para sobres en la
+      entrada de la recepción.
     title: Su presencia es nuestro regalo
     emoticon: 🎁
 paragraph: >
