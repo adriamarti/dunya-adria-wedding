@@ -70,7 +70,7 @@ details:
       completo. Mujeres con vestido largo. "
   - emoticon: 🧒🏻
     title: Evento pensado para adultos
-    text: No habrán amenidades para niños pero entendemos que algunos de ustedes
+    text: No habrá amenidades para niños pero entendemos que algunos de ustedes
       puedan venir con sus peques.
   - title: Recinto histórico
     emoticon: 💒
