@@ -7,8 +7,8 @@ content: >-
   ¡Hola! Sabemos que la mayoría de nuestros invitados no viven en Ciudad de
   México, así que decidimos presentarles algunas propuestas, que consideramos,
   son bastante buenas en relación precio, calidad y ubicación, teniendo en
-  cuenta que las mejores colonias para poder estar más cerca de la misa,
-  son:  Colonia Roma Norte, Centro Histórico y Colonia Condesa.
+  cuenta que las mejores colonias para poder estar más cerca de la misa, son
+  Colonia Roma Norte y Colonia Condesa.
 
 
   Hoteles recomendados:
