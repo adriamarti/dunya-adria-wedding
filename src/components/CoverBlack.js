@@ -6,7 +6,7 @@ import { Box, Container, Grid, Stack, Typography } from '@mui/material';
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
 
 import Markdown from './Markdown';
-import Confirmation from './Confirmation';
+// import Confirmation from './Confirmation';
 import Data from './Data';
 import Logo from '../img/logo-bg.svg';
 import DyA from '../img/dunya-adria.png';
@@ -114,14 +114,25 @@ const Cover = ({ title, intro, when, where, confirmButton, note }) => (
               <Data label={where.name} value={where.value} color='#ffffff' />
             </Stack>
             <Box
-              textAlign='center'
               width='100%'
               sx={{
                 position: 'relative',
                 bottom: { xs: '20px', md: '-20px' },
               }}
             >
-              <Confirmation button={confirmButton} />
+              <Typography
+                variant='body1'
+                sx={{
+                  color: '#e27c6e',
+                  textAlign: {
+                    xs: 'center',
+                    md: 'left',
+                  },
+                }}
+              >
+                Gracias por haber confirmado tu asistencia. ¡Nos vemos allí!
+              </Typography>
+              {/* <Confirmation button={confirmButton} /> */}
             </Box>
             <Stack
               spacing={2}
